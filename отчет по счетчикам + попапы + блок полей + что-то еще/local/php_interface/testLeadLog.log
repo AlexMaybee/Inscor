@@ -1,0 +1,112 @@
+Array
+(
+    [TITLE] => 1111111111111111111
+    [NAME] => ИИИИИИИИИИИ
+    [LAST_NAME] => ФФФФФФФФФ
+    [COMPANY_TITLE] => НКНКНКНКНКНКНКНКНК
+    [STATUS_ID] => NEW
+    [POST] => ДДДДДДДД
+    [ASSIGNED_BY_ID] => 11
+    [UF_CRM_1508326827] => 210
+    [UF_CRM_1512056900] => 
+    [UF_CRM_1533200209] => 11111111111
+    [UF_CRM_1533200234] => sdfsdfsdfsdfsdf
+    [UF_CRM_1533213299] => CALL
+    [FM] => Array
+        (
+            [PHONE] => Array
+                (
+                    [n0] => Array
+                        (
+                            [VALUE] => 4444444444444444444
+                            [VALUE_TYPE] => WORK
+                        )
+
+                )
+
+            [EMAIL] => Array
+                (
+                    [n0] => Array
+                        (
+                            [VALUE] => eeee@mail.ru
+                            [VALUE_TYPE] => WORK
+                        )
+
+                )
+
+        )
+
+    [SOURCE_ID] => CALL
+    [OPENED] => Y
+    [CURRENCY_ID] => UAH
+    [EXCH_RATE] => 1
+    [~DATE_CREATE] => now()
+    [~DATE_MODIFY] => now()
+    [CREATED_BY_ID] => 11
+    [MODIFY_BY_ID] => 11
+    [OPPORTUNITY] => 0
+    [BIRTHDAY_SORT] => 1024
+    [STATUS_SEMANTIC_ID] => P
+    [ACCOUNT_CURRENCY_ID] => UAH
+    [OPPORTUNITY_ACCOUNT] => 0
+    [FULL_NAME] => ИИИИИИИИИИИ ФФФФФФФФФ
+    [HAS_IMOL] => N
+    [HAS_PHONE] => Y
+    [HAS_EMAIL] => Y
+)
+Array
+(
+    [TITLE] => new lead
+    [NAME] => NNNNNNNNNN
+    [LAST_NAME] => FFFFFF
+    [COMPANY_TITLE] => COMP NAME
+    [STATUS_ID] => NEW
+    [POST] => POSTTTTTTTTTTTT
+    [ASSIGNED_BY_ID] => 11
+    [UF_CRM_1508326827] => 210
+    [UF_CRM_1512056900] => 
+    [UF_CRM_1533200209] => 22222222222
+    [UF_CRM_1533200234] => asdasdasdasdasd
+    [UF_CRM_1533213299] => CALL
+    [FM] => Array
+        (
+            [PHONE] => Array
+                (
+                    [n0] => Array
+                        (
+                            [VALUE] => 
+                            [VALUE_TYPE] => WORK
+                        )
+
+                )
+
+            [EMAIL] => Array
+                (
+                    [n0] => Array
+                        (
+                            [VALUE] => 
+                            [VALUE_TYPE] => WORK
+                        )
+
+                )
+
+        )
+
+    [SOURCE_ID] => CALL
+    [OPENED] => Y
+    [CURRENCY_ID] => UAH
+    [EXCH_RATE] => 1
+    [~DATE_CREATE] => now()
+    [~DATE_MODIFY] => now()
+    [CREATED_BY_ID] => 11
+    [MODIFY_BY_ID] => 11
+    [OPPORTUNITY] => 0
+    [BIRTHDAY_SORT] => 1024
+    [STATUS_SEMANTIC_ID] => P
+    [ACCOUNT_CURRENCY_ID] => UAH
+    [OPPORTUNITY_ACCOUNT] => 0
+    [FULL_NAME] => NNNNNNNNNN FFFFFF
+    [HAS_IMOL] => N
+    [HAS_PHONE] => N
+    [HAS_EMAIL] => N
+)

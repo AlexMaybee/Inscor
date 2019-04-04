@@ -1,0 +1,8165 @@
+Array
+(
+    [STAGE_ID] => 2
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 11
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [ID] => 35
+)
+Array
+(
+    [ID] => 35
+    [~ID] => 35
+    [STAGE_ID] => NEW
+    [~STAGE_ID] => NEW
+    [UF_CRM_1532614252] => 1
+    [~UF_CRM_1532614252] => 1
+    [UF_CRM_1532614341] => 
+    [~UF_CRM_1532614341] => 
+    [UF_CRM_1532615106] => 
+    [~UF_CRM_1532615106] => 
+    [UF_CRM_1532615151] => 
+    [~UF_CRM_1532615151] => 
+    [UF_CRM_1532615192] => 
+    [~UF_CRM_1532615192] => 
+    [UF_CRM_1532615220] => 
+    [~UF_CRM_1532615220] => 
+    [UF_CRM_1532615266] => 
+    [~UF_CRM_1532615266] => 
+    [UF_CRM_1532615453] => 
+    [~UF_CRM_1532615453] => 
+    [UF_CRM_1532615500] => 
+    [~UF_CRM_1532615500] => 
+    [UF_CRM_1532616726] => 
+    [~UF_CRM_1532616726] => 
+    [UF_CRM_1532616763] => 
+    [~UF_CRM_1532616763] => 
+)
+Array
+(
+    [STAGE_ID] => PREPARATION
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 11
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [ID] => 35
+)
+Array
+(
+    [ID] => 35
+    [~ID] => 35
+    [STAGE_ID] => 2
+    [~STAGE_ID] => 2
+    [UF_CRM_1532614252] => 1
+    [~UF_CRM_1532614252] => 1
+    [UF_CRM_1532614341] => 
+    [~UF_CRM_1532614341] => 
+    [UF_CRM_1532615106] => 
+    [~UF_CRM_1532615106] => 
+    [UF_CRM_1532615151] => 
+    [~UF_CRM_1532615151] => 
+    [UF_CRM_1532615192] => 
+    [~UF_CRM_1532615192] => 
+    [UF_CRM_1532615220] => 
+    [~UF_CRM_1532615220] => 
+    [UF_CRM_1532615266] => 
+    [~UF_CRM_1532615266] => 
+    [UF_CRM_1532615453] => 
+    [~UF_CRM_1532615453] => 
+    [UF_CRM_1532615500] => 
+    [~UF_CRM_1532615500] => 
+    [UF_CRM_1532616726] => 
+    [~UF_CRM_1532616726] => 
+    [UF_CRM_1532616763] => 
+    [~UF_CRM_1532616763] => 
+)
+Array
+(
+    [STAGE_ID] => PREPAYMENT_INVOICE
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 11
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [ID] => 35
+)
+Array
+(
+    [ID] => 35
+    [~ID] => 35
+    [STAGE_ID] => PREPARATION
+    [~STAGE_ID] => PREPARATION
+    [UF_CRM_1532614252] => 1
+    [~UF_CRM_1532614252] => 1
+    [UF_CRM_1532614341] => 
+    [~UF_CRM_1532614341] => 
+    [UF_CRM_1532615106] => 
+    [~UF_CRM_1532615106] => 
+    [UF_CRM_1532615151] => 
+    [~UF_CRM_1532615151] => 
+    [UF_CRM_1532615192] => 
+    [~UF_CRM_1532615192] => 
+    [UF_CRM_1532615220] => 
+    [~UF_CRM_1532615220] => 
+    [UF_CRM_1532615266] => 
+    [~UF_CRM_1532615266] => 
+    [UF_CRM_1532615453] => 
+    [~UF_CRM_1532615453] => 
+    [UF_CRM_1532615500] => 
+    [~UF_CRM_1532615500] => 
+    [UF_CRM_1532616726] => 
+    [~UF_CRM_1532616726] => 
+    [UF_CRM_1532616763] => 
+    [~UF_CRM_1532616763] => 
+)
+Array
+(
+    [STAGE_ID] => PREPAYMENT_INVOICE
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 11
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [ID] => 35
+)
+Array
+(
+    [ID] => 35
+    [~ID] => 35
+    [STAGE_ID] => PREPARATION
+    [~STAGE_ID] => PREPARATION
+    [UF_CRM_1532614252] => 1
+    [~UF_CRM_1532614252] => 1
+    [UF_CRM_1532614341] => 
+    [~UF_CRM_1532614341] => 
+    [UF_CRM_1532615106] => 
+    [~UF_CRM_1532615106] => 
+    [UF_CRM_1532615151] => 
+    [~UF_CRM_1532615151] => 
+    [UF_CRM_1532615192] => 
+    [~UF_CRM_1532615192] => 
+    [UF_CRM_1532615220] => 
+    [~UF_CRM_1532615220] => 
+    [UF_CRM_1532615266] => 
+    [~UF_CRM_1532615266] => 
+    [UF_CRM_1532615453] => 
+    [~UF_CRM_1532615453] => 
+    [UF_CRM_1532615500] => 
+    [~UF_CRM_1532615500] => 
+    [UF_CRM_1532616726] => 
+    [~UF_CRM_1532616726] => 
+    [UF_CRM_1532616763] => 
+    [~UF_CRM_1532616763] => 
+)
+Array
+(
+    [STAGE_ID] => PREPAYMENT_INVOICE
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 11
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [ID] => 35
+)
+Array
+(
+    [ID] => 35
+    [~ID] => 35
+    [STAGE_ID] => PREPARATION
+    [~STAGE_ID] => PREPARATION
+    [UF_CRM_1532614252] => 1
+    [~UF_CRM_1532614252] => 1
+    [UF_CRM_1532614341] => 
+    [~UF_CRM_1532614341] => 
+    [UF_CRM_1532615106] => 
+    [~UF_CRM_1532615106] => 
+    [UF_CRM_1532615151] => 
+    [~UF_CRM_1532615151] => 
+    [UF_CRM_1532615192] => 
+    [~UF_CRM_1532615192] => 
+    [UF_CRM_1532615220] => 
+    [~UF_CRM_1532615220] => 
+    [UF_CRM_1532615266] => 
+    [~UF_CRM_1532615266] => 
+    [UF_CRM_1532615453] => 
+    [~UF_CRM_1532615453] => 
+    [UF_CRM_1532615500] => 
+    [~UF_CRM_1532615500] => 
+    [UF_CRM_1532616726] => 
+    [~UF_CRM_1532616726] => 
+    [UF_CRM_1532616763] => 
+    [~UF_CRM_1532616763] => 
+)
+Array
+(
+    [STAGE_ID] => PREPAYMENT_INVOICE
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 11
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [ID] => 35
+)
+Array
+(
+    [ID] => 35
+    [~ID] => 35
+    [STAGE_ID] => PREPARATION
+    [~STAGE_ID] => PREPARATION
+    [UF_CRM_1532614252] => 1
+    [~UF_CRM_1532614252] => 1
+    [UF_CRM_1532614341] => 
+    [~UF_CRM_1532614341] => 
+    [UF_CRM_1532615106] => 
+    [~UF_CRM_1532615106] => 
+    [UF_CRM_1532615151] => 
+    [~UF_CRM_1532615151] => 
+    [UF_CRM_1532615192] => 
+    [~UF_CRM_1532615192] => 
+    [UF_CRM_1532615220] => 
+    [~UF_CRM_1532615220] => 
+    [UF_CRM_1532615266] => 
+    [~UF_CRM_1532615266] => 
+    [UF_CRM_1532615453] => 
+    [~UF_CRM_1532615453] => 
+    [UF_CRM_1532615500] => 
+    [~UF_CRM_1532615500] => 
+    [UF_CRM_1532616726] => 
+    [~UF_CRM_1532616726] => 
+    [UF_CRM_1532616763] => 
+    [~UF_CRM_1532616763] => 
+)
+Array
+(
+    [ASSIGNED_BY_ID] => 11
+    [UF_CRM_1532615106] => 234
+    [UF_CRM_1532615151] => 30.07.2018
+    [UF_CRM_1532615192] => 334
+    [UF_CRM_1532615220] => 23423
+    [UF_CRM_1532615266] => 324
+    [UF_CRM_1532615453] => 30.07.2018
+    [UF_CRM_1532615500] => 234
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 11
+    [ID] => 35
+)
+Array
+(
+    [ID] => 35
+    [~ID] => 35
+    [STAGE_ID] => PREPARATION
+    [~STAGE_ID] => PREPARATION
+    [UF_CRM_1532614252] => 1
+    [~UF_CRM_1532614252] => 1
+    [UF_CRM_1532614341] => 
+    [~UF_CRM_1532614341] => 
+    [UF_CRM_1532615106] => 
+    [~UF_CRM_1532615106] => 
+    [UF_CRM_1532615151] => 
+    [~UF_CRM_1532615151] => 
+    [UF_CRM_1532615192] => 
+    [~UF_CRM_1532615192] => 
+    [UF_CRM_1532615220] => 
+    [~UF_CRM_1532615220] => 
+    [UF_CRM_1532615266] => 
+    [~UF_CRM_1532615266] => 
+    [UF_CRM_1532615453] => 
+    [~UF_CRM_1532615453] => 
+    [UF_CRM_1532615500] => 
+    [~UF_CRM_1532615500] => 
+    [UF_CRM_1532616726] => 
+    [~UF_CRM_1532616726] => 
+    [UF_CRM_1532616763] => 
+    [~UF_CRM_1532616763] => 
+)
+Array
+(
+    [STAGE_ID] => PREPAYMENT_INVOICE
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 11
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [ID] => 35
+)
+Array
+(
+    [ID] => 35
+    [~ID] => 35
+    [STAGE_ID] => PREPARATION
+    [~STAGE_ID] => PREPARATION
+    [UF_CRM_1532614252] => 1
+    [~UF_CRM_1532614252] => 1
+    [UF_CRM_1532614341] => 
+    [~UF_CRM_1532614341] => 
+    [UF_CRM_1532615106] => 234
+    [~UF_CRM_1532615106] => 234
+    [UF_CRM_1532615151] => 30.07.2018
+    [~UF_CRM_1532615151] => 30.07.2018
+    [UF_CRM_1532615192] => 334
+    [~UF_CRM_1532615192] => 334
+    [UF_CRM_1532615220] => 23423
+    [~UF_CRM_1532615220] => 23423
+    [UF_CRM_1532615266] => 324
+    [~UF_CRM_1532615266] => 324
+    [UF_CRM_1532615453] => 30.07.2018
+    [~UF_CRM_1532615453] => 30.07.2018
+    [UF_CRM_1532615500] => 234
+    [~UF_CRM_1532615500] => 234
+    [UF_CRM_1532616726] => 
+    [~UF_CRM_1532616726] => 
+    [UF_CRM_1532616763] => 
+    [~UF_CRM_1532616763] => 
+)
+Array
+(
+    [STAGE_ID] => WON
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 11
+    [STAGE_SEMANTIC_ID] => S
+    [IS_NEW] => N
+    [ID] => 35
+)
+Array
+(
+    [ID] => 35
+    [~ID] => 35
+    [STAGE_ID] => PREPAYMENT_INVOICE
+    [~STAGE_ID] => PREPAYMENT_INVOICE
+    [UF_CRM_1532614252] => 1
+    [~UF_CRM_1532614252] => 1
+    [UF_CRM_1532614341] => 
+    [~UF_CRM_1532614341] => 
+    [UF_CRM_1532615106] => 234
+    [~UF_CRM_1532615106] => 234
+    [UF_CRM_1532615151] => 30.07.2018
+    [~UF_CRM_1532615151] => 30.07.2018
+    [UF_CRM_1532615192] => 334
+    [~UF_CRM_1532615192] => 334
+    [UF_CRM_1532615220] => 23423
+    [~UF_CRM_1532615220] => 23423
+    [UF_CRM_1532615266] => 324
+    [~UF_CRM_1532615266] => 324
+    [UF_CRM_1532615453] => 30.07.2018
+    [~UF_CRM_1532615453] => 30.07.2018
+    [UF_CRM_1532615500] => 234
+    [~UF_CRM_1532615500] => 234
+    [UF_CRM_1532616726] => 
+    [~UF_CRM_1532616726] => 
+    [UF_CRM_1532616763] => 
+    [~UF_CRM_1532616763] => 
+)
+Array
+(
+    [STAGE_ID] => NEW
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 11
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => Y
+    [ID] => 35
+)
+Array
+(
+    [ID] => 35
+    [~ID] => 35
+    [STAGE_ID] => PREPAYMENT_INVOICE
+    [~STAGE_ID] => PREPAYMENT_INVOICE
+    [UF_CRM_1532614252] => 1
+    [~UF_CRM_1532614252] => 1
+    [UF_CRM_1532614341] => 
+    [~UF_CRM_1532614341] => 
+    [UF_CRM_1532615106] => 234
+    [~UF_CRM_1532615106] => 234
+    [UF_CRM_1532615151] => 30.07.2018
+    [~UF_CRM_1532615151] => 30.07.2018
+    [UF_CRM_1532615192] => 334
+    [~UF_CRM_1532615192] => 334
+    [UF_CRM_1532615220] => 23423
+    [~UF_CRM_1532615220] => 23423
+    [UF_CRM_1532615266] => 324
+    [~UF_CRM_1532615266] => 324
+    [UF_CRM_1532615453] => 30.07.2018
+    [~UF_CRM_1532615453] => 30.07.2018
+    [UF_CRM_1532615500] => 234
+    [~UF_CRM_1532615500] => 234
+    [UF_CRM_1532616726] => 
+    [~UF_CRM_1532616726] => 
+    [UF_CRM_1532616763] => 
+    [~UF_CRM_1532616763] => 
+)
+Array
+(
+    [TITLE] => Тестовая сделка 2 
+    [STAGE_ID] => 2
+    [CURRENCY_ID] => UAH
+    [OPPORTUNITY] => 0
+    [CLOSEDATE] => 05.08.2018
+    [ASSIGNED_BY_ID] => 11
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 
+            [1] => 164
+        )
+
+    [UF_CRM_59EE4DC739368] => 1774
+    [UF_CRM_5A255307F0681] => 1
+    [UF_CRM_1532613154155] => Array
+        (
+            [0] => http://insurancecompany.freeabc.net/crm/deal/details/0/?category_id=0
+        )
+
+    [UF_CRM_1532613305575] => Array
+        (
+            [0] => 24114512
+        )
+
+    [UF_CRM_1532613353697] => Array
+        (
+            [0] => 5125215
+        )
+
+    [UF_CRM_1532613531] => 1
+    [UF_CRM_1532614252] => 0
+    [UF_CRM_1532614341] => 
+    [UF_CRM_1532614475] => 40
+    [UF_CRM_1532614542] => 39
+    [UF_CRM_1532614584347] => 27.07.2018
+    [UF_CRM_1532614949319] => 19.07.2018
+    [UF_CRM_1532615006] => не заполнено2
+    [COMPANY_ID] => 28
+    [CONTACT_IDS] => Array
+        (
+            [0] => 38
+            [1] => 39
+            [2] => 40
+        )
+
+    [EXCH_RATE] => 1
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 11
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [ID] => 35
+)
+Array
+(
+    [ID] => 35
+    [~ID] => 35
+    [STAGE_ID] => NEW
+    [~STAGE_ID] => NEW
+    [UF_CRM_1532614252] => 1
+    [~UF_CRM_1532614252] => 1
+    [UF_CRM_1532614341] => 
+    [~UF_CRM_1532614341] => 
+    [UF_CRM_1532615106] => 234
+    [~UF_CRM_1532615106] => 234
+    [UF_CRM_1532615151] => 30.07.2018
+    [~UF_CRM_1532615151] => 30.07.2018
+    [UF_CRM_1532615192] => 334
+    [~UF_CRM_1532615192] => 334
+    [UF_CRM_1532615220] => 23423
+    [~UF_CRM_1532615220] => 23423
+    [UF_CRM_1532615266] => 324
+    [~UF_CRM_1532615266] => 324
+    [UF_CRM_1532615453] => 30.07.2018
+    [~UF_CRM_1532615453] => 30.07.2018
+    [UF_CRM_1532615500] => 234
+    [~UF_CRM_1532615500] => 234
+    [UF_CRM_1532616726] => 
+    [~UF_CRM_1532616726] => 
+    [UF_CRM_1532616763] => 
+    [~UF_CRM_1532616763] => 
+)
+Array
+(
+    [TITLE] => Тестовая сделка 2 
+    [STAGE_ID] => NEW
+    [CURRENCY_ID] => UAH
+    [OPPORTUNITY] => 0
+    [CLOSEDATE] => 05.08.2018
+    [ASSIGNED_BY_ID] => 11
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 
+            [1] => 164
+        )
+
+    [UF_CRM_59EE4DC739368] => 1774
+    [UF_CRM_5A255307F0681] => 1
+    [UF_CRM_1532613154155] => Array
+        (
+            [0] => http://insurancecompany.freeabc.net/crm/deal/details/0/?category_id=0
+        )
+
+    [UF_CRM_1532613305575] => Array
+        (
+            [0] => 24114512
+        )
+
+    [UF_CRM_1532613353697] => Array
+        (
+            [0] => 5125215
+        )
+
+    [UF_CRM_1532613531] => 1
+    [UF_CRM_1532614252] => 1
+    [UF_CRM_1532614341] => 4748
+    [UF_CRM_1532614475] => 40
+    [UF_CRM_1532614542] => 39
+    [UF_CRM_1532614584347] => 27.07.2018
+    [UF_CRM_1532614949319] => 19.07.2018
+    [UF_CRM_1532615006] => не заполнено2
+    [COMPANY_ID] => 28
+    [CONTACT_IDS] => Array
+        (
+            [0] => 38
+            [1] => 39
+            [2] => 40
+        )
+
+    [EXCH_RATE] => 1
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 11
+    [ID] => 35
+)
+Array
+(
+    [ID] => 35
+    [~ID] => 35
+    [STAGE_ID] => NEW
+    [~STAGE_ID] => NEW
+    [UF_CRM_1532614252] => 1
+    [~UF_CRM_1532614252] => 1
+    [UF_CRM_1532614341] => 
+    [~UF_CRM_1532614341] => 
+    [UF_CRM_1532615106] => 234
+    [~UF_CRM_1532615106] => 234
+    [UF_CRM_1532615151] => 30.07.2018
+    [~UF_CRM_1532615151] => 30.07.2018
+    [UF_CRM_1532615192] => 334
+    [~UF_CRM_1532615192] => 334
+    [UF_CRM_1532615220] => 23423
+    [~UF_CRM_1532615220] => 23423
+    [UF_CRM_1532615266] => 324
+    [~UF_CRM_1532615266] => 324
+    [UF_CRM_1532615453] => 30.07.2018
+    [~UF_CRM_1532615453] => 30.07.2018
+    [UF_CRM_1532615500] => 234
+    [~UF_CRM_1532615500] => 234
+    [UF_CRM_1532616726] => 
+    [~UF_CRM_1532616726] => 
+    [UF_CRM_1532616763] => 
+    [~UF_CRM_1532616763] => 
+)
+Array
+(
+    [TITLE] => Тестовая сделка 2 
+    [STAGE_ID] => 2
+    [CURRENCY_ID] => UAH
+    [OPPORTUNITY] => 0
+    [CLOSEDATE] => 05.08.2018
+    [ASSIGNED_BY_ID] => 11
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 
+            [1] => 164
+        )
+
+    [UF_CRM_59EE4DC739368] => 1774
+    [UF_CRM_5A255307F0681] => 1
+    [COMPANY_ID] => 28
+    [CONTACT_IDS] => Array
+        (
+            [0] => 38
+            [1] => 39
+            [2] => 40
+        )
+
+    [EXCH_RATE] => 1
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 11
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [ID] => 35
+)
+Array
+(
+    [ID] => 35
+    [~ID] => 35
+    [STAGE_ID] => NEW
+    [~STAGE_ID] => NEW
+    [UF_CRM_1532614252] => 1
+    [~UF_CRM_1532614252] => 1
+    [UF_CRM_1532614341] => 4748
+    [~UF_CRM_1532614341] => 4748
+    [UF_CRM_1532615106] => 234
+    [~UF_CRM_1532615106] => 234
+    [UF_CRM_1532615151] => 30.07.2018
+    [~UF_CRM_1532615151] => 30.07.2018
+    [UF_CRM_1532615192] => 334
+    [~UF_CRM_1532615192] => 334
+    [UF_CRM_1532615220] => 23423
+    [~UF_CRM_1532615220] => 23423
+    [UF_CRM_1532615266] => 324
+    [~UF_CRM_1532615266] => 324
+    [UF_CRM_1532615453] => 30.07.2018
+    [~UF_CRM_1532615453] => 30.07.2018
+    [UF_CRM_1532615500] => 234
+    [~UF_CRM_1532615500] => 234
+    [UF_CRM_1532616726] => 
+    [~UF_CRM_1532616726] => 
+    [UF_CRM_1532616763] => 
+    [~UF_CRM_1532616763] => 
+)
+Array
+(
+    [STAGE_ID] => PREPARATION
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 11
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [ID] => 35
+)
+Array
+(
+    [ID] => 35
+    [~ID] => 35
+    [STAGE_ID] => 2
+    [~STAGE_ID] => 2
+    [UF_CRM_1532614252] => 1
+    [~UF_CRM_1532614252] => 1
+    [UF_CRM_1532614341] => 4748
+    [~UF_CRM_1532614341] => 4748
+    [UF_CRM_1532615106] => 234
+    [~UF_CRM_1532615106] => 234
+    [UF_CRM_1532615151] => 30.07.2018
+    [~UF_CRM_1532615151] => 30.07.2018
+    [UF_CRM_1532615192] => 334
+    [~UF_CRM_1532615192] => 334
+    [UF_CRM_1532615220] => 23423
+    [~UF_CRM_1532615220] => 23423
+    [UF_CRM_1532615266] => 324
+    [~UF_CRM_1532615266] => 324
+    [UF_CRM_1532615453] => 30.07.2018
+    [~UF_CRM_1532615453] => 30.07.2018
+    [UF_CRM_1532615500] => 234
+    [~UF_CRM_1532615500] => 234
+    [UF_CRM_1532616726] => 
+    [~UF_CRM_1532616726] => 
+    [UF_CRM_1532616763] => 
+    [~UF_CRM_1532616763] => 
+)
+Array
+(
+    [STAGE_ID] => PREPAYMENT_INVOICE
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 11
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [ID] => 35
+)
+Array
+(
+    [ID] => 35
+    [~ID] => 35
+    [STAGE_ID] => PREPARATION
+    [~STAGE_ID] => PREPARATION
+    [UF_CRM_1532614252] => 1
+    [~UF_CRM_1532614252] => 1
+    [UF_CRM_1532614341] => 4748
+    [~UF_CRM_1532614341] => 4748
+    [UF_CRM_1532615106] => 234
+    [~UF_CRM_1532615106] => 234
+    [UF_CRM_1532615151] => 30.07.2018
+    [~UF_CRM_1532615151] => 30.07.2018
+    [UF_CRM_1532615192] => 334
+    [~UF_CRM_1532615192] => 334
+    [UF_CRM_1532615220] => 23423
+    [~UF_CRM_1532615220] => 23423
+    [UF_CRM_1532615266] => 324
+    [~UF_CRM_1532615266] => 324
+    [UF_CRM_1532615453] => 30.07.2018
+    [~UF_CRM_1532615453] => 30.07.2018
+    [UF_CRM_1532615500] => 234
+    [~UF_CRM_1532615500] => 234
+    [UF_CRM_1532616726] => 
+    [~UF_CRM_1532616726] => 
+    [UF_CRM_1532616763] => 
+    [~UF_CRM_1532616763] => 
+)
+Array
+(
+    [STAGE_ID] => 2
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 11
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [ID] => 35
+)
+Array
+(
+    [ID] => 35
+    [~ID] => 35
+    [STAGE_ID] => PREPAYMENT_INVOICE
+    [~STAGE_ID] => PREPAYMENT_INVOICE
+    [UF_CRM_1532614252] => 1
+    [~UF_CRM_1532614252] => 1
+    [UF_CRM_1532614341] => 4748
+    [~UF_CRM_1532614341] => 4748
+    [UF_CRM_1532615106] => 234
+    [~UF_CRM_1532615106] => 234
+    [UF_CRM_1532615151] => 30.07.2018
+    [~UF_CRM_1532615151] => 30.07.2018
+    [UF_CRM_1532615192] => 334
+    [~UF_CRM_1532615192] => 334
+    [UF_CRM_1532615220] => 23423
+    [~UF_CRM_1532615220] => 23423
+    [UF_CRM_1532615266] => 324
+    [~UF_CRM_1532615266] => 324
+    [UF_CRM_1532615453] => 30.07.2018
+    [~UF_CRM_1532615453] => 30.07.2018
+    [UF_CRM_1532615500] => 234
+    [~UF_CRM_1532615500] => 234
+    [UF_CRM_1532616726] => 
+    [~UF_CRM_1532616726] => 
+    [UF_CRM_1532616763] => 
+    [~UF_CRM_1532616763] => 
+)
+Array
+(
+    [TITLE] => Тестовая сделка 2 
+    [STAGE_ID] => 2
+    [CURRENCY_ID] => UAH
+    [OPPORTUNITY] => 0
+    [CLOSEDATE] => 05.08.2018
+    [ASSIGNED_BY_ID] => 11
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 
+            [1] => 164
+        )
+
+    [UF_CRM_59EE4DC739368] => 1774
+    [UF_CRM_5A255307F0681] => 1
+    [UF_CRM_1532615192] => 334
+    [UF_CRM_1532615220] => 
+    [COMPANY_ID] => 28
+    [CONTACT_IDS] => Array
+        (
+            [0] => 38
+            [1] => 39
+            [2] => 40
+        )
+
+    [EXCH_RATE] => 1
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 11
+    [ID] => 35
+)
+Array
+(
+    [ID] => 35
+    [~ID] => 35
+    [STAGE_ID] => 2
+    [~STAGE_ID] => 2
+    [UF_CRM_1532614252] => 1
+    [~UF_CRM_1532614252] => 1
+    [UF_CRM_1532614341] => 4748
+    [~UF_CRM_1532614341] => 4748
+    [UF_CRM_1532615106] => 234
+    [~UF_CRM_1532615106] => 234
+    [UF_CRM_1532615151] => 30.07.2018
+    [~UF_CRM_1532615151] => 30.07.2018
+    [UF_CRM_1532615192] => 334
+    [~UF_CRM_1532615192] => 334
+    [UF_CRM_1532615220] => 23423
+    [~UF_CRM_1532615220] => 23423
+    [UF_CRM_1532615266] => 324
+    [~UF_CRM_1532615266] => 324
+    [UF_CRM_1532615453] => 30.07.2018
+    [~UF_CRM_1532615453] => 30.07.2018
+    [UF_CRM_1532615500] => 234
+    [~UF_CRM_1532615500] => 234
+    [UF_CRM_1532616726] => 
+    [~UF_CRM_1532616726] => 
+    [UF_CRM_1532616763] => 
+    [~UF_CRM_1532616763] => 
+)
+Array
+(
+    [TITLE] => Тестовая сделка 2 
+    [STAGE_ID] => PREPARATION
+    [CURRENCY_ID] => UAH
+    [OPPORTUNITY] => 0
+    [CLOSEDATE] => 05.08.2018
+    [ASSIGNED_BY_ID] => 11
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 
+            [1] => 164
+        )
+
+    [UF_CRM_59EE4DC739368] => 1774
+    [UF_CRM_5A255307F0681] => 1
+    [COMPANY_ID] => 28
+    [CONTACT_IDS] => Array
+        (
+            [0] => 38
+            [1] => 39
+            [2] => 40
+        )
+
+    [EXCH_RATE] => 1
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 11
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [ID] => 35
+)
+Array
+(
+    [ID] => 35
+    [~ID] => 35
+    [STAGE_ID] => 2
+    [~STAGE_ID] => 2
+    [UF_CRM_1532614252] => 1
+    [~UF_CRM_1532614252] => 1
+    [UF_CRM_1532614341] => 4748
+    [~UF_CRM_1532614341] => 4748
+    [UF_CRM_1532615106] => 234
+    [~UF_CRM_1532615106] => 234
+    [UF_CRM_1532615151] => 30.07.2018
+    [~UF_CRM_1532615151] => 30.07.2018
+    [UF_CRM_1532615192] => 334
+    [~UF_CRM_1532615192] => 334
+    [UF_CRM_1532615220] => 
+    [~UF_CRM_1532615220] => 
+    [UF_CRM_1532615266] => 324
+    [~UF_CRM_1532615266] => 324
+    [UF_CRM_1532615453] => 30.07.2018
+    [~UF_CRM_1532615453] => 30.07.2018
+    [UF_CRM_1532615500] => 234
+    [~UF_CRM_1532615500] => 234
+    [UF_CRM_1532616726] => 
+    [~UF_CRM_1532616726] => 
+    [UF_CRM_1532616763] => 
+    [~UF_CRM_1532616763] => 
+)
+Array
+(
+    [TITLE] => Тестовая сделка 2 
+    [STAGE_ID] => PREPAYMENT_INVOICE
+    [CURRENCY_ID] => UAH
+    [OPPORTUNITY] => 0
+    [CLOSEDATE] => 05.08.2018
+    [ASSIGNED_BY_ID] => 11
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 
+            [1] => 164
+        )
+
+    [UF_CRM_59EE4DC739368] => 1774
+    [UF_CRM_5A255307F0681] => 1
+    [COMPANY_ID] => 28
+    [CONTACT_IDS] => Array
+        (
+            [0] => 38
+            [1] => 39
+            [2] => 40
+        )
+
+    [EXCH_RATE] => 1
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 11
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [ID] => 35
+)
+Array
+(
+    [ID] => 35
+    [~ID] => 35
+    [STAGE_ID] => PREPARATION
+    [~STAGE_ID] => PREPARATION
+    [UF_CRM_1532614252] => 1
+    [~UF_CRM_1532614252] => 1
+    [UF_CRM_1532614341] => 4748
+    [~UF_CRM_1532614341] => 4748
+    [UF_CRM_1532615106] => 234
+    [~UF_CRM_1532615106] => 234
+    [UF_CRM_1532615151] => 30.07.2018
+    [~UF_CRM_1532615151] => 30.07.2018
+    [UF_CRM_1532615192] => 334
+    [~UF_CRM_1532615192] => 334
+    [UF_CRM_1532615220] => 
+    [~UF_CRM_1532615220] => 
+    [UF_CRM_1532615266] => 324
+    [~UF_CRM_1532615266] => 324
+    [UF_CRM_1532615453] => 30.07.2018
+    [~UF_CRM_1532615453] => 30.07.2018
+    [UF_CRM_1532615500] => 234
+    [~UF_CRM_1532615500] => 234
+    [UF_CRM_1532616726] => 
+    [~UF_CRM_1532616726] => 
+    [UF_CRM_1532616763] => 
+    [~UF_CRM_1532616763] => 
+)
+Array
+(
+    [TITLE] => Тестовая сделка 2 
+    [STAGE_ID] => PREPAYMENT_INVOICE
+    [CURRENCY_ID] => UAH
+    [OPPORTUNITY] => 0
+    [CLOSEDATE] => 05.08.2018
+    [ASSIGNED_BY_ID] => 11
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 
+            [1] => 164
+        )
+
+    [UF_CRM_59EE4DC739368] => 1774
+    [UF_CRM_5A255307F0681] => 1
+    [UF_CRM_1532615106] => 234
+    [UF_CRM_1532615151] => 30.07.2018
+    [UF_CRM_1532615192] => 334
+    [UF_CRM_1532615220] => 2222222222
+    [UF_CRM_1532615266] => 324
+    [UF_CRM_1532615453] => 30.07.2018
+    [UF_CRM_1532615500] => 234
+    [COMPANY_ID] => 28
+    [CONTACT_IDS] => Array
+        (
+            [0] => 38
+            [1] => 39
+            [2] => 40
+        )
+
+    [EXCH_RATE] => 1
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 11
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [ID] => 35
+)
+Array
+(
+    [ID] => 35
+    [~ID] => 35
+    [STAGE_ID] => PREPARATION
+    [~STAGE_ID] => PREPARATION
+    [UF_CRM_1532614252] => 1
+    [~UF_CRM_1532614252] => 1
+    [UF_CRM_1532614341] => 4748
+    [~UF_CRM_1532614341] => 4748
+    [UF_CRM_1532615106] => 234
+    [~UF_CRM_1532615106] => 234
+    [UF_CRM_1532615151] => 30.07.2018
+    [~UF_CRM_1532615151] => 30.07.2018
+    [UF_CRM_1532615192] => 334
+    [~UF_CRM_1532615192] => 334
+    [UF_CRM_1532615220] => 
+    [~UF_CRM_1532615220] => 
+    [UF_CRM_1532615266] => 324
+    [~UF_CRM_1532615266] => 324
+    [UF_CRM_1532615453] => 30.07.2018
+    [~UF_CRM_1532615453] => 30.07.2018
+    [UF_CRM_1532615500] => 234
+    [~UF_CRM_1532615500] => 234
+    [UF_CRM_1532616726] => 
+    [~UF_CRM_1532616726] => 
+    [UF_CRM_1532616763] => 
+    [~UF_CRM_1532616763] => 
+)
+Array
+(
+    [TITLE] => Тестовая сделка 2 
+    [STAGE_ID] => PREPARATION
+    [CURRENCY_ID] => UAH
+    [OPPORTUNITY] => 0
+    [CLOSEDATE] => 05.08.2018
+    [ASSIGNED_BY_ID] => 11
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 
+            [1] => 164
+        )
+
+    [UF_CRM_59EE4DC739368] => 1774
+    [UF_CRM_5A255307F0681] => 1
+    [UF_CRM_1532615106] => 234
+    [UF_CRM_1532615151] => 30.07.2018
+    [UF_CRM_1532615192] => 334
+    [UF_CRM_1532615220] => 2222222222
+    [UF_CRM_1532615266] => 324
+    [UF_CRM_1532615453] => 30.07.2018
+    [UF_CRM_1532615500] => 234
+    [COMPANY_ID] => 28
+    [CONTACT_IDS] => Array
+        (
+            [0] => 38
+            [1] => 39
+            [2] => 40
+        )
+
+    [EXCH_RATE] => 1
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 11
+    [ID] => 35
+)
+Array
+(
+    [ID] => 35
+    [~ID] => 35
+    [STAGE_ID] => PREPARATION
+    [~STAGE_ID] => PREPARATION
+    [UF_CRM_1532614252] => 1
+    [~UF_CRM_1532614252] => 1
+    [UF_CRM_1532614341] => 4748
+    [~UF_CRM_1532614341] => 4748
+    [UF_CRM_1532615106] => 234
+    [~UF_CRM_1532615106] => 234
+    [UF_CRM_1532615151] => 30.07.2018
+    [~UF_CRM_1532615151] => 30.07.2018
+    [UF_CRM_1532615192] => 334
+    [~UF_CRM_1532615192] => 334
+    [UF_CRM_1532615220] => 
+    [~UF_CRM_1532615220] => 
+    [UF_CRM_1532615266] => 324
+    [~UF_CRM_1532615266] => 324
+    [UF_CRM_1532615453] => 30.07.2018
+    [~UF_CRM_1532615453] => 30.07.2018
+    [UF_CRM_1532615500] => 234
+    [~UF_CRM_1532615500] => 234
+    [UF_CRM_1532616726] => 
+    [~UF_CRM_1532616726] => 
+    [UF_CRM_1532616763] => 
+    [~UF_CRM_1532616763] => 
+)
+Array
+(
+    [TITLE] => Тестовая сделка 2 
+    [STAGE_ID] => PREPAYMENT_INVOICE
+    [CURRENCY_ID] => UAH
+    [OPPORTUNITY] => 0
+    [CLOSEDATE] => 05.08.2018
+    [ASSIGNED_BY_ID] => 11
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 
+            [1] => 164
+        )
+
+    [UF_CRM_59EE4DC739368] => 1774
+    [UF_CRM_5A255307F0681] => 1
+    [COMPANY_ID] => 28
+    [CONTACT_IDS] => Array
+        (
+            [0] => 38
+            [1] => 39
+            [2] => 40
+        )
+
+    [EXCH_RATE] => 1
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 11
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [ID] => 35
+)
+Array
+(
+    [ID] => 35
+    [~ID] => 35
+    [STAGE_ID] => PREPARATION
+    [~STAGE_ID] => PREPARATION
+    [UF_CRM_1532614252] => 1
+    [~UF_CRM_1532614252] => 1
+    [UF_CRM_1532614341] => 4748
+    [~UF_CRM_1532614341] => 4748
+    [UF_CRM_1532615106] => 234
+    [~UF_CRM_1532615106] => 234
+    [UF_CRM_1532615151] => 30.07.2018
+    [~UF_CRM_1532615151] => 30.07.2018
+    [UF_CRM_1532615192] => 334
+    [~UF_CRM_1532615192] => 334
+    [UF_CRM_1532615220] => 2222222222
+    [~UF_CRM_1532615220] => 2222222222
+    [UF_CRM_1532615266] => 324
+    [~UF_CRM_1532615266] => 324
+    [UF_CRM_1532615453] => 30.07.2018
+    [~UF_CRM_1532615453] => 30.07.2018
+    [UF_CRM_1532615500] => 234
+    [~UF_CRM_1532615500] => 234
+    [UF_CRM_1532616726] => 
+    [~UF_CRM_1532616726] => 
+    [UF_CRM_1532616763] => 
+    [~UF_CRM_1532616763] => 
+)
+Array
+(
+    [TITLE] => Тестовая сделка 2 
+    [STAGE_ID] => LOSE
+    [CURRENCY_ID] => UAH
+    [OPPORTUNITY] => 0
+    [CLOSEDATE] => 05.08.2018
+    [ASSIGNED_BY_ID] => 11
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 
+            [1] => 164
+        )
+
+    [UF_CRM_59EE4DC739368] => 1774
+    [UF_CRM_5A255307F0681] => 1
+    [COMPANY_ID] => 28
+    [CONTACT_IDS] => Array
+        (
+            [0] => 38
+            [1] => 39
+            [2] => 40
+        )
+
+    [EXCH_RATE] => 1
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 11
+    [STAGE_SEMANTIC_ID] => F
+    [IS_NEW] => N
+    [ID] => 35
+)
+Array
+(
+    [ID] => 35
+    [~ID] => 35
+    [STAGE_ID] => PREPAYMENT_INVOICE
+    [~STAGE_ID] => PREPAYMENT_INVOICE
+    [UF_CRM_1532614252] => 1
+    [~UF_CRM_1532614252] => 1
+    [UF_CRM_1532614341] => 4748
+    [~UF_CRM_1532614341] => 4748
+    [UF_CRM_1532615106] => 234
+    [~UF_CRM_1532615106] => 234
+    [UF_CRM_1532615151] => 30.07.2018
+    [~UF_CRM_1532615151] => 30.07.2018
+    [UF_CRM_1532615192] => 334
+    [~UF_CRM_1532615192] => 334
+    [UF_CRM_1532615220] => 2222222222
+    [~UF_CRM_1532615220] => 2222222222
+    [UF_CRM_1532615266] => 324
+    [~UF_CRM_1532615266] => 324
+    [UF_CRM_1532615453] => 30.07.2018
+    [~UF_CRM_1532615453] => 30.07.2018
+    [UF_CRM_1532615500] => 234
+    [~UF_CRM_1532615500] => 234
+    [UF_CRM_1532616726] => 
+    [~UF_CRM_1532616726] => 
+    [UF_CRM_1532616763] => 
+    [~UF_CRM_1532616763] => 
+)
+Array
+(
+    [TITLE] => Тестовая сделка 2 
+    [STAGE_ID] => LOSE
+    [CURRENCY_ID] => UAH
+    [OPPORTUNITY] => 0
+    [CLOSEDATE] => 05.08.2018
+    [ASSIGNED_BY_ID] => 11
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 
+            [1] => 164
+        )
+
+    [UF_CRM_59EE4DC739368] => 1774
+    [UF_CRM_5A255307F0681] => 1
+    [UF_CRM_1532615106] => 234
+    [UF_CRM_1532615151] => 30.07.2018
+    [UF_CRM_1532615192] => 334
+    [UF_CRM_1532615220] => 2222222222
+    [UF_CRM_1532615266] => 324
+    [UF_CRM_1532615453] => 30.07.2018
+    [UF_CRM_1532615500] => 234
+    [UF_CRM_1532616726] => ddddddddddd
+    [UF_CRM_1532616763] => 01.08.2018
+    [COMPANY_ID] => 28
+    [CONTACT_IDS] => Array
+        (
+            [0] => 38
+            [1] => 39
+            [2] => 40
+        )
+
+    [EXCH_RATE] => 1
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 11
+    [STAGE_SEMANTIC_ID] => F
+    [IS_NEW] => N
+    [ID] => 35
+)
+Array
+(
+    [ID] => 35
+    [~ID] => 35
+    [STAGE_ID] => PREPAYMENT_INVOICE
+    [~STAGE_ID] => PREPAYMENT_INVOICE
+    [UF_CRM_1532614252] => 1
+    [~UF_CRM_1532614252] => 1
+    [UF_CRM_1532614341] => 4748
+    [~UF_CRM_1532614341] => 4748
+    [UF_CRM_1532615106] => 234
+    [~UF_CRM_1532615106] => 234
+    [UF_CRM_1532615151] => 30.07.2018
+    [~UF_CRM_1532615151] => 30.07.2018
+    [UF_CRM_1532615192] => 334
+    [~UF_CRM_1532615192] => 334
+    [UF_CRM_1532615220] => 2222222222
+    [~UF_CRM_1532615220] => 2222222222
+    [UF_CRM_1532615266] => 324
+    [~UF_CRM_1532615266] => 324
+    [UF_CRM_1532615453] => 30.07.2018
+    [~UF_CRM_1532615453] => 30.07.2018
+    [UF_CRM_1532615500] => 234
+    [~UF_CRM_1532615500] => 234
+    [UF_CRM_1532616726] => 
+    [~UF_CRM_1532616726] => 
+    [UF_CRM_1532616763] => 
+    [~UF_CRM_1532616763] => 
+)
+Array
+(
+    [TITLE] => Тестовая сделка 2 
+    [STAGE_ID] => PREPAYMENT_INVOICE
+    [CURRENCY_ID] => UAH
+    [OPPORTUNITY] => 0
+    [CLOSEDATE] => 05.08.2018
+    [ASSIGNED_BY_ID] => 11
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 
+            [1] => 164
+        )
+
+    [UF_CRM_59EE4DC739368] => 1774
+    [UF_CRM_5A255307F0681] => 1
+    [UF_CRM_1532615106] => 234
+    [UF_CRM_1532615151] => 30.07.2018
+    [UF_CRM_1532615192] => 334
+    [UF_CRM_1532615220] => 2222222222
+    [UF_CRM_1532615266] => 324
+    [UF_CRM_1532615453] => 30.07.2018
+    [UF_CRM_1532615500] => 234
+    [UF_CRM_1532616726] => ddddddddddd
+    [UF_CRM_1532616763] => 01.08.2018
+    [COMPANY_ID] => 28
+    [CONTACT_IDS] => Array
+        (
+            [0] => 38
+            [1] => 39
+            [2] => 40
+        )
+
+    [EXCH_RATE] => 1
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 11
+    [ID] => 35
+)
+Array
+(
+    [ID] => 35
+    [~ID] => 35
+    [STAGE_ID] => PREPAYMENT_INVOICE
+    [~STAGE_ID] => PREPAYMENT_INVOICE
+    [UF_CRM_1532614252] => 1
+    [~UF_CRM_1532614252] => 1
+    [UF_CRM_1532614341] => 4748
+    [~UF_CRM_1532614341] => 4748
+    [UF_CRM_1532615106] => 234
+    [~UF_CRM_1532615106] => 234
+    [UF_CRM_1532615151] => 30.07.2018
+    [~UF_CRM_1532615151] => 30.07.2018
+    [UF_CRM_1532615192] => 334
+    [~UF_CRM_1532615192] => 334
+    [UF_CRM_1532615220] => 2222222222
+    [~UF_CRM_1532615220] => 2222222222
+    [UF_CRM_1532615266] => 324
+    [~UF_CRM_1532615266] => 324
+    [UF_CRM_1532615453] => 30.07.2018
+    [~UF_CRM_1532615453] => 30.07.2018
+    [UF_CRM_1532615500] => 234
+    [~UF_CRM_1532615500] => 234
+    [UF_CRM_1532616726] => 
+    [~UF_CRM_1532616726] => 
+    [UF_CRM_1532616763] => 
+    [~UF_CRM_1532616763] => 
+)
+Array
+(
+    [TITLE] => Тестовая сделка 2 
+    [STAGE_ID] => WON
+    [CURRENCY_ID] => UAH
+    [OPPORTUNITY] => 0
+    [CLOSEDATE] => 05.08.2018
+    [ASSIGNED_BY_ID] => 11
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 
+            [1] => 164
+        )
+
+    [UF_CRM_59EE4DC739368] => 1774
+    [UF_CRM_5A255307F0681] => 1
+    [COMPANY_ID] => 28
+    [CONTACT_IDS] => Array
+        (
+            [0] => 38
+            [1] => 39
+            [2] => 40
+        )
+
+    [EXCH_RATE] => 1
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 11
+    [STAGE_SEMANTIC_ID] => S
+    [IS_NEW] => N
+    [ID] => 35
+)
+Array
+(
+    [ID] => 35
+    [~ID] => 35
+    [STAGE_ID] => PREPAYMENT_INVOICE
+    [~STAGE_ID] => PREPAYMENT_INVOICE
+    [UF_CRM_1532614252] => 1
+    [~UF_CRM_1532614252] => 1
+    [UF_CRM_1532614341] => 4748
+    [~UF_CRM_1532614341] => 4748
+    [UF_CRM_1532615106] => 234
+    [~UF_CRM_1532615106] => 234
+    [UF_CRM_1532615151] => 30.07.2018
+    [~UF_CRM_1532615151] => 30.07.2018
+    [UF_CRM_1532615192] => 334
+    [~UF_CRM_1532615192] => 334
+    [UF_CRM_1532615220] => 2222222222
+    [~UF_CRM_1532615220] => 2222222222
+    [UF_CRM_1532615266] => 324
+    [~UF_CRM_1532615266] => 324
+    [UF_CRM_1532615453] => 30.07.2018
+    [~UF_CRM_1532615453] => 30.07.2018
+    [UF_CRM_1532615500] => 234
+    [~UF_CRM_1532615500] => 234
+    [UF_CRM_1532616726] => ddddddddddd
+    [~UF_CRM_1532616726] => ddddddddddd
+    [UF_CRM_1532616763] => 01.08.2018
+    [~UF_CRM_1532616763] => 01.08.2018
+)
+Array
+(
+    [TITLE] => Тестовая сделка 1
+    [STAGE_ID] => 2
+    [CURRENCY_ID] => UAH
+    [OPPORTUNITY] => 10000
+    [CLOSEDATE] => 27.07.2018
+    [ASSIGNED_BY_ID] => 11
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 
+            [1] => 168
+        )
+
+    [UF_CRM_59EE4DC739368] => 1516
+    [UF_CRM_5A255307F0681] => WEBFORM
+    [UF_CRM_1532613154155] => Array
+        (
+            [0] => http://insurancecompany.freeabc.net/crm/deal/details/34/
+        )
+
+    [UF_CRM_1532613305575] => Array
+        (
+            [0] => test
+        )
+
+    [UF_CRM_1532613353697] => Array
+        (
+            [0] => test
+        )
+
+    [UF_CRM_1532613531] => 0
+    [UF_CRM_1532614252] => 0
+    [UF_CRM_1532614341] => 
+    [UF_CRM_1532614475] => 40
+    [UF_CRM_1532614542] => 39
+    [UF_CRM_1532614584347] => 31.07.2018
+    [UF_CRM_1532614949319] => 
+    [UF_CRM_1532615006] => 
+    [COMPANY_ID] => 28
+    [CONTACT_IDS] => Array
+        (
+        )
+
+    [EXCH_RATE] => 1
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 11
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [ID] => 34
+)
+Array
+(
+    [ID] => 34
+    [~ID] => 34
+    [STAGE_ID] => NEW
+    [~STAGE_ID] => NEW
+    [UF_CRM_1532614252] => 0
+    [~UF_CRM_1532614252] => 0
+    [UF_CRM_1532614341] => 
+    [~UF_CRM_1532614341] => 
+    [UF_CRM_1532615106] => test
+    [~UF_CRM_1532615106] => test
+    [UF_CRM_1532615151] => 27.07.2018
+    [~UF_CRM_1532615151] => 27.07.2018
+    [UF_CRM_1532615192] => 333
+    [~UF_CRM_1532615192] => 333
+    [UF_CRM_1532615220] => 2000
+    [~UF_CRM_1532615220] => 2000
+    [UF_CRM_1532615266] => ЗЗЗЗЗЗЗЗЗ
+    [~UF_CRM_1532615266] => ЗЗЗЗЗЗЗЗЗ
+    [UF_CRM_1532615453] => 27.02.2019
+    [~UF_CRM_1532615453] => 27.02.2019
+    [UF_CRM_1532615500] => test
+    [~UF_CRM_1532615500] => test
+    [UF_CRM_1532616726] => 
+    [~UF_CRM_1532616726] => 
+    [UF_CRM_1532616763] => 31.07.2018
+    [~UF_CRM_1532616763] => 31.07.2018
+)
+Array
+(
+    [ASSIGNED_BY_ID] => 11
+    [UF_CRM_1532613154155] => Array
+        (
+            [0] => http://insurancecompany.freeabc.net/crm/deal/details/0/?category_id=0
+        )
+
+    [UF_CRM_1532613305575] => Array
+        (
+            [0] => 213123
+        )
+
+    [UF_CRM_1532613353697] => Array
+        (
+            [0] => 1231
+        )
+
+    [UF_CRM_1532613531] => 0
+    [UF_CRM_1532614252] => 0
+    [UF_CRM_1532614341] => 
+    [UF_CRM_1532614475] => 40
+    [UF_CRM_1532614542] => 39
+    [UF_CRM_1532614584347] => 31.07.2018
+    [UF_CRM_1532614949319] => 31.07.2018
+    [UF_CRM_1532615006] => не заполнено
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 11
+    [ID] => 36
+)
+Array
+(
+    [ID] => 36
+    [~ID] => 36
+    [STAGE_ID] => NEW
+    [~STAGE_ID] => NEW
+    [UF_CRM_1532614252] => 1
+    [~UF_CRM_1532614252] => 1
+    [UF_CRM_1532614341] => 
+    [~UF_CRM_1532614341] => 
+    [UF_CRM_1532615106] => 
+    [~UF_CRM_1532615106] => 
+    [UF_CRM_1532615151] => 
+    [~UF_CRM_1532615151] => 
+    [UF_CRM_1532615192] => 
+    [~UF_CRM_1532615192] => 
+    [UF_CRM_1532615220] => 
+    [~UF_CRM_1532615220] => 
+    [UF_CRM_1532615266] => 
+    [~UF_CRM_1532615266] => 
+    [UF_CRM_1532615453] => 
+    [~UF_CRM_1532615453] => 
+    [UF_CRM_1532615500] => 
+    [~UF_CRM_1532615500] => 
+    [UF_CRM_1532616726] => 
+    [~UF_CRM_1532616726] => 
+    [UF_CRM_1532616763] => 
+    [~UF_CRM_1532616763] => 
+)
+Array
+(
+    [TITLE] => Тестовая сделка 4
+    [STAGE_ID] => 2
+    [CURRENCY_ID] => UAH
+    [OPPORTUNITY] => 0
+    [CLOSEDATE] => 06.08.2018
+    [ASSIGNED_BY_ID] => 11
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 
+            [1] => 184
+        )
+
+    [UF_CRM_59EE4DC739368] => 1664
+    [UF_CRM_5A255307F0681] => PARTNER
+    [COMPANY_ID] => 28
+    [CONTACT_IDS] => Array
+        (
+            [0] => 38
+            [1] => 39
+            [2] => 40
+        )
+
+    [EXCH_RATE] => 1
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 11
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [ID] => 36
+)
+Array
+(
+    [ID] => 36
+    [~ID] => 36
+    [STAGE_ID] => NEW
+    [~STAGE_ID] => NEW
+    [UF_CRM_1532614252] => 0
+    [~UF_CRM_1532614252] => 0
+    [UF_CRM_1532614341] => 
+    [~UF_CRM_1532614341] => 
+    [UF_CRM_1532615106] => 
+    [~UF_CRM_1532615106] => 
+    [UF_CRM_1532615151] => 
+    [~UF_CRM_1532615151] => 
+    [UF_CRM_1532615192] => 
+    [~UF_CRM_1532615192] => 
+    [UF_CRM_1532615220] => 
+    [~UF_CRM_1532615220] => 
+    [UF_CRM_1532615266] => 
+    [~UF_CRM_1532615266] => 
+    [UF_CRM_1532615453] => 
+    [~UF_CRM_1532615453] => 
+    [UF_CRM_1532615500] => 
+    [~UF_CRM_1532615500] => 
+    [UF_CRM_1532616726] => 
+    [~UF_CRM_1532616726] => 
+    [UF_CRM_1532616763] => 
+    [~UF_CRM_1532616763] => 
+)
+Array
+(
+    [TITLE] => Тестовая сделка 4
+    [STAGE_ID] => 2
+    [CURRENCY_ID] => UAH
+    [OPPORTUNITY] => 0
+    [CLOSEDATE] => 06.08.2018
+    [ASSIGNED_BY_ID] => 11
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 
+            [1] => 184
+        )
+
+    [UF_CRM_59EE4DC739368] => 1664
+    [UF_CRM_5A255307F0681] => PARTNER
+    [UF_CRM_1532613154155] => Array
+        (
+            [0] => http://insurancecompany.freeabc.net/crm/deal/details/0/?category_id=0
+        )
+
+    [UF_CRM_1532613305575] => Array
+        (
+            [0] => 213123
+        )
+
+    [UF_CRM_1532613353697] => Array
+        (
+            [0] => 1231
+        )
+
+    [UF_CRM_1532613531] => 0
+    [UF_CRM_1532614252] => 1
+    [UF_CRM_1532614341] => 4751
+    [UF_CRM_1532614475] => 40
+    [UF_CRM_1532614542] => 39
+    [UF_CRM_1532614584347] => 31.07.2018
+    [UF_CRM_1532614949319] => 31.07.2018
+    [UF_CRM_1532615006] => не заполнено
+    [COMPANY_ID] => 28
+    [CONTACT_IDS] => Array
+        (
+            [0] => 38
+            [1] => 39
+            [2] => 40
+        )
+
+    [EXCH_RATE] => 1
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 11
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [ID] => 36
+)
+Array
+(
+    [ID] => 36
+    [~ID] => 36
+    [STAGE_ID] => NEW
+    [~STAGE_ID] => NEW
+    [UF_CRM_1532614252] => 0
+    [~UF_CRM_1532614252] => 0
+    [UF_CRM_1532614341] => 
+    [~UF_CRM_1532614341] => 
+    [UF_CRM_1532615106] => 
+    [~UF_CRM_1532615106] => 
+    [UF_CRM_1532615151] => 
+    [~UF_CRM_1532615151] => 
+    [UF_CRM_1532615192] => 
+    [~UF_CRM_1532615192] => 
+    [UF_CRM_1532615220] => 
+    [~UF_CRM_1532615220] => 
+    [UF_CRM_1532615266] => 
+    [~UF_CRM_1532615266] => 
+    [UF_CRM_1532615453] => 
+    [~UF_CRM_1532615453] => 
+    [UF_CRM_1532615500] => 
+    [~UF_CRM_1532615500] => 
+    [UF_CRM_1532616726] => 
+    [~UF_CRM_1532616726] => 
+    [UF_CRM_1532616763] => 
+    [~UF_CRM_1532616763] => 
+)
+Array
+(
+    [TITLE] => Тестовая сделка 4
+    [STAGE_ID] => 2
+    [CURRENCY_ID] => UAH
+    [OPPORTUNITY] => 0
+    [CLOSEDATE] => 06.08.2018
+    [ASSIGNED_BY_ID] => 11
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 
+            [1] => 184
+        )
+
+    [UF_CRM_59EE4DC739368] => 1664
+    [UF_CRM_5A255307F0681] => PARTNER
+    [UF_CRM_1532613154155] => Array
+        (
+            [0] => http://insurancecompany.freeabc.net/crm/deal/details/0/?category_id=0
+        )
+
+    [UF_CRM_1532613305575] => Array
+        (
+            [0] => 213123
+        )
+
+    [UF_CRM_1532613353697] => Array
+        (
+            [0] => 1231
+        )
+
+    [UF_CRM_1532613531] => 0
+    [UF_CRM_1532614252] => 1
+    [UF_CRM_1532614341] => 4751
+    [UF_CRM_1532614475] => 40
+    [UF_CRM_1532614542] => 39
+    [UF_CRM_1532614584347] => 31.07.2018
+    [UF_CRM_1532614949319] => 31.07.2018
+    [UF_CRM_1532615006] => не заполнено
+    [COMPANY_ID] => 28
+    [CONTACT_IDS] => Array
+        (
+            [0] => 38
+            [1] => 39
+            [2] => 40
+        )
+
+    [EXCH_RATE] => 1
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 11
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [ID] => 36
+)
+Array
+(
+    [ID] => 36
+    [~ID] => 36
+    [STAGE_ID] => NEW
+    [~STAGE_ID] => NEW
+    [UF_CRM_1532614252] => 0
+    [~UF_CRM_1532614252] => 0
+    [UF_CRM_1532614341] => 
+    [~UF_CRM_1532614341] => 
+    [UF_CRM_1532615106] => 
+    [~UF_CRM_1532615106] => 
+    [UF_CRM_1532615151] => 
+    [~UF_CRM_1532615151] => 
+    [UF_CRM_1532615192] => 
+    [~UF_CRM_1532615192] => 
+    [UF_CRM_1532615220] => 
+    [~UF_CRM_1532615220] => 
+    [UF_CRM_1532615266] => 
+    [~UF_CRM_1532615266] => 
+    [UF_CRM_1532615453] => 
+    [~UF_CRM_1532615453] => 
+    [UF_CRM_1532615500] => 
+    [~UF_CRM_1532615500] => 
+    [UF_CRM_1532616726] => 
+    [~UF_CRM_1532616726] => 
+    [UF_CRM_1532616763] => 
+    [~UF_CRM_1532616763] => 
+)
+Array
+(
+    [TITLE] => Тестовая сделка 4
+    [STAGE_ID] => 2
+    [CURRENCY_ID] => UAH
+    [OPPORTUNITY] => 0
+    [CLOSEDATE] => 06.08.2018
+    [ASSIGNED_BY_ID] => 11
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 
+            [1] => 184
+        )
+
+    [UF_CRM_59EE4DC739368] => 1664
+    [UF_CRM_5A255307F0681] => PARTNER
+    [UF_CRM_1532613154155] => Array
+        (
+            [0] => http://insurancecompany.freeabc.net/crm/deal/details/0/?category_id=0
+        )
+
+    [UF_CRM_1532613305575] => Array
+        (
+            [0] => 213123
+        )
+
+    [UF_CRM_1532613353697] => Array
+        (
+            [0] => 1231
+        )
+
+    [UF_CRM_1532613531] => 0
+    [UF_CRM_1532614252] => 0
+    [UF_CRM_1532614341] => 4751
+    [UF_CRM_1532614475] => 40
+    [UF_CRM_1532614542] => 39
+    [UF_CRM_1532614584347] => 31.07.2018
+    [UF_CRM_1532614949319] => 31.07.2018
+    [UF_CRM_1532615006] => не заполнено
+    [COMPANY_ID] => 28
+    [CONTACT_IDS] => Array
+        (
+            [0] => 38
+            [1] => 39
+            [2] => 40
+        )
+
+    [EXCH_RATE] => 1
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 11
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [ID] => 36
+)
+Array
+(
+    [ID] => 36
+    [~ID] => 36
+    [STAGE_ID] => NEW
+    [~STAGE_ID] => NEW
+    [UF_CRM_1532614252] => 0
+    [~UF_CRM_1532614252] => 0
+    [UF_CRM_1532614341] => 
+    [~UF_CRM_1532614341] => 
+    [UF_CRM_1532615106] => 
+    [~UF_CRM_1532615106] => 
+    [UF_CRM_1532615151] => 
+    [~UF_CRM_1532615151] => 
+    [UF_CRM_1532615192] => 
+    [~UF_CRM_1532615192] => 
+    [UF_CRM_1532615220] => 
+    [~UF_CRM_1532615220] => 
+    [UF_CRM_1532615266] => 
+    [~UF_CRM_1532615266] => 
+    [UF_CRM_1532615453] => 
+    [~UF_CRM_1532615453] => 
+    [UF_CRM_1532615500] => 
+    [~UF_CRM_1532615500] => 
+    [UF_CRM_1532616726] => 
+    [~UF_CRM_1532616726] => 
+    [UF_CRM_1532616763] => 
+    [~UF_CRM_1532616763] => 
+)
+Array
+(
+    [TITLE] => Тестовая сделка 4
+    [STAGE_ID] => 2
+    [CURRENCY_ID] => UAH
+    [OPPORTUNITY] => 0
+    [CLOSEDATE] => 06.08.2018
+    [ASSIGNED_BY_ID] => 11
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 
+            [1] => 184
+        )
+
+    [UF_CRM_59EE4DC739368] => 1664
+    [UF_CRM_5A255307F0681] => PARTNER
+    [UF_CRM_1532613154155] => Array
+        (
+            [0] => http://insurancecompany.freeabc.net/crm/deal/details/0/?category_id=0
+        )
+
+    [UF_CRM_1532613305575] => Array
+        (
+            [0] => 213123
+        )
+
+    [UF_CRM_1532613353697] => Array
+        (
+            [0] => 1231
+        )
+
+    [UF_CRM_1532613531] => 0
+    [UF_CRM_1532614252] => 0
+    [UF_CRM_1532614341] => 4748
+    [UF_CRM_1532614475] => 40
+    [UF_CRM_1532614542] => 39
+    [UF_CRM_1532614584347] => 31.07.2018
+    [UF_CRM_1532614949319] => 31.07.2018
+    [UF_CRM_1532615006] => не заполнено
+    [COMPANY_ID] => 28
+    [CONTACT_IDS] => Array
+        (
+            [0] => 38
+            [1] => 39
+            [2] => 40
+        )
+
+    [EXCH_RATE] => 1
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 11
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [ID] => 36
+)
+Array
+(
+    [ID] => 36
+    [~ID] => 36
+    [STAGE_ID] => NEW
+    [~STAGE_ID] => NEW
+    [UF_CRM_1532614252] => 0
+    [~UF_CRM_1532614252] => 0
+    [UF_CRM_1532614341] => 
+    [~UF_CRM_1532614341] => 
+    [UF_CRM_1532615106] => 
+    [~UF_CRM_1532615106] => 
+    [UF_CRM_1532615151] => 
+    [~UF_CRM_1532615151] => 
+    [UF_CRM_1532615192] => 
+    [~UF_CRM_1532615192] => 
+    [UF_CRM_1532615220] => 
+    [~UF_CRM_1532615220] => 
+    [UF_CRM_1532615266] => 
+    [~UF_CRM_1532615266] => 
+    [UF_CRM_1532615453] => 
+    [~UF_CRM_1532615453] => 
+    [UF_CRM_1532615500] => 
+    [~UF_CRM_1532615500] => 
+    [UF_CRM_1532616726] => 
+    [~UF_CRM_1532616726] => 
+    [UF_CRM_1532616763] => 
+    [~UF_CRM_1532616763] => 
+)
+Array
+(
+    [TITLE] => Тестовая сделка 1
+    [STAGE_ID] => 2
+    [CURRENCY_ID] => UAH
+    [OPPORTUNITY] => 10000
+    [CLOSEDATE] => 27.07.2018
+    [ASSIGNED_BY_ID] => 11
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 
+            [1] => 168
+        )
+
+    [UF_CRM_59EE4DC739368] => 1516
+    [UF_CRM_5A255307F0681] => WEBFORM
+    [UF_CRM_1532613154155] => Array
+        (
+            [0] => http://insurancecompany.freeabc.net/crm/deal/details/34/
+        )
+
+    [UF_CRM_1532613305575] => Array
+        (
+            [0] => test
+        )
+
+    [UF_CRM_1532613353697] => Array
+        (
+            [0] => test
+        )
+
+    [UF_CRM_1532613531] => 0
+    [UF_CRM_1532614252] => 0
+    [UF_CRM_1532614341] => 
+    [UF_CRM_1532614475] => 40
+    [UF_CRM_1532614542] => 39
+    [UF_CRM_1532614584347] => 31.07.2018
+    [UF_CRM_1532614949319] => 
+    [UF_CRM_1532615006] => 
+    [COMPANY_ID] => 28
+    [CONTACT_IDS] => Array
+        (
+        )
+
+    [EXCH_RATE] => 1
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 11
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [ID] => 34
+)
+Array
+(
+    [ID] => 34
+    [~ID] => 34
+    [STAGE_ID] => NEW
+    [~STAGE_ID] => NEW
+    [UF_CRM_1532614252] => 0
+    [~UF_CRM_1532614252] => 0
+    [UF_CRM_1532614341] => 
+    [~UF_CRM_1532614341] => 
+    [UF_CRM_1532615106] => test
+    [~UF_CRM_1532615106] => test
+    [UF_CRM_1532615151] => 27.07.2018
+    [~UF_CRM_1532615151] => 27.07.2018
+    [UF_CRM_1532615192] => 333
+    [~UF_CRM_1532615192] => 333
+    [UF_CRM_1532615220] => 2000
+    [~UF_CRM_1532615220] => 2000
+    [UF_CRM_1532615266] => ЗЗЗЗЗЗЗЗЗ
+    [~UF_CRM_1532615266] => ЗЗЗЗЗЗЗЗЗ
+    [UF_CRM_1532615453] => 27.02.2019
+    [~UF_CRM_1532615453] => 27.02.2019
+    [UF_CRM_1532615500] => test
+    [~UF_CRM_1532615500] => test
+    [UF_CRM_1532616726] => 
+    [~UF_CRM_1532616726] => 
+    [UF_CRM_1532616763] => 31.07.2018
+    [~UF_CRM_1532616763] => 31.07.2018
+)
+Array
+(
+    [TITLE] => Тестовая сделка 1
+    [STAGE_ID] => NEW
+    [CURRENCY_ID] => UAH
+    [OPPORTUNITY] => 10000
+    [CLOSEDATE] => 27.07.2018
+    [ASSIGNED_BY_ID] => 11
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 
+            [1] => 168
+        )
+
+    [UF_CRM_59EE4DC739368] => 1516
+    [UF_CRM_5A255307F0681] => WEBFORM
+    [UF_CRM_1532613154155] => Array
+        (
+            [0] => http://insurancecompany.freeabc.net/crm/deal/details/34/
+        )
+
+    [UF_CRM_1532613305575] => Array
+        (
+            [0] => test
+        )
+
+    [UF_CRM_1532613353697] => Array
+        (
+            [0] => test
+        )
+
+    [UF_CRM_1532613531] => 0
+    [UF_CRM_1532614252] => 1
+    [UF_CRM_1532614341] => 4749
+    [UF_CRM_1532614475] => 40
+    [UF_CRM_1532614542] => 39
+    [UF_CRM_1532614584347] => 31.07.2018
+    [UF_CRM_1532614949319] => 
+    [UF_CRM_1532615006] => 
+    [COMPANY_ID] => 28
+    [CONTACT_IDS] => Array
+        (
+        )
+
+    [EXCH_RATE] => 1
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 11
+    [ID] => 34
+)
+Array
+(
+    [ID] => 34
+    [~ID] => 34
+    [STAGE_ID] => NEW
+    [~STAGE_ID] => NEW
+    [UF_CRM_1532614252] => 0
+    [~UF_CRM_1532614252] => 0
+    [UF_CRM_1532614341] => 
+    [~UF_CRM_1532614341] => 
+    [UF_CRM_1532615106] => test
+    [~UF_CRM_1532615106] => test
+    [UF_CRM_1532615151] => 27.07.2018
+    [~UF_CRM_1532615151] => 27.07.2018
+    [UF_CRM_1532615192] => 333
+    [~UF_CRM_1532615192] => 333
+    [UF_CRM_1532615220] => 2000
+    [~UF_CRM_1532615220] => 2000
+    [UF_CRM_1532615266] => ЗЗЗЗЗЗЗЗЗ
+    [~UF_CRM_1532615266] => ЗЗЗЗЗЗЗЗЗ
+    [UF_CRM_1532615453] => 27.02.2019
+    [~UF_CRM_1532615453] => 27.02.2019
+    [UF_CRM_1532615500] => test
+    [~UF_CRM_1532615500] => test
+    [UF_CRM_1532616726] => 
+    [~UF_CRM_1532616726] => 
+    [UF_CRM_1532616763] => 31.07.2018
+    [~UF_CRM_1532616763] => 31.07.2018
+)
+Array
+(
+    [TITLE] => Тестовая сделка 1
+    [STAGE_ID] => NEW
+    [CURRENCY_ID] => UAH
+    [OPPORTUNITY] => 10000
+    [CLOSEDATE] => 27.07.2018
+    [ASSIGNED_BY_ID] => 11
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 
+            [1] => 168
+        )
+
+    [UF_CRM_59EE4DC739368] => 1516
+    [UF_CRM_5A255307F0681] => WEBFORM
+    [UF_CRM_1532615106] => 
+    [UF_CRM_1532615151] => 27.07.2018
+    [UF_CRM_1532615192] => 333
+    [UF_CRM_1532615220] => 2000
+    [UF_CRM_1532615266] => ЗЗЗЗЗЗЗЗЗ
+    [UF_CRM_1532615453] => 27.02.2019
+    [UF_CRM_1532615500] => test
+    [COMPANY_ID] => 28
+    [CONTACT_IDS] => Array
+        (
+        )
+
+    [EXCH_RATE] => 1
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 11
+    [ID] => 34
+)
+Array
+(
+    [ID] => 34
+    [~ID] => 34
+    [STAGE_ID] => NEW
+    [~STAGE_ID] => NEW
+    [UF_CRM_1532614252] => 1
+    [~UF_CRM_1532614252] => 1
+    [UF_CRM_1532614341] => 4749
+    [~UF_CRM_1532614341] => 4749
+    [UF_CRM_1532615106] => test
+    [~UF_CRM_1532615106] => test
+    [UF_CRM_1532615151] => 27.07.2018
+    [~UF_CRM_1532615151] => 27.07.2018
+    [UF_CRM_1532615192] => 333
+    [~UF_CRM_1532615192] => 333
+    [UF_CRM_1532615220] => 2000
+    [~UF_CRM_1532615220] => 2000
+    [UF_CRM_1532615266] => ЗЗЗЗЗЗЗЗЗ
+    [~UF_CRM_1532615266] => ЗЗЗЗЗЗЗЗЗ
+    [UF_CRM_1532615453] => 27.02.2019
+    [~UF_CRM_1532615453] => 27.02.2019
+    [UF_CRM_1532615500] => test
+    [~UF_CRM_1532615500] => test
+    [UF_CRM_1532616726] => 
+    [~UF_CRM_1532616726] => 
+    [UF_CRM_1532616763] => 31.07.2018
+    [~UF_CRM_1532616763] => 31.07.2018
+)
+Array
+(
+    [TITLE] => Тестовая сделка 1
+    [STAGE_ID] => PREPARATION
+    [CURRENCY_ID] => UAH
+    [OPPORTUNITY] => 10000
+    [CLOSEDATE] => 27.07.2018
+    [ASSIGNED_BY_ID] => 11
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 
+            [1] => 168
+        )
+
+    [UF_CRM_59EE4DC739368] => 1516
+    [UF_CRM_5A255307F0681] => WEBFORM
+    [COMPANY_ID] => 28
+    [CONTACT_IDS] => Array
+        (
+        )
+
+    [EXCH_RATE] => 1
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 11
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [ID] => 34
+)
+Array
+(
+    [ID] => 34
+    [~ID] => 34
+    [STAGE_ID] => NEW
+    [~STAGE_ID] => NEW
+    [UF_CRM_1532614252] => 1
+    [~UF_CRM_1532614252] => 1
+    [UF_CRM_1532614341] => 4749
+    [~UF_CRM_1532614341] => 4749
+    [UF_CRM_1532615106] => 
+    [~UF_CRM_1532615106] => 
+    [UF_CRM_1532615151] => 27.07.2018
+    [~UF_CRM_1532615151] => 27.07.2018
+    [UF_CRM_1532615192] => 333
+    [~UF_CRM_1532615192] => 333
+    [UF_CRM_1532615220] => 2000
+    [~UF_CRM_1532615220] => 2000
+    [UF_CRM_1532615266] => ЗЗЗЗЗЗЗЗЗ
+    [~UF_CRM_1532615266] => ЗЗЗЗЗЗЗЗЗ
+    [UF_CRM_1532615453] => 27.02.2019
+    [~UF_CRM_1532615453] => 27.02.2019
+    [UF_CRM_1532615500] => test
+    [~UF_CRM_1532615500] => test
+    [UF_CRM_1532616726] => 
+    [~UF_CRM_1532616726] => 
+    [UF_CRM_1532616763] => 31.07.2018
+    [~UF_CRM_1532616763] => 31.07.2018
+)
+Array
+(
+    [TITLE] => Тестовая сделка 1
+    [STAGE_ID] => PREPAYMENT_INVOICE
+    [CURRENCY_ID] => UAH
+    [OPPORTUNITY] => 10000
+    [CLOSEDATE] => 27.07.2018
+    [ASSIGNED_BY_ID] => 11
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 
+            [1] => 168
+        )
+
+    [UF_CRM_59EE4DC739368] => 1516
+    [UF_CRM_5A255307F0681] => WEBFORM
+    [COMPANY_ID] => 28
+    [CONTACT_IDS] => Array
+        (
+        )
+
+    [EXCH_RATE] => 1
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 11
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [ID] => 34
+)
+Array
+(
+    [ID] => 34
+    [~ID] => 34
+    [STAGE_ID] => PREPARATION
+    [~STAGE_ID] => PREPARATION
+    [UF_CRM_1532614252] => 1
+    [~UF_CRM_1532614252] => 1
+    [UF_CRM_1532614341] => 4749
+    [~UF_CRM_1532614341] => 4749
+    [UF_CRM_1532615106] => 
+    [~UF_CRM_1532615106] => 
+    [UF_CRM_1532615151] => 27.07.2018
+    [~UF_CRM_1532615151] => 27.07.2018
+    [UF_CRM_1532615192] => 333
+    [~UF_CRM_1532615192] => 333
+    [UF_CRM_1532615220] => 2000
+    [~UF_CRM_1532615220] => 2000
+    [UF_CRM_1532615266] => ЗЗЗЗЗЗЗЗЗ
+    [~UF_CRM_1532615266] => ЗЗЗЗЗЗЗЗЗ
+    [UF_CRM_1532615453] => 27.02.2019
+    [~UF_CRM_1532615453] => 27.02.2019
+    [UF_CRM_1532615500] => test
+    [~UF_CRM_1532615500] => test
+    [UF_CRM_1532616726] => 
+    [~UF_CRM_1532616726] => 
+    [UF_CRM_1532616763] => 31.07.2018
+    [~UF_CRM_1532616763] => 31.07.2018
+)
+Array
+(
+    [ASSIGNED_BY_ID] => 11
+    [UF_CRM_1532613154155] => Array
+        (
+            [0] => http://insurancecompany.freeabc.net/crm/deal/details/34/
+        )
+
+    [UF_CRM_1532613305575] => Array
+        (
+            [0] => test
+        )
+
+    [UF_CRM_1532613353697] => Array
+        (
+            [0] => test
+        )
+
+    [UF_CRM_1532613531] => 0
+    [UF_CRM_1532614252] => 1
+    [UF_CRM_1532614341] => 4749
+    [UF_CRM_1532614475] => 40
+    [UF_CRM_1532614542] => 39
+    [UF_CRM_1532614584347] => 31.07.2018
+    [UF_CRM_1532614949319] => 
+    [UF_CRM_1532615006] => 
+    [UF_CRM_1532615106] => ddddddddddddd
+    [UF_CRM_1532615151] => 27.07.2018
+    [UF_CRM_1532615192] => 333
+    [UF_CRM_1532615220] => 2000
+    [UF_CRM_1532615266] => ЗЗЗЗЗЗЗЗЗ
+    [UF_CRM_1532615453] => 27.02.2019
+    [UF_CRM_1532615500] => test
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 11
+    [ID] => 34
+)
+Array
+(
+    [ID] => 34
+    [~ID] => 34
+    [STAGE_ID] => PREPARATION
+    [~STAGE_ID] => PREPARATION
+    [UF_CRM_1532614252] => 1
+    [~UF_CRM_1532614252] => 1
+    [UF_CRM_1532614341] => 4749
+    [~UF_CRM_1532614341] => 4749
+    [UF_CRM_1532615106] => 
+    [~UF_CRM_1532615106] => 
+    [UF_CRM_1532615151] => 27.07.2018
+    [~UF_CRM_1532615151] => 27.07.2018
+    [UF_CRM_1532615192] => 333
+    [~UF_CRM_1532615192] => 333
+    [UF_CRM_1532615220] => 2000
+    [~UF_CRM_1532615220] => 2000
+    [UF_CRM_1532615266] => ЗЗЗЗЗЗЗЗЗ
+    [~UF_CRM_1532615266] => ЗЗЗЗЗЗЗЗЗ
+    [UF_CRM_1532615453] => 27.02.2019
+    [~UF_CRM_1532615453] => 27.02.2019
+    [UF_CRM_1532615500] => test
+    [~UF_CRM_1532615500] => test
+    [UF_CRM_1532616726] => 
+    [~UF_CRM_1532616726] => 
+    [UF_CRM_1532616763] => 31.07.2018
+    [~UF_CRM_1532616763] => 31.07.2018
+)
+Array
+(
+    [TITLE] => Тестовая сделка 1
+    [STAGE_ID] => PREPAYMENT_INVOICE
+    [CURRENCY_ID] => UAH
+    [OPPORTUNITY] => 10000
+    [CLOSEDATE] => 27.07.2018
+    [ASSIGNED_BY_ID] => 11
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 
+            [1] => 168
+        )
+
+    [UF_CRM_59EE4DC739368] => 1516
+    [UF_CRM_5A255307F0681] => WEBFORM
+    [COMPANY_ID] => 28
+    [CONTACT_IDS] => Array
+        (
+        )
+
+    [EXCH_RATE] => 1
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 11
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [ID] => 34
+)
+Array
+(
+    [ID] => 34
+    [~ID] => 34
+    [STAGE_ID] => PREPARATION
+    [~STAGE_ID] => PREPARATION
+    [UF_CRM_1532614252] => 1
+    [~UF_CRM_1532614252] => 1
+    [UF_CRM_1532614341] => 4749
+    [~UF_CRM_1532614341] => 4749
+    [UF_CRM_1532615106] => ddddddddddddd
+    [~UF_CRM_1532615106] => ddddddddddddd
+    [UF_CRM_1532615151] => 27.07.2018
+    [~UF_CRM_1532615151] => 27.07.2018
+    [UF_CRM_1532615192] => 333
+    [~UF_CRM_1532615192] => 333
+    [UF_CRM_1532615220] => 2000
+    [~UF_CRM_1532615220] => 2000
+    [UF_CRM_1532615266] => ЗЗЗЗЗЗЗЗЗ
+    [~UF_CRM_1532615266] => ЗЗЗЗЗЗЗЗЗ
+    [UF_CRM_1532615453] => 27.02.2019
+    [~UF_CRM_1532615453] => 27.02.2019
+    [UF_CRM_1532615500] => test
+    [~UF_CRM_1532615500] => test
+    [UF_CRM_1532616726] => 
+    [~UF_CRM_1532616726] => 
+    [UF_CRM_1532616763] => 31.07.2018
+    [~UF_CRM_1532616763] => 31.07.2018
+)
+Array
+(
+    [TITLE] => Тестовая сделка 1
+    [STAGE_ID] => LOSE
+    [CURRENCY_ID] => UAH
+    [OPPORTUNITY] => 10000
+    [CLOSEDATE] => 27.07.2018
+    [ASSIGNED_BY_ID] => 11
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 
+            [1] => 168
+        )
+
+    [UF_CRM_59EE4DC739368] => 1516
+    [UF_CRM_5A255307F0681] => WEBFORM
+    [UF_CRM_1532616726] => 
+    [UF_CRM_1532616763] => 31.07.2018
+    [COMPANY_ID] => 28
+    [CONTACT_IDS] => Array
+        (
+        )
+
+    [EXCH_RATE] => 1
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 11
+    [STAGE_SEMANTIC_ID] => F
+    [IS_NEW] => N
+    [ID] => 34
+)
+Array
+(
+    [ID] => 34
+    [~ID] => 34
+    [STAGE_ID] => PREPAYMENT_INVOICE
+    [~STAGE_ID] => PREPAYMENT_INVOICE
+    [UF_CRM_1532614252] => 1
+    [~UF_CRM_1532614252] => 1
+    [UF_CRM_1532614341] => 4749
+    [~UF_CRM_1532614341] => 4749
+    [UF_CRM_1532615106] => ddddddddddddd
+    [~UF_CRM_1532615106] => ddddddddddddd
+    [UF_CRM_1532615151] => 27.07.2018
+    [~UF_CRM_1532615151] => 27.07.2018
+    [UF_CRM_1532615192] => 333
+    [~UF_CRM_1532615192] => 333
+    [UF_CRM_1532615220] => 2000
+    [~UF_CRM_1532615220] => 2000
+    [UF_CRM_1532615266] => ЗЗЗЗЗЗЗЗЗ
+    [~UF_CRM_1532615266] => ЗЗЗЗЗЗЗЗЗ
+    [UF_CRM_1532615453] => 27.02.2019
+    [~UF_CRM_1532615453] => 27.02.2019
+    [UF_CRM_1532615500] => test
+    [~UF_CRM_1532615500] => test
+    [UF_CRM_1532616726] => 
+    [~UF_CRM_1532616726] => 
+    [UF_CRM_1532616763] => 31.07.2018
+    [~UF_CRM_1532616763] => 31.07.2018
+)
+Array
+(
+    [TITLE] => Тестовая сделка 1
+    [STAGE_ID] => PREPAYMENT_INVOICE
+    [CURRENCY_ID] => UAH
+    [OPPORTUNITY] => 10000
+    [CLOSEDATE] => 27.07.2018
+    [ASSIGNED_BY_ID] => 11
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 
+            [1] => 168
+        )
+
+    [UF_CRM_59EE4DC739368] => 1516
+    [UF_CRM_5A255307F0681] => WEBFORM
+    [UF_CRM_1532616726] => jjjjjjjjjjj
+    [UF_CRM_1532616763] => 31.07.2018
+    [COMPANY_ID] => 28
+    [CONTACT_IDS] => Array
+        (
+        )
+
+    [EXCH_RATE] => 1
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 11
+    [ID] => 34
+)
+Array
+(
+    [ID] => 34
+    [~ID] => 34
+    [STAGE_ID] => PREPAYMENT_INVOICE
+    [~STAGE_ID] => PREPAYMENT_INVOICE
+    [UF_CRM_1532614252] => 1
+    [~UF_CRM_1532614252] => 1
+    [UF_CRM_1532614341] => 4749
+    [~UF_CRM_1532614341] => 4749
+    [UF_CRM_1532615106] => ddddddddddddd
+    [~UF_CRM_1532615106] => ddddddddddddd
+    [UF_CRM_1532615151] => 27.07.2018
+    [~UF_CRM_1532615151] => 27.07.2018
+    [UF_CRM_1532615192] => 333
+    [~UF_CRM_1532615192] => 333
+    [UF_CRM_1532615220] => 2000
+    [~UF_CRM_1532615220] => 2000
+    [UF_CRM_1532615266] => ЗЗЗЗЗЗЗЗЗ
+    [~UF_CRM_1532615266] => ЗЗЗЗЗЗЗЗЗ
+    [UF_CRM_1532615453] => 27.02.2019
+    [~UF_CRM_1532615453] => 27.02.2019
+    [UF_CRM_1532615500] => test
+    [~UF_CRM_1532615500] => test
+    [UF_CRM_1532616726] => 
+    [~UF_CRM_1532616726] => 
+    [UF_CRM_1532616763] => 31.07.2018
+    [~UF_CRM_1532616763] => 31.07.2018
+)
+Array
+(
+    [TITLE] => Тестовая сделка 1
+    [STAGE_ID] => 1
+    [CURRENCY_ID] => UAH
+    [OPPORTUNITY] => 10000
+    [CLOSEDATE] => 27.07.2018
+    [ASSIGNED_BY_ID] => 11
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 
+            [1] => 168
+        )
+
+    [UF_CRM_59EE4DC739368] => 1516
+    [UF_CRM_5A255307F0681] => WEBFORM
+    [COMPANY_ID] => 28
+    [CONTACT_IDS] => Array
+        (
+        )
+
+    [EXCH_RATE] => 1
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 11
+    [STAGE_SEMANTIC_ID] => F
+    [IS_NEW] => N
+    [ID] => 34
+)
+Array
+(
+    [ID] => 34
+    [~ID] => 34
+    [STAGE_ID] => PREPAYMENT_INVOICE
+    [~STAGE_ID] => PREPAYMENT_INVOICE
+    [UF_CRM_1532614252] => 1
+    [~UF_CRM_1532614252] => 1
+    [UF_CRM_1532614341] => 4749
+    [~UF_CRM_1532614341] => 4749
+    [UF_CRM_1532615106] => ddddddddddddd
+    [~UF_CRM_1532615106] => ddddddddddddd
+    [UF_CRM_1532615151] => 27.07.2018
+    [~UF_CRM_1532615151] => 27.07.2018
+    [UF_CRM_1532615192] => 333
+    [~UF_CRM_1532615192] => 333
+    [UF_CRM_1532615220] => 2000
+    [~UF_CRM_1532615220] => 2000
+    [UF_CRM_1532615266] => ЗЗЗЗЗЗЗЗЗ
+    [~UF_CRM_1532615266] => ЗЗЗЗЗЗЗЗЗ
+    [UF_CRM_1532615453] => 27.02.2019
+    [~UF_CRM_1532615453] => 27.02.2019
+    [UF_CRM_1532615500] => test
+    [~UF_CRM_1532615500] => test
+    [UF_CRM_1532616726] => jjjjjjjjjjj
+    [~UF_CRM_1532616726] => jjjjjjjjjjj
+    [UF_CRM_1532616763] => 31.07.2018
+    [~UF_CRM_1532616763] => 31.07.2018
+)
+************************************----------------
+
+Array
+(
+    [TITLE] => KFC
+    [STAGE_ID] => WON
+    [CLOSEDATE] => 07.08.2018
+    [ASSIGNED_BY_ID] => 7
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 
+            [1] => 168
+        )
+
+    [UF_CRM_59EE4DC739368] => 1828
+    [UF_CRM_5A255307F0681] => CALL
+    [COMPANY_ID] => 0
+    [CONTACT_IDS] => Array
+        (
+        )
+
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 7
+    [STAGE_SEMANTIC_ID] => S
+    [IS_NEW] => N
+    [ID] => 48
+)
+Array
+(
+    [ID] => 48
+    [~ID] => 48
+    [STAGE_ID] => 2
+    [~STAGE_ID] => 2
+    [UF_CRM_1532614252] => 1
+    [~UF_CRM_1532614252] => 1
+    [UF_CRM_1532614341] => 
+    [~UF_CRM_1532614341] => 
+    [UF_CRM_1533040894] => 05.08.2018
+    [~UF_CRM_1533040894] => 05.08.2018
+    [UF_CRM_1532615106] => 
+    [~UF_CRM_1532615106] => 
+    [UF_CRM_1532615151] => 
+    [~UF_CRM_1532615151] => 
+    [UF_CRM_1532615192] => 
+    [~UF_CRM_1532615192] => 
+    [UF_CRM_1532615220] => 
+    [~UF_CRM_1532615220] => 
+    [UF_CRM_1532615266] => 
+    [~UF_CRM_1532615266] => 
+    [UF_CRM_1532615453] => 
+    [~UF_CRM_1532615453] => 
+    [UF_CRM_1532615500] => 
+    [~UF_CRM_1532615500] => 
+    [UF_CRM_1532616726] => 
+    [~UF_CRM_1532616726] => 
+    [UF_CRM_1532616763] => 
+    [~UF_CRM_1532616763] => 
+    [UF_CRM_1532616810] => 
+    [~UF_CRM_1532616810] => 
+)
+Array
+(
+    [ASSIGNED_BY_ID] => 7
+    [UF_CRM_1532613154155] => Array
+        (
+            [0] => http://www.modbus.org/tech.php
+        )
+
+    [UF_CRM_1532613305575] => Array
+        (
+            [0] => B4
+        )
+
+    [UF_CRM_1532613353697] => Array
+        (
+            [0] => TRU-LA-LA
+        )
+
+    [UF_CRM_1532613531] => 0
+    [UF_CRM_1532614252] => 1
+    [UF_CRM_1532614341] => 
+    [UF_CRM_1532614475] => 
+    [UF_CRM_1532614542] => 38
+    [UF_CRM_1532614584347] => 09.09.2018
+    [UF_CRM_1532614949319] => 
+    [UF_CRM_1532615006] => не заполнено
+    [UF_CRM_1532615106] => yyyyyyyyyy
+    [UF_CRM_1532615151] => 25.07.2018
+    [UF_CRM_1532615220] => 
+    [UF_CRM_1532615266] => 
+    [UF_CRM_1532615453] => 
+    [UF_CRM_1532615500] => 
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 7
+    [ID] => 48
+)
+Array
+(
+    [ID] => 48
+    [~ID] => 48
+    [STAGE_ID] => 2
+    [~STAGE_ID] => 2
+    [UF_CRM_1532614252] => 1
+    [~UF_CRM_1532614252] => 1
+    [UF_CRM_1532614341] => 
+    [~UF_CRM_1532614341] => 
+    [UF_CRM_1533040894] => 05.08.2018
+    [~UF_CRM_1533040894] => 05.08.2018
+    [UF_CRM_1532615106] => 
+    [~UF_CRM_1532615106] => 
+    [UF_CRM_1532615151] => 
+    [~UF_CRM_1532615151] => 
+    [UF_CRM_1532615192] => 
+    [~UF_CRM_1532615192] => 
+    [UF_CRM_1532615220] => 
+    [~UF_CRM_1532615220] => 
+    [UF_CRM_1532615266] => 
+    [~UF_CRM_1532615266] => 
+    [UF_CRM_1532615453] => 
+    [~UF_CRM_1532615453] => 
+    [UF_CRM_1532615500] => 
+    [~UF_CRM_1532615500] => 
+    [UF_CRM_1532616726] => 
+    [~UF_CRM_1532616726] => 
+    [UF_CRM_1532616763] => 
+    [~UF_CRM_1532616763] => 
+    [UF_CRM_1532616810] => 
+    [~UF_CRM_1532616810] => 
+)
+Array
+(
+    [ASSIGNED_BY_ID] => 7
+    [UF_CRM_1532613154155] => Array
+        (
+            [0] => http://www.modbus.org/tech.php
+        )
+
+    [UF_CRM_1532613305575] => Array
+        (
+            [0] => B4
+        )
+
+    [UF_CRM_1532613353697] => Array
+        (
+            [0] => TRU-LA-LA
+        )
+
+    [UF_CRM_1532613531] => 0
+    [UF_CRM_1532614252] => 1
+    [UF_CRM_1532614341] => 
+    [UF_CRM_1532614475] => 
+    [UF_CRM_1532614542] => 38
+    [UF_CRM_1532614584347] => 09.09.2018
+    [UF_CRM_1532614949319] => 
+    [UF_CRM_1532615006] => не заполнено
+    [UF_CRM_1532615106] => yyyyyyyyyy
+    [UF_CRM_1532615151] => 09.09.2018
+    [UF_CRM_1532615220] => 
+    [UF_CRM_1532615266] => 
+    [UF_CRM_1532615453] => 
+    [UF_CRM_1532615500] => 
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 7
+    [ID] => 48
+)
+Array
+(
+    [ID] => 48
+    [~ID] => 48
+    [STAGE_ID] => 2
+    [~STAGE_ID] => 2
+    [UF_CRM_1532614252] => 1
+    [~UF_CRM_1532614252] => 1
+    [UF_CRM_1532614341] => 
+    [~UF_CRM_1532614341] => 
+    [UF_CRM_1533040894] => 05.08.2018
+    [~UF_CRM_1533040894] => 05.08.2018
+    [UF_CRM_1532615106] => 
+    [~UF_CRM_1532615106] => 
+    [UF_CRM_1532615151] => 
+    [~UF_CRM_1532615151] => 
+    [UF_CRM_1532615192] => 
+    [~UF_CRM_1532615192] => 
+    [UF_CRM_1532615220] => 
+    [~UF_CRM_1532615220] => 
+    [UF_CRM_1532615266] => 
+    [~UF_CRM_1532615266] => 
+    [UF_CRM_1532615453] => 
+    [~UF_CRM_1532615453] => 
+    [UF_CRM_1532615500] => 
+    [~UF_CRM_1532615500] => 
+    [UF_CRM_1532616726] => 
+    [~UF_CRM_1532616726] => 
+    [UF_CRM_1532616763] => 
+    [~UF_CRM_1532616763] => 
+    [UF_CRM_1532616810] => 
+    [~UF_CRM_1532616810] => 
+)
+Array
+(
+    [ASSIGNED_BY_ID] => 7
+    [UF_CRM_1532615106] => yyyyyyyyyy
+    [UF_CRM_1532615151] => 09.09.2018
+    [UF_CRM_1532615192] => 340
+    [UF_CRM_1532615220] => 500%
+    [UF_CRM_1532615266] => ffffffffffffff
+    [UF_CRM_1532615453] => 
+    [UF_CRM_1532615500] => 
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 7
+    [ID] => 48
+)
+Array
+(
+    [ID] => 48
+    [~ID] => 48
+    [STAGE_ID] => 2
+    [~STAGE_ID] => 2
+    [UF_CRM_1532614252] => 1
+    [~UF_CRM_1532614252] => 1
+    [UF_CRM_1532614341] => 
+    [~UF_CRM_1532614341] => 
+    [UF_CRM_1533040894] => 05.08.2018
+    [~UF_CRM_1533040894] => 05.08.2018
+    [UF_CRM_1532615106] => yyyyyyyyyy
+    [~UF_CRM_1532615106] => yyyyyyyyyy
+    [UF_CRM_1532615151] => 09.09.2018
+    [~UF_CRM_1532615151] => 09.09.2018
+    [UF_CRM_1532615192] => 
+    [~UF_CRM_1532615192] => 
+    [UF_CRM_1532615220] => 
+    [~UF_CRM_1532615220] => 
+    [UF_CRM_1532615266] => 
+    [~UF_CRM_1532615266] => 
+    [UF_CRM_1532615453] => 
+    [~UF_CRM_1532615453] => 
+    [UF_CRM_1532615500] => 
+    [~UF_CRM_1532615500] => 
+    [UF_CRM_1532616726] => 
+    [~UF_CRM_1532616726] => 
+    [UF_CRM_1532616763] => 
+    [~UF_CRM_1532616763] => 
+    [UF_CRM_1532616810] => 
+    [~UF_CRM_1532616810] => 
+)
+Array
+(
+    [TITLE] => KFC
+    [STAGE_ID] => PREPARATION
+    [CLOSEDATE] => 07.08.2018
+    [ASSIGNED_BY_ID] => 7
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 
+            [1] => 168
+        )
+
+    [UF_CRM_59EE4DC739368] => 1828
+    [UF_CRM_5A255307F0681] => CALL
+    [COMPANY_ID] => 0
+    [CONTACT_IDS] => Array
+        (
+        )
+
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 7
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [ID] => 48
+)
+Array
+(
+    [ID] => 48
+    [~ID] => 48
+    [STAGE_ID] => 2
+    [~STAGE_ID] => 2
+    [UF_CRM_1532614252] => 1
+    [~UF_CRM_1532614252] => 1
+    [UF_CRM_1532614341] => 
+    [~UF_CRM_1532614341] => 
+    [UF_CRM_1533040894] => 05.08.2018
+    [~UF_CRM_1533040894] => 05.08.2018
+    [UF_CRM_1532615106] => yyyyyyyyyy
+    [~UF_CRM_1532615106] => yyyyyyyyyy
+    [UF_CRM_1532615151] => 09.09.2018
+    [~UF_CRM_1532615151] => 09.09.2018
+    [UF_CRM_1532615192] => 340
+    [~UF_CRM_1532615192] => 340
+    [UF_CRM_1532615220] => 500
+    [~UF_CRM_1532615220] => 500
+    [UF_CRM_1532615266] => ffffffffffffff
+    [~UF_CRM_1532615266] => ffffffffffffff
+    [UF_CRM_1532615453] => 
+    [~UF_CRM_1532615453] => 
+    [UF_CRM_1532615500] => 
+    [~UF_CRM_1532615500] => 
+    [UF_CRM_1532616726] => 
+    [~UF_CRM_1532616726] => 
+    [UF_CRM_1532616763] => 
+    [~UF_CRM_1532616763] => 
+    [UF_CRM_1532616810] => 
+    [~UF_CRM_1532616810] => 
+)
+Array
+(
+    [TITLE] => KFC
+    [STAGE_ID] => LOSE
+    [CLOSEDATE] => 07.08.2018
+    [ASSIGNED_BY_ID] => 7
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 
+            [1] => 168
+        )
+
+    [UF_CRM_59EE4DC739368] => 1828
+    [UF_CRM_5A255307F0681] => CALL
+    [COMPANY_ID] => 0
+    [CONTACT_IDS] => Array
+        (
+        )
+
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 7
+    [STAGE_SEMANTIC_ID] => F
+    [IS_NEW] => N
+    [ID] => 48
+)
+Array
+(
+    [ID] => 48
+    [~ID] => 48
+    [STAGE_ID] => PREPARATION
+    [~STAGE_ID] => PREPARATION
+    [UF_CRM_1532614252] => 1
+    [~UF_CRM_1532614252] => 1
+    [UF_CRM_1532614341] => 
+    [~UF_CRM_1532614341] => 
+    [UF_CRM_1533040894] => 05.08.2018
+    [~UF_CRM_1533040894] => 05.08.2018
+    [UF_CRM_1532615106] => yyyyyyyyyy
+    [~UF_CRM_1532615106] => yyyyyyyyyy
+    [UF_CRM_1532615151] => 09.09.2018
+    [~UF_CRM_1532615151] => 09.09.2018
+    [UF_CRM_1532615192] => 340
+    [~UF_CRM_1532615192] => 340
+    [UF_CRM_1532615220] => 500
+    [~UF_CRM_1532615220] => 500
+    [UF_CRM_1532615266] => ffffffffffffff
+    [~UF_CRM_1532615266] => ffffffffffffff
+    [UF_CRM_1532615453] => 
+    [~UF_CRM_1532615453] => 
+    [UF_CRM_1532615500] => 
+    [~UF_CRM_1532615500] => 
+    [UF_CRM_1532616726] => 
+    [~UF_CRM_1532616726] => 
+    [UF_CRM_1532616763] => 
+    [~UF_CRM_1532616763] => 
+    [UF_CRM_1532616810] => 
+    [~UF_CRM_1532616810] => 
+)
+Array
+(
+    [TITLE] => KFC
+    [STAGE_ID] => PREPAYMENT_INVOICE
+    [CLOSEDATE] => 07.08.2018
+    [ASSIGNED_BY_ID] => 7
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 
+            [1] => 168
+        )
+
+    [UF_CRM_59EE4DC739368] => 1828
+    [UF_CRM_5A255307F0681] => CALL
+    [COMPANY_ID] => 0
+    [CONTACT_IDS] => Array
+        (
+        )
+
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 7
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [ID] => 48
+)
+//////////////*********************-----------
+Array
+(
+    [TITLE] => агнащевщ
+    [STAGE_ID] => PREPARATION
+    [CLOSEDATE] => 07.08.2018
+    [ASSIGNED_BY_ID] => 7
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 
+            [1] => 164
+        )
+
+    [UF_CRM_59EE4DC739368] => 1692
+    [UF_CRM_5A255307F0681] => ADVERTISING
+    [UF_CRM_1533040894] => 01.08.2018
+    [COMPANY_ID] => 0
+    [CONTACT_IDS] => Array
+        (
+        )
+
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 7
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [ID] => 46
+)
+Array
+(
+    [ID] => 46
+    [~ID] => 46
+    [STAGE_ID] => 2
+    [~STAGE_ID] => 2
+    [UF_CRM_1532614252] => 1
+    [~UF_CRM_1532614252] => 1
+    [UF_CRM_1532614341] => 
+    [~UF_CRM_1532614341] => 
+    [UF_CRM_1533040894] => 
+    [~UF_CRM_1533040894] => 
+    [UF_CRM_1532615106] => 
+    [~UF_CRM_1532615106] => 
+    [UF_CRM_1532615151] => 
+    [~UF_CRM_1532615151] => 
+    [UF_CRM_1532615192] => 
+    [~UF_CRM_1532615192] => 
+    [UF_CRM_1532615220] => 
+    [~UF_CRM_1532615220] => 
+    [UF_CRM_1532615266] => 
+    [~UF_CRM_1532615266] => 
+    [UF_CRM_1532615453] => 
+    [~UF_CRM_1532615453] => 
+    [UF_CRM_1532615500] => 
+    [~UF_CRM_1532615500] => 
+    [UF_CRM_1532616726] => 
+    [~UF_CRM_1532616726] => 
+    [UF_CRM_1532616763] => 
+    [~UF_CRM_1532616763] => 
+    [UF_CRM_1532616810] => 
+    [~UF_CRM_1532616810] => 
+)
+Array
+(
+    [TITLE] => агнащевщ
+    [STAGE_ID] => PREPARATION
+    [CLOSEDATE] => 07.08.2018
+    [ASSIGNED_BY_ID] => 7
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 
+            [1] => 164
+        )
+
+    [UF_CRM_59EE4DC739368] => 1692
+    [UF_CRM_5A255307F0681] => ADVERTISING
+    [UF_CRM_1533040894] => 
+    [COMPANY_ID] => 0
+    [CONTACT_IDS] => Array
+        (
+        )
+
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 7
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [ID] => 46
+)
+Array
+(
+    [ID] => 46
+    [~ID] => 46
+    [STAGE_ID] => 2
+    [~STAGE_ID] => 2
+    [UF_CRM_1532614252] => 1
+    [~UF_CRM_1532614252] => 1
+    [UF_CRM_1532614341] => 
+    [~UF_CRM_1532614341] => 
+    [UF_CRM_1533040894] => 
+    [~UF_CRM_1533040894] => 
+    [UF_CRM_1532615106] => 
+    [~UF_CRM_1532615106] => 
+    [UF_CRM_1532615151] => 
+    [~UF_CRM_1532615151] => 
+    [UF_CRM_1532615192] => 
+    [~UF_CRM_1532615192] => 
+    [UF_CRM_1532615220] => 
+    [~UF_CRM_1532615220] => 
+    [UF_CRM_1532615266] => 
+    [~UF_CRM_1532615266] => 
+    [UF_CRM_1532615453] => 
+    [~UF_CRM_1532615453] => 
+    [UF_CRM_1532615500] => 
+    [~UF_CRM_1532615500] => 
+    [UF_CRM_1532616726] => 
+    [~UF_CRM_1532616726] => 
+    [UF_CRM_1532616763] => 
+    [~UF_CRM_1532616763] => 
+    [UF_CRM_1532616810] => 
+    [~UF_CRM_1532616810] => 
+)
+Array
+(
+    [TITLE] => агнащевщ
+    [STAGE_ID] => PREPARATION
+    [CLOSEDATE] => 07.08.2018
+    [ASSIGNED_BY_ID] => 7
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 
+            [1] => 164
+        )
+
+    [UF_CRM_59EE4DC739368] => 1692
+    [UF_CRM_5A255307F0681] => ADVERTISING
+    [UF_CRM_1533040894] => 05.08.2018
+    [COMPANY_ID] => 0
+    [CONTACT_IDS] => Array
+        (
+        )
+
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 7
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [ID] => 46
+)
+Array
+(
+    [ID] => 46
+    [~ID] => 46
+    [STAGE_ID] => 2
+    [~STAGE_ID] => 2
+    [UF_CRM_1532614252] => 1
+    [~UF_CRM_1532614252] => 1
+    [UF_CRM_1532614341] => 
+    [~UF_CRM_1532614341] => 
+    [UF_CRM_1533040894] => 
+    [~UF_CRM_1533040894] => 
+    [UF_CRM_1532615106] => 
+    [~UF_CRM_1532615106] => 
+    [UF_CRM_1532615151] => 
+    [~UF_CRM_1532615151] => 
+    [UF_CRM_1532615192] => 
+    [~UF_CRM_1532615192] => 
+    [UF_CRM_1532615220] => 
+    [~UF_CRM_1532615220] => 
+    [UF_CRM_1532615266] => 
+    [~UF_CRM_1532615266] => 
+    [UF_CRM_1532615453] => 
+    [~UF_CRM_1532615453] => 
+    [UF_CRM_1532615500] => 
+    [~UF_CRM_1532615500] => 
+    [UF_CRM_1532616726] => 
+    [~UF_CRM_1532616726] => 
+    [UF_CRM_1532616763] => 
+    [~UF_CRM_1532616763] => 
+    [UF_CRM_1532616810] => 
+    [~UF_CRM_1532616810] => 
+)
+Array
+(
+    [TITLE] => агнащевщ
+    [STAGE_ID] => 2
+    [CLOSEDATE] => 07.08.2018
+    [ASSIGNED_BY_ID] => 7
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 
+            [1] => 164
+        )
+
+    [UF_CRM_59EE4DC739368] => 1692
+    [UF_CRM_5A255307F0681] => ADVERTISING
+    [COMPANY_ID] => 0
+    [CONTACT_IDS] => Array
+        (
+        )
+
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 7
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [ID] => 46
+)
+Array
+(
+    [ID] => 46
+    [~ID] => 46
+    [STAGE_ID] => PREPARATION
+    [~STAGE_ID] => PREPARATION
+    [UF_CRM_1532614252] => 1
+    [~UF_CRM_1532614252] => 1
+    [UF_CRM_1532614341] => 
+    [~UF_CRM_1532614341] => 
+    [UF_CRM_1533040894] => 05.08.2018
+    [~UF_CRM_1533040894] => 05.08.2018
+    [UF_CRM_1532615106] => 
+    [~UF_CRM_1532615106] => 
+    [UF_CRM_1532615151] => 
+    [~UF_CRM_1532615151] => 
+    [UF_CRM_1532615192] => 
+    [~UF_CRM_1532615192] => 
+    [UF_CRM_1532615220] => 
+    [~UF_CRM_1532615220] => 
+    [UF_CRM_1532615266] => 
+    [~UF_CRM_1532615266] => 
+    [UF_CRM_1532615453] => 
+    [~UF_CRM_1532615453] => 
+    [UF_CRM_1532615500] => 
+    [~UF_CRM_1532615500] => 
+    [UF_CRM_1532616726] => 
+    [~UF_CRM_1532616726] => 
+    [UF_CRM_1532616763] => 
+    [~UF_CRM_1532616763] => 
+    [UF_CRM_1532616810] => 
+    [~UF_CRM_1532616810] => 
+)
+Array
+(
+    [ASSIGNED_BY_ID] => 7
+    [UF_CRM_1533040894] => 
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 7
+    [ID] => 46
+)
+Array
+(
+    [ID] => 46
+    [~ID] => 46
+    [STAGE_ID] => 2
+    [~STAGE_ID] => 2
+    [UF_CRM_1532614252] => 1
+    [~UF_CRM_1532614252] => 1
+    [UF_CRM_1532614341] => 
+    [~UF_CRM_1532614341] => 
+    [UF_CRM_1533040894] => 05.08.2018
+    [~UF_CRM_1533040894] => 05.08.2018
+    [UF_CRM_1532615106] => 
+    [~UF_CRM_1532615106] => 
+    [UF_CRM_1532615151] => 
+    [~UF_CRM_1532615151] => 
+    [UF_CRM_1532615192] => 
+    [~UF_CRM_1532615192] => 
+    [UF_CRM_1532615220] => 
+    [~UF_CRM_1532615220] => 
+    [UF_CRM_1532615266] => 
+    [~UF_CRM_1532615266] => 
+    [UF_CRM_1532615453] => 
+    [~UF_CRM_1532615453] => 
+    [UF_CRM_1532615500] => 
+    [~UF_CRM_1532615500] => 
+    [UF_CRM_1532616726] => 
+    [~UF_CRM_1532616726] => 
+    [UF_CRM_1532616763] => 
+    [~UF_CRM_1532616763] => 
+    [UF_CRM_1532616810] => 
+    [~UF_CRM_1532616810] => 
+)
+Array
+(
+    [TITLE] => агнащевщ
+    [STAGE_ID] => PREPARATION
+    [CLOSEDATE] => 07.08.2018
+    [ASSIGNED_BY_ID] => 7
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 
+            [1] => 164
+        )
+
+    [UF_CRM_59EE4DC739368] => 1692
+    [UF_CRM_5A255307F0681] => ADVERTISING
+    [COMPANY_ID] => 0
+    [CONTACT_IDS] => Array
+        (
+        )
+
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 7
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [ID] => 46
+)
+Array
+(
+    [ID] => 46
+    [~ID] => 46
+    [STAGE_ID] => 2
+    [~STAGE_ID] => 2
+    [UF_CRM_1532614252] => 1
+    [~UF_CRM_1532614252] => 1
+    [UF_CRM_1532614341] => 
+    [~UF_CRM_1532614341] => 
+    [UF_CRM_1533040894] => 
+    [~UF_CRM_1533040894] => 
+    [UF_CRM_1532615106] => 
+    [~UF_CRM_1532615106] => 
+    [UF_CRM_1532615151] => 
+    [~UF_CRM_1532615151] => 
+    [UF_CRM_1532615192] => 
+    [~UF_CRM_1532615192] => 
+    [UF_CRM_1532615220] => 
+    [~UF_CRM_1532615220] => 
+    [UF_CRM_1532615266] => 
+    [~UF_CRM_1532615266] => 
+    [UF_CRM_1532615453] => 
+    [~UF_CRM_1532615453] => 
+    [UF_CRM_1532615500] => 
+    [~UF_CRM_1532615500] => 
+    [UF_CRM_1532616726] => 
+    [~UF_CRM_1532616726] => 
+    [UF_CRM_1532616763] => 
+    [~UF_CRM_1532616763] => 
+    [UF_CRM_1532616810] => 
+    [~UF_CRM_1532616810] => 
+)
+Array
+(
+    [TITLE] => агнащевщ
+    [STAGE_ID] => PREPARATION
+    [CLOSEDATE] => 07.08.2018
+    [ASSIGNED_BY_ID] => 7
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 
+            [1] => 164
+        )
+
+    [UF_CRM_59EE4DC739368] => 1692
+    [UF_CRM_5A255307F0681] => ADVERTISING
+    [UF_CRM_1533040894] => 04.08.2018
+    [COMPANY_ID] => 0
+    [CONTACT_IDS] => Array
+        (
+        )
+
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 7
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [ID] => 46
+)
+Array
+(
+    [ID] => 46
+    [~ID] => 46
+    [STAGE_ID] => 2
+    [~STAGE_ID] => 2
+    [UF_CRM_1532614252] => 1
+    [~UF_CRM_1532614252] => 1
+    [UF_CRM_1532614341] => 
+    [~UF_CRM_1532614341] => 
+    [UF_CRM_1533040894] => 
+    [~UF_CRM_1533040894] => 
+    [UF_CRM_1532615106] => 
+    [~UF_CRM_1532615106] => 
+    [UF_CRM_1532615151] => 
+    [~UF_CRM_1532615151] => 
+    [UF_CRM_1532615192] => 
+    [~UF_CRM_1532615192] => 
+    [UF_CRM_1532615220] => 
+    [~UF_CRM_1532615220] => 
+    [UF_CRM_1532615266] => 
+    [~UF_CRM_1532615266] => 
+    [UF_CRM_1532615453] => 
+    [~UF_CRM_1532615453] => 
+    [UF_CRM_1532615500] => 
+    [~UF_CRM_1532615500] => 
+    [UF_CRM_1532616726] => 
+    [~UF_CRM_1532616726] => 
+    [UF_CRM_1532616763] => 
+    [~UF_CRM_1532616763] => 
+    [UF_CRM_1532616810] => 
+    [~UF_CRM_1532616810] => 
+)
+Array
+(
+    [TITLE] => агнащевщ
+    [STAGE_ID] => PREPAYMENT_INVOICE
+    [CLOSEDATE] => 07.08.2018
+    [ASSIGNED_BY_ID] => 7
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 
+            [1] => 164
+        )
+
+    [UF_CRM_59EE4DC739368] => 1692
+    [UF_CRM_5A255307F0681] => ADVERTISING
+    [COMPANY_ID] => 0
+    [CONTACT_IDS] => Array
+        (
+        )
+
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 7
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [ID] => 46
+)
+Array
+(
+    [ID] => 46
+    [~ID] => 46
+    [STAGE_ID] => PREPARATION
+    [~STAGE_ID] => PREPARATION
+    [UF_CRM_1532614252] => 1
+    [~UF_CRM_1532614252] => 1
+    [UF_CRM_1532614341] => 
+    [~UF_CRM_1532614341] => 
+    [UF_CRM_1533040894] => 04.08.2018
+    [~UF_CRM_1533040894] => 04.08.2018
+    [UF_CRM_1532615106] => 
+    [~UF_CRM_1532615106] => 
+    [UF_CRM_1532615151] => 
+    [~UF_CRM_1532615151] => 
+    [UF_CRM_1532615192] => 
+    [~UF_CRM_1532615192] => 
+    [UF_CRM_1532615220] => 
+    [~UF_CRM_1532615220] => 
+    [UF_CRM_1532615266] => 
+    [~UF_CRM_1532615266] => 
+    [UF_CRM_1532615453] => 
+    [~UF_CRM_1532615453] => 
+    [UF_CRM_1532615500] => 
+    [~UF_CRM_1532615500] => 
+    [UF_CRM_1532616726] => 
+    [~UF_CRM_1532616726] => 
+    [UF_CRM_1532616763] => 
+    [~UF_CRM_1532616763] => 
+    [UF_CRM_1532616810] => 
+    [~UF_CRM_1532616810] => 
+)
+Array
+(
+    [TITLE] => агнащевщ
+    [STAGE_ID] => PREPAYMENT_INVOICE
+    [CLOSEDATE] => 07.08.2018
+    [ASSIGNED_BY_ID] => 7
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 
+            [1] => 164
+        )
+
+    [UF_CRM_59EE4DC739368] => 1692
+    [UF_CRM_5A255307F0681] => ADVERTISING
+    [UF_CRM_1532615106] => OOOOOO
+    [UF_CRM_1532615151] => 02.08.2018
+    [UF_CRM_1532615192] => 341
+    [UF_CRM_1532615220] => 300%
+    [UF_CRM_1532615266] => OOO Lassa
+    [UF_CRM_1532615453] => 
+    [UF_CRM_1532615500] => 
+    [COMPANY_ID] => 0
+    [CONTACT_IDS] => Array
+        (
+        )
+
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 7
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [ID] => 46
+)
+Array
+(
+    [ID] => 46
+    [~ID] => 46
+    [STAGE_ID] => PREPARATION
+    [~STAGE_ID] => PREPARATION
+    [UF_CRM_1532614252] => 1
+    [~UF_CRM_1532614252] => 1
+    [UF_CRM_1532614341] => 
+    [~UF_CRM_1532614341] => 
+    [UF_CRM_1533040894] => 04.08.2018
+    [~UF_CRM_1533040894] => 04.08.2018
+    [UF_CRM_1532615106] => 
+    [~UF_CRM_1532615106] => 
+    [UF_CRM_1532615151] => 
+    [~UF_CRM_1532615151] => 
+    [UF_CRM_1532615192] => 
+    [~UF_CRM_1532615192] => 
+    [UF_CRM_1532615220] => 
+    [~UF_CRM_1532615220] => 
+    [UF_CRM_1532615266] => 
+    [~UF_CRM_1532615266] => 
+    [UF_CRM_1532615453] => 
+    [~UF_CRM_1532615453] => 
+    [UF_CRM_1532615500] => 
+    [~UF_CRM_1532615500] => 
+    [UF_CRM_1532616726] => 
+    [~UF_CRM_1532616726] => 
+    [UF_CRM_1532616763] => 
+    [~UF_CRM_1532616763] => 
+    [UF_CRM_1532616810] => 
+    [~UF_CRM_1532616810] => 
+)
+Array
+(
+    [TITLE] => агнащевщ
+    [STAGE_ID] => PREPARATION
+    [CLOSEDATE] => 07.08.2018
+    [ASSIGNED_BY_ID] => 7
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 
+            [1] => 164
+        )
+
+    [UF_CRM_59EE4DC739368] => 1692
+    [UF_CRM_5A255307F0681] => ADVERTISING
+    [COMPANY_ID] => 0
+    [CONTACT_IDS] => Array
+        (
+        )
+
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 7
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [ID] => 46
+)
+Array
+(
+    [ID] => 46
+    [~ID] => 46
+    [STAGE_ID] => PREPAYMENT_INVOICE
+    [~STAGE_ID] => PREPAYMENT_INVOICE
+    [UF_CRM_1532614252] => 1
+    [~UF_CRM_1532614252] => 1
+    [UF_CRM_1532614341] => 
+    [~UF_CRM_1532614341] => 
+    [UF_CRM_1533040894] => 04.08.2018
+    [~UF_CRM_1533040894] => 04.08.2018
+    [UF_CRM_1532615106] => OOOOOO
+    [~UF_CRM_1532615106] => OOOOOO
+    [UF_CRM_1532615151] => 02.08.2018
+    [~UF_CRM_1532615151] => 02.08.2018
+    [UF_CRM_1532615192] => 341
+    [~UF_CRM_1532615192] => 341
+    [UF_CRM_1532615220] => 300
+    [~UF_CRM_1532615220] => 300
+    [UF_CRM_1532615266] => OOO Lassa
+    [~UF_CRM_1532615266] => OOO Lassa
+    [UF_CRM_1532615453] => 
+    [~UF_CRM_1532615453] => 
+    [UF_CRM_1532615500] => 
+    [~UF_CRM_1532615500] => 
+    [UF_CRM_1532616726] => 
+    [~UF_CRM_1532616726] => 
+    [UF_CRM_1532616763] => 
+    [~UF_CRM_1532616763] => 
+    [UF_CRM_1532616810] => 
+    [~UF_CRM_1532616810] => 
+)
+Array
+(
+    [ASSIGNED_BY_ID] => 7
+    [UF_CRM_1532615106] => 
+    [UF_CRM_1532615151] => 02.08.2018
+    [UF_CRM_1532615192] => 341
+    [UF_CRM_1532615220] => 300
+    [UF_CRM_1532615266] => OOO Lassa
+    [UF_CRM_1532615453] => 
+    [UF_CRM_1532615500] => 
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 7
+    [ID] => 46
+)
+Array
+(
+    [ID] => 46
+    [~ID] => 46
+    [STAGE_ID] => PREPARATION
+    [~STAGE_ID] => PREPARATION
+    [UF_CRM_1532614252] => 1
+    [~UF_CRM_1532614252] => 1
+    [UF_CRM_1532614341] => 
+    [~UF_CRM_1532614341] => 
+    [UF_CRM_1533040894] => 04.08.2018
+    [~UF_CRM_1533040894] => 04.08.2018
+    [UF_CRM_1532615106] => OOOOOO
+    [~UF_CRM_1532615106] => OOOOOO
+    [UF_CRM_1532615151] => 02.08.2018
+    [~UF_CRM_1532615151] => 02.08.2018
+    [UF_CRM_1532615192] => 341
+    [~UF_CRM_1532615192] => 341
+    [UF_CRM_1532615220] => 300
+    [~UF_CRM_1532615220] => 300
+    [UF_CRM_1532615266] => OOO Lassa
+    [~UF_CRM_1532615266] => OOO Lassa
+    [UF_CRM_1532615453] => 
+    [~UF_CRM_1532615453] => 
+    [UF_CRM_1532615500] => 
+    [~UF_CRM_1532615500] => 
+    [UF_CRM_1532616726] => 
+    [~UF_CRM_1532616726] => 
+    [UF_CRM_1532616763] => 
+    [~UF_CRM_1532616763] => 
+    [UF_CRM_1532616810] => 
+    [~UF_CRM_1532616810] => 
+)
+Array
+(
+    [TITLE] => агнащевщ
+    [STAGE_ID] => PREPAYMENT_INVOICE
+    [CLOSEDATE] => 07.08.2018
+    [ASSIGNED_BY_ID] => 7
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 
+            [1] => 164
+        )
+
+    [UF_CRM_59EE4DC739368] => 1692
+    [UF_CRM_5A255307F0681] => ADVERTISING
+    [COMPANY_ID] => 0
+    [CONTACT_IDS] => Array
+        (
+        )
+
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 7
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [ID] => 46
+)
+Array
+(
+    [ID] => 46
+    [~ID] => 46
+    [STAGE_ID] => PREPARATION
+    [~STAGE_ID] => PREPARATION
+    [UF_CRM_1532614252] => 1
+    [~UF_CRM_1532614252] => 1
+    [UF_CRM_1532614341] => 
+    [~UF_CRM_1532614341] => 
+    [UF_CRM_1533040894] => 04.08.2018
+    [~UF_CRM_1533040894] => 04.08.2018
+    [UF_CRM_1532615106] => 
+    [~UF_CRM_1532615106] => 
+    [UF_CRM_1532615151] => 02.08.2018
+    [~UF_CRM_1532615151] => 02.08.2018
+    [UF_CRM_1532615192] => 341
+    [~UF_CRM_1532615192] => 341
+    [UF_CRM_1532615220] => 300
+    [~UF_CRM_1532615220] => 300
+    [UF_CRM_1532615266] => OOO Lassa
+    [~UF_CRM_1532615266] => OOO Lassa
+    [UF_CRM_1532615453] => 
+    [~UF_CRM_1532615453] => 
+    [UF_CRM_1532615500] => 
+    [~UF_CRM_1532615500] => 
+    [UF_CRM_1532616726] => 
+    [~UF_CRM_1532616726] => 
+    [UF_CRM_1532616763] => 
+    [~UF_CRM_1532616763] => 
+    [UF_CRM_1532616810] => 
+    [~UF_CRM_1532616810] => 
+)
+Array
+(
+    [TITLE] => агнащевщ
+    [STAGE_ID] => PREPAYMENT_INVOICE
+    [CLOSEDATE] => 07.08.2018
+    [ASSIGNED_BY_ID] => 7
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 
+            [1] => 164
+        )
+
+    [UF_CRM_59EE4DC739368] => 1692
+    [UF_CRM_5A255307F0681] => ADVERTISING
+    [UF_CRM_1532615106] => |PPPPPPPPPPP
+    [COMPANY_ID] => 0
+    [CONTACT_IDS] => Array
+        (
+        )
+
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 7
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [ID] => 46
+)
+Array
+(
+    [ID] => 46
+    [~ID] => 46
+    [STAGE_ID] => PREPARATION
+    [~STAGE_ID] => PREPARATION
+    [UF_CRM_1532614252] => 1
+    [~UF_CRM_1532614252] => 1
+    [UF_CRM_1532614341] => 
+    [~UF_CRM_1532614341] => 
+    [UF_CRM_1533040894] => 04.08.2018
+    [~UF_CRM_1533040894] => 04.08.2018
+    [UF_CRM_1532615106] => 
+    [~UF_CRM_1532615106] => 
+    [UF_CRM_1532615151] => 02.08.2018
+    [~UF_CRM_1532615151] => 02.08.2018
+    [UF_CRM_1532615192] => 341
+    [~UF_CRM_1532615192] => 341
+    [UF_CRM_1532615220] => 300
+    [~UF_CRM_1532615220] => 300
+    [UF_CRM_1532615266] => OOO Lassa
+    [~UF_CRM_1532615266] => OOO Lassa
+    [UF_CRM_1532615453] => 
+    [~UF_CRM_1532615453] => 
+    [UF_CRM_1532615500] => 
+    [~UF_CRM_1532615500] => 
+    [UF_CRM_1532616726] => 
+    [~UF_CRM_1532616726] => 
+    [UF_CRM_1532616763] => 
+    [~UF_CRM_1532616763] => 
+    [UF_CRM_1532616810] => 
+    [~UF_CRM_1532616810] => 
+)
+Array
+(
+    [TITLE] => агнащевщ
+    [STAGE_ID] => LOSE
+    [CLOSEDATE] => 07.08.2018
+    [ASSIGNED_BY_ID] => 7
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 
+            [1] => 164
+        )
+
+    [UF_CRM_59EE4DC739368] => 1692
+    [UF_CRM_5A255307F0681] => ADVERTISING
+    [COMPANY_ID] => 0
+    [CONTACT_IDS] => Array
+        (
+        )
+
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 7
+    [STAGE_SEMANTIC_ID] => F
+    [IS_NEW] => N
+    [ID] => 46
+)
+Array
+(
+    [ID] => 46
+    [~ID] => 46
+    [STAGE_ID] => PREPAYMENT_INVOICE
+    [~STAGE_ID] => PREPAYMENT_INVOICE
+    [UF_CRM_1532614252] => 1
+    [~UF_CRM_1532614252] => 1
+    [UF_CRM_1532614341] => 
+    [~UF_CRM_1532614341] => 
+    [UF_CRM_1533040894] => 04.08.2018
+    [~UF_CRM_1533040894] => 04.08.2018
+    [UF_CRM_1532615106] => |PPPPPPPPPPP
+    [~UF_CRM_1532615106] => |PPPPPPPPPPP
+    [UF_CRM_1532615151] => 02.08.2018
+    [~UF_CRM_1532615151] => 02.08.2018
+    [UF_CRM_1532615192] => 341
+    [~UF_CRM_1532615192] => 341
+    [UF_CRM_1532615220] => 300
+    [~UF_CRM_1532615220] => 300
+    [UF_CRM_1532615266] => OOO Lassa
+    [~UF_CRM_1532615266] => OOO Lassa
+    [UF_CRM_1532615453] => 
+    [~UF_CRM_1532615453] => 
+    [UF_CRM_1532615500] => 
+    [~UF_CRM_1532615500] => 
+    [UF_CRM_1532616726] => 
+    [~UF_CRM_1532616726] => 
+    [UF_CRM_1532616763] => 
+    [~UF_CRM_1532616763] => 
+    [UF_CRM_1532616810] => 
+    [~UF_CRM_1532616810] => 
+)
+Array
+(
+    [TITLE] => агнащевщ
+    [STAGE_ID] => LOSE
+    [CLOSEDATE] => 07.08.2018
+    [ASSIGNED_BY_ID] => 7
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 
+            [1] => 164
+        )
+
+    [UF_CRM_59EE4DC739368] => 1692
+    [UF_CRM_5A255307F0681] => ADVERTISING
+    [UF_CRM_1532616726] => vvvvvvvvvvvv
+    [UF_CRM_1532616763] => 
+    [UF_CRM_1532616810] => 
+    [UF_CRM_1532616842] => 
+    [COMPANY_ID] => 0
+    [CONTACT_IDS] => Array
+        (
+        )
+
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 7
+    [STAGE_SEMANTIC_ID] => F
+    [IS_NEW] => N
+    [ID] => 46
+)
+Array
+(
+    [ID] => 46
+    [~ID] => 46
+    [STAGE_ID] => PREPAYMENT_INVOICE
+    [~STAGE_ID] => PREPAYMENT_INVOICE
+    [UF_CRM_1532614252] => 1
+    [~UF_CRM_1532614252] => 1
+    [UF_CRM_1532614341] => 
+    [~UF_CRM_1532614341] => 
+    [UF_CRM_1533040894] => 04.08.2018
+    [~UF_CRM_1533040894] => 04.08.2018
+    [UF_CRM_1532615106] => |PPPPPPPPPPP
+    [~UF_CRM_1532615106] => |PPPPPPPPPPP
+    [UF_CRM_1532615151] => 02.08.2018
+    [~UF_CRM_1532615151] => 02.08.2018
+    [UF_CRM_1532615192] => 341
+    [~UF_CRM_1532615192] => 341
+    [UF_CRM_1532615220] => 300
+    [~UF_CRM_1532615220] => 300
+    [UF_CRM_1532615266] => OOO Lassa
+    [~UF_CRM_1532615266] => OOO Lassa
+    [UF_CRM_1532615453] => 
+    [~UF_CRM_1532615453] => 
+    [UF_CRM_1532615500] => 
+    [~UF_CRM_1532615500] => 
+    [UF_CRM_1532616726] => 
+    [~UF_CRM_1532616726] => 
+    [UF_CRM_1532616763] => 
+    [~UF_CRM_1532616763] => 
+    [UF_CRM_1532616810] => 
+    [~UF_CRM_1532616810] => 
+)
+Array
+(
+    [TITLE] => агнащевщ
+    [STAGE_ID] => LOSE
+    [CLOSEDATE] => 07.08.2018
+    [ASSIGNED_BY_ID] => 7
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 
+            [1] => 164
+        )
+
+    [UF_CRM_59EE4DC739368] => 1692
+    [UF_CRM_5A255307F0681] => ADVERTISING
+    [UF_CRM_1532616726] => vvvvvvvvvvvv
+    [UF_CRM_1532616763] => 
+    [UF_CRM_1532616810] => 
+    [UF_CRM_1532616842] => 
+    [COMPANY_ID] => 0
+    [CONTACT_IDS] => Array
+        (
+        )
+
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 7
+    [STAGE_SEMANTIC_ID] => F
+    [IS_NEW] => N
+    [ID] => 46
+)
+Array
+(
+    [ID] => 46
+    [~ID] => 46
+    [STAGE_ID] => PREPAYMENT_INVOICE
+    [~STAGE_ID] => PREPAYMENT_INVOICE
+    [UF_CRM_1532614252] => 1
+    [~UF_CRM_1532614252] => 1
+    [UF_CRM_1532614341] => 
+    [~UF_CRM_1532614341] => 
+    [UF_CRM_1533040894] => 04.08.2018
+    [~UF_CRM_1533040894] => 04.08.2018
+    [UF_CRM_1532615106] => |PPPPPPPPPPP
+    [~UF_CRM_1532615106] => |PPPPPPPPPPP
+    [UF_CRM_1532615151] => 02.08.2018
+    [~UF_CRM_1532615151] => 02.08.2018
+    [UF_CRM_1532615192] => 341
+    [~UF_CRM_1532615192] => 341
+    [UF_CRM_1532615220] => 300
+    [~UF_CRM_1532615220] => 300
+    [UF_CRM_1532615266] => OOO Lassa
+    [~UF_CRM_1532615266] => OOO Lassa
+    [UF_CRM_1532615453] => 
+    [~UF_CRM_1532615453] => 
+    [UF_CRM_1532615500] => 
+    [~UF_CRM_1532615500] => 
+    [UF_CRM_1532616726] => 
+    [~UF_CRM_1532616726] => 
+    [UF_CRM_1532616763] => 
+    [~UF_CRM_1532616763] => 
+    [UF_CRM_1532616810] => 
+    [~UF_CRM_1532616810] => 
+)
+Array
+(
+    [TITLE] => агнащевщ
+    [STAGE_ID] => LOSE
+    [CLOSEDATE] => 07.08.2018
+    [ASSIGNED_BY_ID] => 7
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 
+            [1] => 164
+        )
+
+    [UF_CRM_59EE4DC739368] => 1692
+    [UF_CRM_5A255307F0681] => ADVERTISING
+    [UF_CRM_1532616726] => vvvvvvvvvvvv
+    [UF_CRM_1532616763] => 03.08.2018
+    [UF_CRM_1532616810] => 
+    [UF_CRM_1532616842] => 
+    [COMPANY_ID] => 0
+    [CONTACT_IDS] => Array
+        (
+        )
+
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 7
+    [STAGE_SEMANTIC_ID] => F
+    [IS_NEW] => N
+    [ID] => 46
+)
+Array
+(
+    [ID] => 46
+    [~ID] => 46
+    [STAGE_ID] => PREPAYMENT_INVOICE
+    [~STAGE_ID] => PREPAYMENT_INVOICE
+    [UF_CRM_1532614252] => 1
+    [~UF_CRM_1532614252] => 1
+    [UF_CRM_1532614341] => 
+    [~UF_CRM_1532614341] => 
+    [UF_CRM_1533040894] => 04.08.2018
+    [~UF_CRM_1533040894] => 04.08.2018
+    [UF_CRM_1532615106] => |PPPPPPPPPPP
+    [~UF_CRM_1532615106] => |PPPPPPPPPPP
+    [UF_CRM_1532615151] => 02.08.2018
+    [~UF_CRM_1532615151] => 02.08.2018
+    [UF_CRM_1532615192] => 341
+    [~UF_CRM_1532615192] => 341
+    [UF_CRM_1532615220] => 300
+    [~UF_CRM_1532615220] => 300
+    [UF_CRM_1532615266] => OOO Lassa
+    [~UF_CRM_1532615266] => OOO Lassa
+    [UF_CRM_1532615453] => 
+    [~UF_CRM_1532615453] => 
+    [UF_CRM_1532615500] => 
+    [~UF_CRM_1532615500] => 
+    [UF_CRM_1532616726] => 
+    [~UF_CRM_1532616726] => 
+    [UF_CRM_1532616763] => 
+    [~UF_CRM_1532616763] => 
+    [UF_CRM_1532616810] => 
+    [~UF_CRM_1532616810] => 
+)
+Array
+(
+    [TITLE] => агнащевщ
+    [STAGE_ID] => 2
+    [CLOSEDATE] => 31.07.2018
+    [ASSIGNED_BY_ID] => 7
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 
+            [1] => 164
+        )
+
+    [UF_CRM_59EE4DC739368] => 1692
+    [UF_CRM_5A255307F0681] => ADVERTISING
+    [COMPANY_ID] => 0
+    [CONTACT_IDS] => Array
+        (
+        )
+
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 7
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [ID] => 46
+)
+Array
+(
+    [ID] => 46
+    [~ID] => 46
+    [STAGE_ID] => LOSE
+    [~STAGE_ID] => LOSE
+    [UF_CRM_1532614252] => 1
+    [~UF_CRM_1532614252] => 1
+    [UF_CRM_1532614341] => 
+    [~UF_CRM_1532614341] => 
+    [UF_CRM_1533040894] => 04.08.2018
+    [~UF_CRM_1533040894] => 04.08.2018
+    [UF_CRM_1532615106] => |PPPPPPPPPPP
+    [~UF_CRM_1532615106] => |PPPPPPPPPPP
+    [UF_CRM_1532615151] => 02.08.2018
+    [~UF_CRM_1532615151] => 02.08.2018
+    [UF_CRM_1532615192] => 341
+    [~UF_CRM_1532615192] => 341
+    [UF_CRM_1532615220] => 300
+    [~UF_CRM_1532615220] => 300
+    [UF_CRM_1532615266] => OOO Lassa
+    [~UF_CRM_1532615266] => OOO Lassa
+    [UF_CRM_1532615453] => 
+    [~UF_CRM_1532615453] => 
+    [UF_CRM_1532615500] => 
+    [~UF_CRM_1532615500] => 
+    [UF_CRM_1532616726] => vvvvvvvvvvvv
+    [~UF_CRM_1532616726] => vvvvvvvvvvvv
+    [UF_CRM_1532616763] => 03.08.2018
+    [~UF_CRM_1532616763] => 03.08.2018
+    [UF_CRM_1532616810] => 
+    [~UF_CRM_1532616810] => 
+)
+Array
+(
+    [ASSIGNED_BY_ID] => 7
+    [UF_CRM_1533040894] => 
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 7
+    [ID] => 46
+)
+Array
+(
+    [ID] => 46
+    [~ID] => 46
+    [STAGE_ID] => 2
+    [~STAGE_ID] => 2
+    [UF_CRM_1532614252] => 1
+    [~UF_CRM_1532614252] => 1
+    [UF_CRM_1532614341] => 
+    [~UF_CRM_1532614341] => 
+    [UF_CRM_1533040894] => 04.08.2018
+    [~UF_CRM_1533040894] => 04.08.2018
+    [UF_CRM_1532615106] => |PPPPPPPPPPP
+    [~UF_CRM_1532615106] => |PPPPPPPPPPP
+    [UF_CRM_1532615151] => 02.08.2018
+    [~UF_CRM_1532615151] => 02.08.2018
+    [UF_CRM_1532615192] => 341
+    [~UF_CRM_1532615192] => 341
+    [UF_CRM_1532615220] => 300
+    [~UF_CRM_1532615220] => 300
+    [UF_CRM_1532615266] => OOO Lassa
+    [~UF_CRM_1532615266] => OOO Lassa
+    [UF_CRM_1532615453] => 
+    [~UF_CRM_1532615453] => 
+    [UF_CRM_1532615500] => 
+    [~UF_CRM_1532615500] => 
+    [UF_CRM_1532616726] => vvvvvvvvvvvv
+    [~UF_CRM_1532616726] => vvvvvvvvvvvv
+    [UF_CRM_1532616763] => 03.08.2018
+    [~UF_CRM_1532616763] => 03.08.2018
+    [UF_CRM_1532616810] => 
+    [~UF_CRM_1532616810] => 
+)
+Array
+(
+    [TITLE] => агнащевщ
+    [STAGE_ID] => PREPARATION
+    [CLOSEDATE] => 31.07.2018
+    [ASSIGNED_BY_ID] => 7
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 
+            [1] => 164
+        )
+
+    [UF_CRM_59EE4DC739368] => 1692
+    [UF_CRM_5A255307F0681] => ADVERTISING
+    [COMPANY_ID] => 0
+    [CONTACT_IDS] => Array
+        (
+        )
+
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 7
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [ID] => 46
+)
+Array
+(
+    [ID] => 46
+    [~ID] => 46
+    [STAGE_ID] => 2
+    [~STAGE_ID] => 2
+    [UF_CRM_1532614252] => 1
+    [~UF_CRM_1532614252] => 1
+    [UF_CRM_1532614341] => 
+    [~UF_CRM_1532614341] => 
+    [UF_CRM_1533040894] => 
+    [~UF_CRM_1533040894] => 
+    [UF_CRM_1532615106] => |PPPPPPPPPPP
+    [~UF_CRM_1532615106] => |PPPPPPPPPPP
+    [UF_CRM_1532615151] => 02.08.2018
+    [~UF_CRM_1532615151] => 02.08.2018
+    [UF_CRM_1532615192] => 341
+    [~UF_CRM_1532615192] => 341
+    [UF_CRM_1532615220] => 300
+    [~UF_CRM_1532615220] => 300
+    [UF_CRM_1532615266] => OOO Lassa
+    [~UF_CRM_1532615266] => OOO Lassa
+    [UF_CRM_1532615453] => 
+    [~UF_CRM_1532615453] => 
+    [UF_CRM_1532615500] => 
+    [~UF_CRM_1532615500] => 
+    [UF_CRM_1532616726] => vvvvvvvvvvvv
+    [~UF_CRM_1532616726] => vvvvvvvvvvvv
+    [UF_CRM_1532616763] => 03.08.2018
+    [~UF_CRM_1532616763] => 03.08.2018
+    [UF_CRM_1532616810] => 
+    [~UF_CRM_1532616810] => 
+)
+Array
+(
+    [TITLE] => агнащевщ
+    [STAGE_ID] => PREPARATION
+    [CLOSEDATE] => 31.07.2018
+    [ASSIGNED_BY_ID] => 7
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 
+            [1] => 164
+        )
+
+    [UF_CRM_59EE4DC739368] => 1692
+    [UF_CRM_5A255307F0681] => ADVERTISING
+    [COMPANY_ID] => 0
+    [CONTACT_IDS] => Array
+        (
+        )
+
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 7
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [ID] => 46
+)
+Array
+(
+    [ID] => 46
+    [~ID] => 46
+    [STAGE_ID] => 2
+    [~STAGE_ID] => 2
+    [UF_CRM_1532614252] => 1
+    [~UF_CRM_1532614252] => 1
+    [UF_CRM_1532614341] => 
+    [~UF_CRM_1532614341] => 
+    [UF_CRM_1533040894] => 
+    [~UF_CRM_1533040894] => 
+    [UF_CRM_1532615106] => |PPPPPPPPPPP
+    [~UF_CRM_1532615106] => |PPPPPPPPPPP
+    [UF_CRM_1532615151] => 02.08.2018
+    [~UF_CRM_1532615151] => 02.08.2018
+    [UF_CRM_1532615192] => 341
+    [~UF_CRM_1532615192] => 341
+    [UF_CRM_1532615220] => 300
+    [~UF_CRM_1532615220] => 300
+    [UF_CRM_1532615266] => OOO Lassa
+    [~UF_CRM_1532615266] => OOO Lassa
+    [UF_CRM_1532615453] => 
+    [~UF_CRM_1532615453] => 
+    [UF_CRM_1532615500] => 
+    [~UF_CRM_1532615500] => 
+    [UF_CRM_1532616726] => vvvvvvvvvvvv
+    [~UF_CRM_1532616726] => vvvvvvvvvvvv
+    [UF_CRM_1532616763] => 03.08.2018
+    [~UF_CRM_1532616763] => 03.08.2018
+    [UF_CRM_1532616810] => 
+    [~UF_CRM_1532616810] => 
+)
+Array
+(
+    [TITLE] => агнащевщ
+    [STAGE_ID] => PREPARATION
+    [CLOSEDATE] => 31.07.2018
+    [ASSIGNED_BY_ID] => 7
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 
+            [1] => 164
+        )
+
+    [UF_CRM_59EE4DC739368] => 1692
+    [UF_CRM_5A255307F0681] => ADVERTISING
+    [UF_CRM_1533040894] => 02.08.2018
+    [COMPANY_ID] => 0
+    [CONTACT_IDS] => Array
+        (
+        )
+
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 7
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [ID] => 46
+)
+Array
+(
+    [ID] => 46
+    [~ID] => 46
+    [STAGE_ID] => 2
+    [~STAGE_ID] => 2
+    [UF_CRM_1532614252] => 1
+    [~UF_CRM_1532614252] => 1
+    [UF_CRM_1532614341] => 
+    [~UF_CRM_1532614341] => 
+    [UF_CRM_1533040894] => 
+    [~UF_CRM_1533040894] => 
+    [UF_CRM_1532615106] => |PPPPPPPPPPP
+    [~UF_CRM_1532615106] => |PPPPPPPPPPP
+    [UF_CRM_1532615151] => 02.08.2018
+    [~UF_CRM_1532615151] => 02.08.2018
+    [UF_CRM_1532615192] => 341
+    [~UF_CRM_1532615192] => 341
+    [UF_CRM_1532615220] => 300
+    [~UF_CRM_1532615220] => 300
+    [UF_CRM_1532615266] => OOO Lassa
+    [~UF_CRM_1532615266] => OOO Lassa
+    [UF_CRM_1532615453] => 
+    [~UF_CRM_1532615453] => 
+    [UF_CRM_1532615500] => 
+    [~UF_CRM_1532615500] => 
+    [UF_CRM_1532616726] => vvvvvvvvvvvv
+    [~UF_CRM_1532616726] => vvvvvvvvvvvv
+    [UF_CRM_1532616763] => 03.08.2018
+    [~UF_CRM_1532616763] => 03.08.2018
+    [UF_CRM_1532616810] => 
+    [~UF_CRM_1532616810] => 
+)
+Array
+(
+    [ASSIGNED_BY_ID] => 7
+    [UF_CRM_1532615106] => |PPPPPPPPPPP
+    [UF_CRM_1532615151] => 02.08.2018
+    [UF_CRM_1532615192] => 341
+    [UF_CRM_1532615220] => 
+    [UF_CRM_1532615266] => OOO Lassa
+    [UF_CRM_1532615453] => 
+    [UF_CRM_1532615500] => 
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 7
+    [ID] => 46
+)
+Array
+(
+    [ID] => 46
+    [~ID] => 46
+    [STAGE_ID] => PREPARATION
+    [~STAGE_ID] => PREPARATION
+    [UF_CRM_1532614252] => 1
+    [~UF_CRM_1532614252] => 1
+    [UF_CRM_1532614341] => 
+    [~UF_CRM_1532614341] => 
+    [UF_CRM_1533040894] => 02.08.2018
+    [~UF_CRM_1533040894] => 02.08.2018
+    [UF_CRM_1532615106] => |PPPPPPPPPPP
+    [~UF_CRM_1532615106] => |PPPPPPPPPPP
+    [UF_CRM_1532615151] => 02.08.2018
+    [~UF_CRM_1532615151] => 02.08.2018
+    [UF_CRM_1532615192] => 341
+    [~UF_CRM_1532615192] => 341
+    [UF_CRM_1532615220] => 300
+    [~UF_CRM_1532615220] => 300
+    [UF_CRM_1532615266] => OOO Lassa
+    [~UF_CRM_1532615266] => OOO Lassa
+    [UF_CRM_1532615453] => 
+    [~UF_CRM_1532615453] => 
+    [UF_CRM_1532615500] => 
+    [~UF_CRM_1532615500] => 
+    [UF_CRM_1532616726] => vvvvvvvvvvvv
+    [~UF_CRM_1532616726] => vvvvvvvvvvvv
+    [UF_CRM_1532616763] => 03.08.2018
+    [~UF_CRM_1532616763] => 03.08.2018
+    [UF_CRM_1532616810] => 
+    [~UF_CRM_1532616810] => 
+)
+Array
+(
+    [TITLE] => агнащевщ
+    [STAGE_ID] => PREPAYMENT_INVOICE
+    [CLOSEDATE] => 31.07.2018
+    [ASSIGNED_BY_ID] => 7
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 
+            [1] => 164
+        )
+
+    [UF_CRM_59EE4DC739368] => 1692
+    [UF_CRM_5A255307F0681] => ADVERTISING
+    [COMPANY_ID] => 0
+    [CONTACT_IDS] => Array
+        (
+        )
+
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 7
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [ID] => 46
+)
+Array
+(
+    [ID] => 46
+    [~ID] => 46
+    [STAGE_ID] => PREPARATION
+    [~STAGE_ID] => PREPARATION
+    [UF_CRM_1532614252] => 1
+    [~UF_CRM_1532614252] => 1
+    [UF_CRM_1532614341] => 
+    [~UF_CRM_1532614341] => 
+    [UF_CRM_1533040894] => 02.08.2018
+    [~UF_CRM_1533040894] => 02.08.2018
+    [UF_CRM_1532615106] => |PPPPPPPPPPP
+    [~UF_CRM_1532615106] => |PPPPPPPPPPP
+    [UF_CRM_1532615151] => 02.08.2018
+    [~UF_CRM_1532615151] => 02.08.2018
+    [UF_CRM_1532615192] => 
+    [~UF_CRM_1532615192] => 
+    [UF_CRM_1532615220] => 
+    [~UF_CRM_1532615220] => 
+    [UF_CRM_1532615266] => OOO Lassa
+    [~UF_CRM_1532615266] => OOO Lassa
+    [UF_CRM_1532615453] => 
+    [~UF_CRM_1532615453] => 
+    [UF_CRM_1532615500] => 
+    [~UF_CRM_1532615500] => 
+    [UF_CRM_1532616726] => vvvvvvvvvvvv
+    [~UF_CRM_1532616726] => vvvvvvvvvvvv
+    [UF_CRM_1532616763] => 03.08.2018
+    [~UF_CRM_1532616763] => 03.08.2018
+    [UF_CRM_1532616810] => 
+    [~UF_CRM_1532616810] => 
+)
+Array
+(
+    [TITLE] => агнащевщ
+    [STAGE_ID] => PREPAYMENT_INVOICE
+    [CLOSEDATE] => 31.07.2018
+    [ASSIGNED_BY_ID] => 7
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 
+            [1] => 164
+        )
+
+    [UF_CRM_59EE4DC739368] => 1692
+    [UF_CRM_5A255307F0681] => ADVERTISING
+    [UF_CRM_1532615106] => |PPPPPPPPPPP
+    [UF_CRM_1532615151] => 02.08.2018
+    [UF_CRM_1532615192] => 342
+    [UF_CRM_1532615220] => 
+    [UF_CRM_1532615266] => OOO Lassa
+    [UF_CRM_1532615453] => 
+    [UF_CRM_1532615500] => 
+    [COMPANY_ID] => 0
+    [CONTACT_IDS] => Array
+        (
+        )
+
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 7
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [ID] => 46
+)
+Array
+(
+    [ID] => 46
+    [~ID] => 46
+    [STAGE_ID] => PREPARATION
+    [~STAGE_ID] => PREPARATION
+    [UF_CRM_1532614252] => 1
+    [~UF_CRM_1532614252] => 1
+    [UF_CRM_1532614341] => 
+    [~UF_CRM_1532614341] => 
+    [UF_CRM_1533040894] => 02.08.2018
+    [~UF_CRM_1533040894] => 02.08.2018
+    [UF_CRM_1532615106] => |PPPPPPPPPPP
+    [~UF_CRM_1532615106] => |PPPPPPPPPPP
+    [UF_CRM_1532615151] => 02.08.2018
+    [~UF_CRM_1532615151] => 02.08.2018
+    [UF_CRM_1532615192] => 
+    [~UF_CRM_1532615192] => 
+    [UF_CRM_1532615220] => 
+    [~UF_CRM_1532615220] => 
+    [UF_CRM_1532615266] => OOO Lassa
+    [~UF_CRM_1532615266] => OOO Lassa
+    [UF_CRM_1532615453] => 
+    [~UF_CRM_1532615453] => 
+    [UF_CRM_1532615500] => 
+    [~UF_CRM_1532615500] => 
+    [UF_CRM_1532616726] => vvvvvvvvvvvv
+    [~UF_CRM_1532616726] => vvvvvvvvvvvv
+    [UF_CRM_1532616763] => 03.08.2018
+    [~UF_CRM_1532616763] => 03.08.2018
+    [UF_CRM_1532616810] => 
+    [~UF_CRM_1532616810] => 
+)
+Array
+(
+    [TITLE] => агнащевщ
+    [STAGE_ID] => PREPAYMENT_INVOICE
+    [CLOSEDATE] => 31.07.2018
+    [ASSIGNED_BY_ID] => 7
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 
+            [1] => 164
+        )
+
+    [UF_CRM_59EE4DC739368] => 1692
+    [UF_CRM_5A255307F0681] => ADVERTISING
+    [UF_CRM_1532615106] => |PPPPPPPPPPP
+    [UF_CRM_1532615151] => 02.08.2018
+    [UF_CRM_1532615192] => 342
+    [UF_CRM_1532615220] => 500%
+    [UF_CRM_1532615266] => OOO Lassa
+    [UF_CRM_1532615453] => 
+    [UF_CRM_1532615500] => 
+    [COMPANY_ID] => 0
+    [CONTACT_IDS] => Array
+        (
+        )
+
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 7
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [ID] => 46
+)
+Array
+(
+    [ID] => 46
+    [~ID] => 46
+    [STAGE_ID] => PREPARATION
+    [~STAGE_ID] => PREPARATION
+    [UF_CRM_1532614252] => 1
+    [~UF_CRM_1532614252] => 1
+    [UF_CRM_1532614341] => 
+    [~UF_CRM_1532614341] => 
+    [UF_CRM_1533040894] => 02.08.2018
+    [~UF_CRM_1533040894] => 02.08.2018
+    [UF_CRM_1532615106] => |PPPPPPPPPPP
+    [~UF_CRM_1532615106] => |PPPPPPPPPPP
+    [UF_CRM_1532615151] => 02.08.2018
+    [~UF_CRM_1532615151] => 02.08.2018
+    [UF_CRM_1532615192] => 
+    [~UF_CRM_1532615192] => 
+    [UF_CRM_1532615220] => 
+    [~UF_CRM_1532615220] => 
+    [UF_CRM_1532615266] => OOO Lassa
+    [~UF_CRM_1532615266] => OOO Lassa
+    [UF_CRM_1532615453] => 
+    [~UF_CRM_1532615453] => 
+    [UF_CRM_1532615500] => 
+    [~UF_CRM_1532615500] => 
+    [UF_CRM_1532616726] => vvvvvvvvvvvv
+    [~UF_CRM_1532616726] => vvvvvvvvvvvv
+    [UF_CRM_1532616763] => 03.08.2018
+    [~UF_CRM_1532616763] => 03.08.2018
+    [UF_CRM_1532616810] => 
+    [~UF_CRM_1532616810] => 
+)
+Array
+(
+    [TITLE] => агнащевщ
+    [STAGE_ID] => 4
+    [CLOSEDATE] => 31.07.2018
+    [ASSIGNED_BY_ID] => 7
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 
+            [1] => 164
+        )
+
+    [UF_CRM_59EE4DC739368] => 1692
+    [UF_CRM_5A255307F0681] => ADVERTISING
+    [COMPANY_ID] => 0
+    [CONTACT_IDS] => Array
+        (
+        )
+
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 7
+    [STAGE_SEMANTIC_ID] => F
+    [IS_NEW] => N
+    [ID] => 46
+)
+Array
+(
+    [ID] => 46
+    [~ID] => 46
+    [STAGE_ID] => PREPAYMENT_INVOICE
+    [~STAGE_ID] => PREPAYMENT_INVOICE
+    [UF_CRM_1532614252] => 1
+    [~UF_CRM_1532614252] => 1
+    [UF_CRM_1532614341] => 
+    [~UF_CRM_1532614341] => 
+    [UF_CRM_1533040894] => 02.08.2018
+    [~UF_CRM_1533040894] => 02.08.2018
+    [UF_CRM_1532615106] => |PPPPPPPPPPP
+    [~UF_CRM_1532615106] => |PPPPPPPPPPP
+    [UF_CRM_1532615151] => 02.08.2018
+    [~UF_CRM_1532615151] => 02.08.2018
+    [UF_CRM_1532615192] => 342
+    [~UF_CRM_1532615192] => 342
+    [UF_CRM_1532615220] => 500
+    [~UF_CRM_1532615220] => 500
+    [UF_CRM_1532615266] => OOO Lassa
+    [~UF_CRM_1532615266] => OOO Lassa
+    [UF_CRM_1532615453] => 
+    [~UF_CRM_1532615453] => 
+    [UF_CRM_1532615500] => 
+    [~UF_CRM_1532615500] => 
+    [UF_CRM_1532616726] => vvvvvvvvvvvv
+    [~UF_CRM_1532616726] => vvvvvvvvvvvv
+    [UF_CRM_1532616763] => 03.08.2018
+    [~UF_CRM_1532616763] => 03.08.2018
+    [UF_CRM_1532616810] => 
+    [~UF_CRM_1532616810] => 
+)
+
+*-----------------------------------------------------------------------*
+Array
+(
+    [TITLE] => ТЕСТ NEW 03.08
+    [STAGE_ID] => PREPARATION
+    [ASSIGNED_BY_ID] => 7
+    [UF_CRM_59EE4DC739368] => 1524
+    [COMPANY_ID] => 0
+    [CONTACT_IDS] => Array
+        (
+        )
+
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 7
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [ID] => 58
+)
+Array
+(
+    [ID] => 58
+    [~ID] => 58
+    [STAGE_ID] => NEW
+    [~STAGE_ID] => NEW
+    [ASSIGNED_BY_ID] => 7
+    [~ASSIGNED_BY_ID] => 7
+    [UF_CRM_1532614252] => 0
+    [~UF_CRM_1532614252] => 0
+    [UF_CRM_1532614341] => 
+    [~UF_CRM_1532614341] => 
+    [UF_CRM_1532613531] => 0
+    [~UF_CRM_1532613531] => 0
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 162
+        )
+
+    [~UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 162
+        )
+
+    [UF_CRM_1532613305575] => Array
+        (
+            [0] => B1-B4, C1
+        )
+
+    [~UF_CRM_1532613305575] => Array
+        (
+            [0] => B1-B4, C1
+        )
+
+    [UF_CRM_1532613353697] => Array
+        (
+            [0] => OOO NoName
+        )
+
+    [~UF_CRM_1532613353697] => Array
+        (
+            [0] => OOO NoName
+        )
+
+    [UF_CRM_1533131953485] => 10
+    [~UF_CRM_1533131953485] => 10
+    [UF_CRM_1532614475] => 53
+    [~UF_CRM_1532614475] => 53
+    [UF_CRM_1532614542] => 50
+    [~UF_CRM_1532614542] => 50
+    [UF_CRM_1532614584347] => 04.08.2018
+    [~UF_CRM_1532614584347] => 04.08.2018
+    [UF_CRM_1533040894] => 
+    [~UF_CRM_1533040894] => 
+    [UF_CRM_1532615106] => 
+    [~UF_CRM_1532615106] => 
+    [UF_CRM_1532615151] => 
+    [~UF_CRM_1532615151] => 
+    [UF_CRM_1532615192] => 
+    [~UF_CRM_1532615192] => 
+    [UF_CRM_1532615220] => 
+    [~UF_CRM_1532615220] => 
+    [UF_CRM_1532615266] => 
+    [~UF_CRM_1532615266] => 
+    [UF_CRM_1532615453] => 
+    [~UF_CRM_1532615453] => 
+    [UF_CRM_1532615500] => 
+    [~UF_CRM_1532615500] => 
+    [UF_CRM_1532616726] => 
+    [~UF_CRM_1532616726] => 
+    [UF_CRM_1532616763] => 
+    [~UF_CRM_1532616763] => 
+    [UF_CRM_1532616810] => 
+    [~UF_CRM_1532616810] => 
+)
+Array
+(
+    [TITLE] => ТЕСТ NEW 03.08
+    [STAGE_ID] => PREPARATION
+    [ASSIGNED_BY_ID] => 7
+    [UF_CRM_59EE4DC739368] => 1524
+    [UF_CRM_1532614252] => 1
+    [COMPANY_ID] => 0
+    [CONTACT_IDS] => Array
+        (
+        )
+
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 7
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [ID] => 58
+)
+Array
+(
+    [ID] => 58
+    [~ID] => 58
+    [STAGE_ID] => NEW
+    [~STAGE_ID] => NEW
+    [ASSIGNED_BY_ID] => 7
+    [~ASSIGNED_BY_ID] => 7
+    [UF_CRM_1532614252] => 0
+    [~UF_CRM_1532614252] => 0
+    [UF_CRM_1532614341] => 
+    [~UF_CRM_1532614341] => 
+    [UF_CRM_1532613531] => 0
+    [~UF_CRM_1532613531] => 0
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 162
+        )
+
+    [~UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 162
+        )
+
+    [UF_CRM_1532613305575] => Array
+        (
+            [0] => B1-B4, C1
+        )
+
+    [~UF_CRM_1532613305575] => Array
+        (
+            [0] => B1-B4, C1
+        )
+
+    [UF_CRM_1532613353697] => Array
+        (
+            [0] => OOO NoName
+        )
+
+    [~UF_CRM_1532613353697] => Array
+        (
+            [0] => OOO NoName
+        )
+
+    [UF_CRM_1533131953485] => 10
+    [~UF_CRM_1533131953485] => 10
+    [UF_CRM_1532614475] => 53
+    [~UF_CRM_1532614475] => 53
+    [UF_CRM_1532614542] => 50
+    [~UF_CRM_1532614542] => 50
+    [UF_CRM_1532614584347] => 04.08.2018
+    [~UF_CRM_1532614584347] => 04.08.2018
+    [UF_CRM_1533040894] => 
+    [~UF_CRM_1533040894] => 
+    [UF_CRM_1532615106] => 
+    [~UF_CRM_1532615106] => 
+    [UF_CRM_1532615151] => 
+    [~UF_CRM_1532615151] => 
+    [UF_CRM_1532615192] => 
+    [~UF_CRM_1532615192] => 
+    [UF_CRM_1532615220] => 
+    [~UF_CRM_1532615220] => 
+    [UF_CRM_1532615266] => 
+    [~UF_CRM_1532615266] => 
+    [UF_CRM_1532615453] => 
+    [~UF_CRM_1532615453] => 
+    [UF_CRM_1532615500] => 
+    [~UF_CRM_1532615500] => 
+    [UF_CRM_1532616726] => 
+    [~UF_CRM_1532616726] => 
+    [UF_CRM_1532616763] => 
+    [~UF_CRM_1532616763] => 
+    [UF_CRM_1532616810] => 
+    [~UF_CRM_1532616810] => 
+)
+Array
+(
+    [TITLE] => ТЕСТ NEW 03.08
+    [STAGE_ID] => PREPARATION
+    [ASSIGNED_BY_ID] => 7
+    [UF_CRM_59EE4DC739368] => 1524
+    [COMPANY_ID] => 0
+    [CONTACT_IDS] => Array
+        (
+        )
+
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 7
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [ID] => 58
+)
+Array
+(
+    [ID] => 58
+    [~ID] => 58
+    [STAGE_ID] => NEW
+    [~STAGE_ID] => NEW
+    [ASSIGNED_BY_ID] => 7
+    [~ASSIGNED_BY_ID] => 7
+    [UF_CRM_1532614252] => 0
+    [~UF_CRM_1532614252] => 0
+    [UF_CRM_1532614341] => 
+    [~UF_CRM_1532614341] => 
+    [UF_CRM_1532613531] => 0
+    [~UF_CRM_1532613531] => 0
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 162
+        )
+
+    [~UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 162
+        )
+
+    [UF_CRM_1532613305575] => Array
+        (
+            [0] => B1-B4, C1
+        )
+
+    [~UF_CRM_1532613305575] => Array
+        (
+            [0] => B1-B4, C1
+        )
+
+    [UF_CRM_1532613353697] => Array
+        (
+            [0] => OOO NoName
+        )
+
+    [~UF_CRM_1532613353697] => Array
+        (
+            [0] => OOO NoName
+        )
+
+    [UF_CRM_1533131953485] => 10
+    [~UF_CRM_1533131953485] => 10
+    [UF_CRM_1532614475] => 53
+    [~UF_CRM_1532614475] => 53
+    [UF_CRM_1532614542] => 50
+    [~UF_CRM_1532614542] => 50
+    [UF_CRM_1532614584347] => 04.08.2018
+    [~UF_CRM_1532614584347] => 04.08.2018
+    [UF_CRM_1533040894] => 
+    [~UF_CRM_1533040894] => 
+    [UF_CRM_1532615106] => 
+    [~UF_CRM_1532615106] => 
+    [UF_CRM_1532615151] => 
+    [~UF_CRM_1532615151] => 
+    [UF_CRM_1532615192] => 
+    [~UF_CRM_1532615192] => 
+    [UF_CRM_1532615220] => 
+    [~UF_CRM_1532615220] => 
+    [UF_CRM_1532615266] => 
+    [~UF_CRM_1532615266] => 
+    [UF_CRM_1532615453] => 
+    [~UF_CRM_1532615453] => 
+    [UF_CRM_1532615500] => 
+    [~UF_CRM_1532615500] => 
+    [UF_CRM_1532616726] => 
+    [~UF_CRM_1532616726] => 
+    [UF_CRM_1532616763] => 
+    [~UF_CRM_1532616763] => 
+    [UF_CRM_1532616810] => 
+    [~UF_CRM_1532616810] => 
+)
+Array
+(
+    [TITLE] => ТЕСТ NEW 03.08
+    [STAGE_ID] => PREPARATION
+    [ASSIGNED_BY_ID] => 7
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 
+            [1] => 162
+        )
+
+    [UF_CRM_59EE4DC739368] => 1524
+    [UF_CRM_1532613305575] => Array
+        (
+            [0] => B1-B4, C1
+        )
+
+    [UF_CRM_1532613353697] => Array
+        (
+            [0] => OOO NoName
+        )
+
+    [UF_CRM_1532613531] => 0
+    [UF_CRM_1532614252] => 1
+    [UF_CRM_1532614341] => 
+    [UF_CRM_1532614475] => 53
+    [UF_CRM_1532614542] => 50
+    [UF_CRM_1532614584347] => 04.08.2018
+    [UF_CRM_1532614949319] => 
+    [UF_CRM_1532615006] => не заполнено
+    [UF_CRM_1533131953485] => 10
+    [COMPANY_ID] => 0
+    [CONTACT_IDS] => Array
+        (
+        )
+
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 7
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [ID] => 58
+)
+Array
+(
+    [ID] => 58
+    [~ID] => 58
+    [STAGE_ID] => NEW
+    [~STAGE_ID] => NEW
+    [ASSIGNED_BY_ID] => 7
+    [~ASSIGNED_BY_ID] => 7
+    [UF_CRM_1532614252] => 0
+    [~UF_CRM_1532614252] => 0
+    [UF_CRM_1532614341] => 
+    [~UF_CRM_1532614341] => 
+    [UF_CRM_1532613531] => 0
+    [~UF_CRM_1532613531] => 0
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 162
+        )
+
+    [~UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 162
+        )
+
+    [UF_CRM_1532613305575] => Array
+        (
+            [0] => B1-B4, C1
+        )
+
+    [~UF_CRM_1532613305575] => Array
+        (
+            [0] => B1-B4, C1
+        )
+
+    [UF_CRM_1532613353697] => Array
+        (
+            [0] => OOO NoName
+        )
+
+    [~UF_CRM_1532613353697] => Array
+        (
+            [0] => OOO NoName
+        )
+
+    [UF_CRM_1533131953485] => 10
+    [~UF_CRM_1533131953485] => 10
+    [UF_CRM_1532614475] => 53
+    [~UF_CRM_1532614475] => 53
+    [UF_CRM_1532614542] => 50
+    [~UF_CRM_1532614542] => 50
+    [UF_CRM_1532614584347] => 04.08.2018
+    [~UF_CRM_1532614584347] => 04.08.2018
+    [UF_CRM_1533040894] => 
+    [~UF_CRM_1533040894] => 
+    [UF_CRM_1532615106] => 
+    [~UF_CRM_1532615106] => 
+    [UF_CRM_1532615151] => 
+    [~UF_CRM_1532615151] => 
+    [UF_CRM_1532615192] => 
+    [~UF_CRM_1532615192] => 
+    [UF_CRM_1532615220] => 
+    [~UF_CRM_1532615220] => 
+    [UF_CRM_1532615266] => 
+    [~UF_CRM_1532615266] => 
+    [UF_CRM_1532615453] => 
+    [~UF_CRM_1532615453] => 
+    [UF_CRM_1532615500] => 
+    [~UF_CRM_1532615500] => 
+    [UF_CRM_1532616726] => 
+    [~UF_CRM_1532616726] => 
+    [UF_CRM_1532616763] => 
+    [~UF_CRM_1532616763] => 
+    [UF_CRM_1532616810] => 
+    [~UF_CRM_1532616810] => 
+)
+Array
+(
+    [TITLE] => ТЕСТ NEW 03.08
+    [STAGE_ID] => NEW
+    [ASSIGNED_BY_ID] => 7
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 
+            [1] => 162
+        )
+
+    [UF_CRM_59EE4DC739368] => 1524
+    [UF_CRM_1532613305575] => Array
+        (
+            [0] => B1-B4, C1
+        )
+
+    [UF_CRM_1532613353697] => Array
+        (
+            [0] => OOO NoName
+        )
+
+    [UF_CRM_1532613531] => 0
+    [UF_CRM_1532614252] => 0
+    [UF_CRM_1532614341] => 
+    [UF_CRM_1532614475] => 53
+    [UF_CRM_1532614542] => 50
+    [UF_CRM_1532614584347] => 04.08.2018
+    [UF_CRM_1532614949319] => 
+    [UF_CRM_1532615006] => не заполнено
+    [UF_CRM_1533131953485] => 10
+    [COMPANY_ID] => 0
+    [CONTACT_IDS] => Array
+        (
+        )
+
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 7
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => Y
+    [ID] => 58
+)
+Array
+(
+    [ID] => 58
+    [~ID] => 58
+    [STAGE_ID] => PREPARATION
+    [~STAGE_ID] => PREPARATION
+    [ASSIGNED_BY_ID] => 7
+    [~ASSIGNED_BY_ID] => 7
+    [UF_CRM_1532614252] => 1
+    [~UF_CRM_1532614252] => 1
+    [UF_CRM_1532614341] => 
+    [~UF_CRM_1532614341] => 
+    [UF_CRM_1532613531] => 0
+    [~UF_CRM_1532613531] => 0
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 162
+        )
+
+    [~UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 162
+        )
+
+    [UF_CRM_1532613305575] => Array
+        (
+            [0] => B1-B4, C1
+        )
+
+    [~UF_CRM_1532613305575] => Array
+        (
+            [0] => B1-B4, C1
+        )
+
+    [UF_CRM_1532613353697] => Array
+        (
+            [0] => OOO NoName
+        )
+
+    [~UF_CRM_1532613353697] => Array
+        (
+            [0] => OOO NoName
+        )
+
+    [UF_CRM_1533131953485] => 10
+    [~UF_CRM_1533131953485] => 10
+    [UF_CRM_1532614475] => 53
+    [~UF_CRM_1532614475] => 53
+    [UF_CRM_1532614542] => 50
+    [~UF_CRM_1532614542] => 50
+    [UF_CRM_1532614584347] => 04.08.2018
+    [~UF_CRM_1532614584347] => 04.08.2018
+    [UF_CRM_1533040894] => 
+    [~UF_CRM_1533040894] => 
+    [UF_CRM_1532615106] => 
+    [~UF_CRM_1532615106] => 
+    [UF_CRM_1532615151] => 
+    [~UF_CRM_1532615151] => 
+    [UF_CRM_1532615192] => 
+    [~UF_CRM_1532615192] => 
+    [UF_CRM_1532615220] => 
+    [~UF_CRM_1532615220] => 
+    [UF_CRM_1532615266] => 
+    [~UF_CRM_1532615266] => 
+    [UF_CRM_1532615453] => 
+    [~UF_CRM_1532615453] => 
+    [UF_CRM_1532615500] => 
+    [~UF_CRM_1532615500] => 
+    [UF_CRM_1532616726] => 
+    [~UF_CRM_1532616726] => 
+    [UF_CRM_1532616763] => 
+    [~UF_CRM_1532616763] => 
+    [UF_CRM_1532616810] => 
+    [~UF_CRM_1532616810] => 
+)
+Array
+(
+    [TITLE] => ТЕСТ NEW 03.08
+    [STAGE_ID] => PREPAYMENT_INVOICE
+    [ASSIGNED_BY_ID] => 7
+    [UF_CRM_59EE4DC739368] => 1524
+    [COMPANY_ID] => 0
+    [CONTACT_IDS] => Array
+        (
+        )
+
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 7
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [ID] => 58
+)
+Array
+(
+    [ID] => 58
+    [~ID] => 58
+    [STAGE_ID] => NEW
+    [~STAGE_ID] => NEW
+    [ASSIGNED_BY_ID] => 7
+    [~ASSIGNED_BY_ID] => 7
+    [UF_CRM_1532614252] => 0
+    [~UF_CRM_1532614252] => 0
+    [UF_CRM_1532614341] => 
+    [~UF_CRM_1532614341] => 
+    [UF_CRM_1532613531] => 0
+    [~UF_CRM_1532613531] => 0
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 162
+        )
+
+    [~UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 162
+        )
+
+    [UF_CRM_1532613305575] => Array
+        (
+            [0] => B1-B4, C1
+        )
+
+    [~UF_CRM_1532613305575] => Array
+        (
+            [0] => B1-B4, C1
+        )
+
+    [UF_CRM_1532613353697] => Array
+        (
+            [0] => OOO NoName
+        )
+
+    [~UF_CRM_1532613353697] => Array
+        (
+            [0] => OOO NoName
+        )
+
+    [UF_CRM_1533131953485] => 10
+    [~UF_CRM_1533131953485] => 10
+    [UF_CRM_1532614475] => 53
+    [~UF_CRM_1532614475] => 53
+    [UF_CRM_1532614542] => 50
+    [~UF_CRM_1532614542] => 50
+    [UF_CRM_1532614584347] => 04.08.2018
+    [~UF_CRM_1532614584347] => 04.08.2018
+    [UF_CRM_1533040894] => 
+    [~UF_CRM_1533040894] => 
+    [UF_CRM_1532615106] => 
+    [~UF_CRM_1532615106] => 
+    [UF_CRM_1532615151] => 
+    [~UF_CRM_1532615151] => 
+    [UF_CRM_1532615192] => 
+    [~UF_CRM_1532615192] => 
+    [UF_CRM_1532615220] => 
+    [~UF_CRM_1532615220] => 
+    [UF_CRM_1532615266] => 
+    [~UF_CRM_1532615266] => 
+    [UF_CRM_1532615453] => 
+    [~UF_CRM_1532615453] => 
+    [UF_CRM_1532615500] => 
+    [~UF_CRM_1532615500] => 
+    [UF_CRM_1532616726] => 
+    [~UF_CRM_1532616726] => 
+    [UF_CRM_1532616763] => 
+    [~UF_CRM_1532616763] => 
+    [UF_CRM_1532616810] => 
+    [~UF_CRM_1532616810] => 
+)
+Array
+(
+    [TITLE] => ТЕСТ NEW 03.08
+    [STAGE_ID] => PREPAYMENT_INVOICE
+    [ASSIGNED_BY_ID] => 7
+    [UF_CRM_59EE4DC739368] => 1524
+    [UF_CRM_1532614252] => 0
+    [UF_CRM_1532614341] => 4750
+    [COMPANY_ID] => 0
+    [CONTACT_IDS] => Array
+        (
+        )
+
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 7
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [ID] => 58
+)
+Array
+(
+    [ID] => 58
+    [~ID] => 58
+    [STAGE_ID] => NEW
+    [~STAGE_ID] => NEW
+    [ASSIGNED_BY_ID] => 7
+    [~ASSIGNED_BY_ID] => 7
+    [UF_CRM_1532614252] => 0
+    [~UF_CRM_1532614252] => 0
+    [UF_CRM_1532614341] => 
+    [~UF_CRM_1532614341] => 
+    [UF_CRM_1532613531] => 0
+    [~UF_CRM_1532613531] => 0
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 162
+        )
+
+    [~UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 162
+        )
+
+    [UF_CRM_1532613305575] => Array
+        (
+            [0] => B1-B4, C1
+        )
+
+    [~UF_CRM_1532613305575] => Array
+        (
+            [0] => B1-B4, C1
+        )
+
+    [UF_CRM_1532613353697] => Array
+        (
+            [0] => OOO NoName
+        )
+
+    [~UF_CRM_1532613353697] => Array
+        (
+            [0] => OOO NoName
+        )
+
+    [UF_CRM_1533131953485] => 10
+    [~UF_CRM_1533131953485] => 10
+    [UF_CRM_1532614475] => 53
+    [~UF_CRM_1532614475] => 53
+    [UF_CRM_1532614542] => 50
+    [~UF_CRM_1532614542] => 50
+    [UF_CRM_1532614584347] => 04.08.2018
+    [~UF_CRM_1532614584347] => 04.08.2018
+    [UF_CRM_1533040894] => 
+    [~UF_CRM_1533040894] => 
+    [UF_CRM_1532615106] => 
+    [~UF_CRM_1532615106] => 
+    [UF_CRM_1532615151] => 
+    [~UF_CRM_1532615151] => 
+    [UF_CRM_1532615192] => 
+    [~UF_CRM_1532615192] => 
+    [UF_CRM_1532615220] => 
+    [~UF_CRM_1532615220] => 
+    [UF_CRM_1532615266] => 
+    [~UF_CRM_1532615266] => 
+    [UF_CRM_1532615453] => 
+    [~UF_CRM_1532615453] => 
+    [UF_CRM_1532615500] => 
+    [~UF_CRM_1532615500] => 
+    [UF_CRM_1532616726] => 
+    [~UF_CRM_1532616726] => 
+    [UF_CRM_1532616763] => 
+    [~UF_CRM_1532616763] => 
+    [UF_CRM_1532616810] => 
+    [~UF_CRM_1532616810] => 
+)
+Array
+(
+    [TITLE] => ТЕСТ NEW 03.08
+    [STAGE_ID] => PREPARATION
+    [ASSIGNED_BY_ID] => 7
+    [UF_CRM_59EE4DC739368] => 1524
+    [COMPANY_ID] => 0
+    [CONTACT_IDS] => Array
+        (
+        )
+
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 7
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [ID] => 58
+)
+Array
+(
+    [ID] => 58
+    [~ID] => 58
+    [STAGE_ID] => PREPAYMENT_INVOICE
+    [~STAGE_ID] => PREPAYMENT_INVOICE
+    [ASSIGNED_BY_ID] => 7
+    [~ASSIGNED_BY_ID] => 7
+    [UF_CRM_1532614252] => 0
+    [~UF_CRM_1532614252] => 0
+    [UF_CRM_1532614341] => 4750
+    [~UF_CRM_1532614341] => 4750
+    [UF_CRM_1532613531] => 0
+    [~UF_CRM_1532613531] => 0
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 162
+        )
+
+    [~UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 162
+        )
+
+    [UF_CRM_1532613305575] => Array
+        (
+            [0] => B1-B4, C1
+        )
+
+    [~UF_CRM_1532613305575] => Array
+        (
+            [0] => B1-B4, C1
+        )
+
+    [UF_CRM_1532613353697] => Array
+        (
+            [0] => OOO NoName
+        )
+
+    [~UF_CRM_1532613353697] => Array
+        (
+            [0] => OOO NoName
+        )
+
+    [UF_CRM_1533131953485] => 10
+    [~UF_CRM_1533131953485] => 10
+    [UF_CRM_1532614475] => 53
+    [~UF_CRM_1532614475] => 53
+    [UF_CRM_1532614542] => 50
+    [~UF_CRM_1532614542] => 50
+    [UF_CRM_1532614584347] => 04.08.2018
+    [~UF_CRM_1532614584347] => 04.08.2018
+    [UF_CRM_1533040894] => 
+    [~UF_CRM_1533040894] => 
+    [UF_CRM_1532615106] => 
+    [~UF_CRM_1532615106] => 
+    [UF_CRM_1532615151] => 
+    [~UF_CRM_1532615151] => 
+    [UF_CRM_1532615192] => 
+    [~UF_CRM_1532615192] => 
+    [UF_CRM_1532615220] => 
+    [~UF_CRM_1532615220] => 
+    [UF_CRM_1532615266] => 
+    [~UF_CRM_1532615266] => 
+    [UF_CRM_1532615453] => 
+    [~UF_CRM_1532615453] => 
+    [UF_CRM_1532615500] => 
+    [~UF_CRM_1532615500] => 
+    [UF_CRM_1532616726] => 
+    [~UF_CRM_1532616726] => 
+    [UF_CRM_1532616763] => 
+    [~UF_CRM_1532616763] => 
+    [UF_CRM_1532616810] => 
+    [~UF_CRM_1532616810] => 
+)
+Array
+(
+    [TITLE] => ТЕСТ NEW 03.08
+    [STAGE_ID] => PREPAYMENT_INVOICE
+    [ASSIGNED_BY_ID] => 7
+    [UF_CRM_59EE4DC739368] => 1524
+    [COMPANY_ID] => 0
+    [CONTACT_IDS] => Array
+        (
+        )
+
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 7
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [ID] => 58
+)
+Array
+(
+    [ID] => 58
+    [~ID] => 58
+    [STAGE_ID] => PREPARATION
+    [~STAGE_ID] => PREPARATION
+    [ASSIGNED_BY_ID] => 7
+    [~ASSIGNED_BY_ID] => 7
+    [UF_CRM_1532614252] => 0
+    [~UF_CRM_1532614252] => 0
+    [UF_CRM_1532614341] => 4750
+    [~UF_CRM_1532614341] => 4750
+    [UF_CRM_1532613531] => 0
+    [~UF_CRM_1532613531] => 0
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 162
+        )
+
+    [~UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 162
+        )
+
+    [UF_CRM_1532613305575] => Array
+        (
+            [0] => B1-B4, C1
+        )
+
+    [~UF_CRM_1532613305575] => Array
+        (
+            [0] => B1-B4, C1
+        )
+
+    [UF_CRM_1532613353697] => Array
+        (
+            [0] => OOO NoName
+        )
+
+    [~UF_CRM_1532613353697] => Array
+        (
+            [0] => OOO NoName
+        )
+
+    [UF_CRM_1533131953485] => 10
+    [~UF_CRM_1533131953485] => 10
+    [UF_CRM_1532614475] => 53
+    [~UF_CRM_1532614475] => 53
+    [UF_CRM_1532614542] => 50
+    [~UF_CRM_1532614542] => 50
+    [UF_CRM_1532614584347] => 04.08.2018
+    [~UF_CRM_1532614584347] => 04.08.2018
+    [UF_CRM_1533040894] => 
+    [~UF_CRM_1533040894] => 
+    [UF_CRM_1532615106] => 
+    [~UF_CRM_1532615106] => 
+    [UF_CRM_1532615151] => 
+    [~UF_CRM_1532615151] => 
+    [UF_CRM_1532615192] => 
+    [~UF_CRM_1532615192] => 
+    [UF_CRM_1532615220] => 
+    [~UF_CRM_1532615220] => 
+    [UF_CRM_1532615266] => 
+    [~UF_CRM_1532615266] => 
+    [UF_CRM_1532615453] => 
+    [~UF_CRM_1532615453] => 
+    [UF_CRM_1532615500] => 
+    [~UF_CRM_1532615500] => 
+    [UF_CRM_1532616726] => 
+    [~UF_CRM_1532616726] => 
+    [UF_CRM_1532616763] => 
+    [~UF_CRM_1532616763] => 
+    [UF_CRM_1532616810] => 
+    [~UF_CRM_1532616810] => 
+)
+Array
+(
+    [TITLE] => ТЕСТ NEW 03.08
+    [STAGE_ID] => NEW
+    [ASSIGNED_BY_ID] => 7
+    [UF_CRM_59EE4DC739368] => 1524
+    [COMPANY_ID] => 0
+    [CONTACT_IDS] => Array
+        (
+        )
+
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 7
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => Y
+    [ID] => 58
+)
+Array
+(
+    [ID] => 58
+    [~ID] => 58
+    [STAGE_ID] => PREPAYMENT_INVOICE
+    [~STAGE_ID] => PREPAYMENT_INVOICE
+    [ASSIGNED_BY_ID] => 7
+    [~ASSIGNED_BY_ID] => 7
+    [UF_CRM_1532614252] => 0
+    [~UF_CRM_1532614252] => 0
+    [UF_CRM_1532614341] => 4750
+    [~UF_CRM_1532614341] => 4750
+    [UF_CRM_1532613531] => 0
+    [~UF_CRM_1532613531] => 0
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 162
+        )
+
+    [~UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 162
+        )
+
+    [UF_CRM_1532613305575] => Array
+        (
+            [0] => B1-B4, C1
+        )
+
+    [~UF_CRM_1532613305575] => Array
+        (
+            [0] => B1-B4, C1
+        )
+
+    [UF_CRM_1532613353697] => Array
+        (
+            [0] => OOO NoName
+        )
+
+    [~UF_CRM_1532613353697] => Array
+        (
+            [0] => OOO NoName
+        )
+
+    [UF_CRM_1533131953485] => 10
+    [~UF_CRM_1533131953485] => 10
+    [UF_CRM_1532614475] => 53
+    [~UF_CRM_1532614475] => 53
+    [UF_CRM_1532614542] => 50
+    [~UF_CRM_1532614542] => 50
+    [UF_CRM_1532614584347] => 04.08.2018
+    [~UF_CRM_1532614584347] => 04.08.2018
+    [UF_CRM_1533040894] => 
+    [~UF_CRM_1533040894] => 
+    [UF_CRM_1532615106] => 
+    [~UF_CRM_1532615106] => 
+    [UF_CRM_1532615151] => 
+    [~UF_CRM_1532615151] => 
+    [UF_CRM_1532615192] => 
+    [~UF_CRM_1532615192] => 
+    [UF_CRM_1532615220] => 
+    [~UF_CRM_1532615220] => 
+    [UF_CRM_1532615266] => 
+    [~UF_CRM_1532615266] => 
+    [UF_CRM_1532615453] => 
+    [~UF_CRM_1532615453] => 
+    [UF_CRM_1532615500] => 
+    [~UF_CRM_1532615500] => 
+    [UF_CRM_1532616726] => 
+    [~UF_CRM_1532616726] => 
+    [UF_CRM_1532616763] => 
+    [~UF_CRM_1532616763] => 
+    [UF_CRM_1532616810] => 
+    [~UF_CRM_1532616810] => 
+)
+Array
+(
+    [TITLE] => ТЕСТ NEW 03.08
+    [STAGE_ID] => 2
+    [ASSIGNED_BY_ID] => 7
+    [UF_CRM_59EE4DC739368] => 1524
+    [COMPANY_ID] => 0
+    [CONTACT_IDS] => Array
+        (
+        )
+
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 7
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [ID] => 58
+)
+Array
+(
+    [ID] => 58
+    [~ID] => 58
+    [STAGE_ID] => NEW
+    [~STAGE_ID] => NEW
+    [ASSIGNED_BY_ID] => 7
+    [~ASSIGNED_BY_ID] => 7
+    [UF_CRM_1532614252] => 0
+    [~UF_CRM_1532614252] => 0
+    [UF_CRM_1532614341] => 4750
+    [~UF_CRM_1532614341] => 4750
+    [UF_CRM_1532613531] => 0
+    [~UF_CRM_1532613531] => 0
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 162
+        )
+
+    [~UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 162
+        )
+
+    [UF_CRM_1532613305575] => Array
+        (
+            [0] => B1-B4, C1
+        )
+
+    [~UF_CRM_1532613305575] => Array
+        (
+            [0] => B1-B4, C1
+        )
+
+    [UF_CRM_1532613353697] => Array
+        (
+            [0] => OOO NoName
+        )
+
+    [~UF_CRM_1532613353697] => Array
+        (
+            [0] => OOO NoName
+        )
+
+    [UF_CRM_1533131953485] => 10
+    [~UF_CRM_1533131953485] => 10
+    [UF_CRM_1532614475] => 53
+    [~UF_CRM_1532614475] => 53
+    [UF_CRM_1532614542] => 50
+    [~UF_CRM_1532614542] => 50
+    [UF_CRM_1532614584347] => 04.08.2018
+    [~UF_CRM_1532614584347] => 04.08.2018
+    [UF_CRM_1533040894] => 
+    [~UF_CRM_1533040894] => 
+    [UF_CRM_1532615106] => 
+    [~UF_CRM_1532615106] => 
+    [UF_CRM_1532615151] => 
+    [~UF_CRM_1532615151] => 
+    [UF_CRM_1532615192] => 
+    [~UF_CRM_1532615192] => 
+    [UF_CRM_1532615220] => 
+    [~UF_CRM_1532615220] => 
+    [UF_CRM_1532615266] => 
+    [~UF_CRM_1532615266] => 
+    [UF_CRM_1532615453] => 
+    [~UF_CRM_1532615453] => 
+    [UF_CRM_1532615500] => 
+    [~UF_CRM_1532615500] => 
+    [UF_CRM_1532616726] => 
+    [~UF_CRM_1532616726] => 
+    [UF_CRM_1532616763] => 
+    [~UF_CRM_1532616763] => 
+    [UF_CRM_1532616810] => 
+    [~UF_CRM_1532616810] => 
+)
+Array
+(
+    [TITLE] => ТЕСТ NEW 03.08
+    [STAGE_ID] => NEW
+    [ASSIGNED_BY_ID] => 7
+    [UF_CRM_59EE4DC739368] => 1524
+    [COMPANY_ID] => 0
+    [CONTACT_IDS] => Array
+        (
+        )
+
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 7
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => Y
+    [ID] => 58
+)
+Array
+(
+    [ID] => 58
+    [~ID] => 58
+    [STAGE_ID] => 2
+    [~STAGE_ID] => 2
+    [ASSIGNED_BY_ID] => 7
+    [~ASSIGNED_BY_ID] => 7
+    [UF_CRM_1532614252] => 0
+    [~UF_CRM_1532614252] => 0
+    [UF_CRM_1532614341] => 4750
+    [~UF_CRM_1532614341] => 4750
+    [UF_CRM_1532613531] => 0
+    [~UF_CRM_1532613531] => 0
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 162
+        )
+
+    [~UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 162
+        )
+
+    [UF_CRM_1532613305575] => Array
+        (
+            [0] => B1-B4, C1
+        )
+
+    [~UF_CRM_1532613305575] => Array
+        (
+            [0] => B1-B4, C1
+        )
+
+    [UF_CRM_1532613353697] => Array
+        (
+            [0] => OOO NoName
+        )
+
+    [~UF_CRM_1532613353697] => Array
+        (
+            [0] => OOO NoName
+        )
+
+    [UF_CRM_1533131953485] => 10
+    [~UF_CRM_1533131953485] => 10
+    [UF_CRM_1532614475] => 53
+    [~UF_CRM_1532614475] => 53
+    [UF_CRM_1532614542] => 50
+    [~UF_CRM_1532614542] => 50
+    [UF_CRM_1532614584347] => 04.08.2018
+    [~UF_CRM_1532614584347] => 04.08.2018
+    [UF_CRM_1533040894] => 
+    [~UF_CRM_1533040894] => 
+    [UF_CRM_1532615106] => 
+    [~UF_CRM_1532615106] => 
+    [UF_CRM_1532615151] => 
+    [~UF_CRM_1532615151] => 
+    [UF_CRM_1532615192] => 
+    [~UF_CRM_1532615192] => 
+    [UF_CRM_1532615220] => 
+    [~UF_CRM_1532615220] => 
+    [UF_CRM_1532615266] => 
+    [~UF_CRM_1532615266] => 
+    [UF_CRM_1532615453] => 
+    [~UF_CRM_1532615453] => 
+    [UF_CRM_1532615500] => 
+    [~UF_CRM_1532615500] => 
+    [UF_CRM_1532616726] => 
+    [~UF_CRM_1532616726] => 
+    [UF_CRM_1532616763] => 
+    [~UF_CRM_1532616763] => 
+    [UF_CRM_1532616810] => 
+    [~UF_CRM_1532616810] => 
+)
+Array
+(
+    [TITLE] => ТЕСТ NEW 03.08
+    [STAGE_ID] => 2
+    [ASSIGNED_BY_ID] => 7
+    [UF_CRM_59EE4DC739368] => 1524
+    [COMPANY_ID] => 0
+    [CONTACT_IDS] => Array
+        (
+        )
+
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 7
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [ID] => 58
+)
+Array
+(
+    [ID] => 58
+    [~ID] => 58
+    [STAGE_ID] => NEW
+    [~STAGE_ID] => NEW
+    [ASSIGNED_BY_ID] => 7
+    [~ASSIGNED_BY_ID] => 7
+    [UF_CRM_1532614252] => 0
+    [~UF_CRM_1532614252] => 0
+    [UF_CRM_1532614341] => 4750
+    [~UF_CRM_1532614341] => 4750
+    [UF_CRM_1532613531] => 0
+    [~UF_CRM_1532613531] => 0
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 162
+        )
+
+    [~UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 162
+        )
+
+    [UF_CRM_1532613305575] => Array
+        (
+            [0] => B1-B4, C1
+        )
+
+    [~UF_CRM_1532613305575] => Array
+        (
+            [0] => B1-B4, C1
+        )
+
+    [UF_CRM_1532613353697] => Array
+        (
+            [0] => OOO NoName
+        )
+
+    [~UF_CRM_1532613353697] => Array
+        (
+            [0] => OOO NoName
+        )
+
+    [UF_CRM_1533131953485] => 10
+    [~UF_CRM_1533131953485] => 10
+    [UF_CRM_1532614475] => 53
+    [~UF_CRM_1532614475] => 53
+    [UF_CRM_1532614542] => 50
+    [~UF_CRM_1532614542] => 50
+    [UF_CRM_1532614584347] => 04.08.2018
+    [~UF_CRM_1532614584347] => 04.08.2018
+    [UF_CRM_1533040894] => 
+    [~UF_CRM_1533040894] => 
+    [UF_CRM_1532615106] => 
+    [~UF_CRM_1532615106] => 
+    [UF_CRM_1532615151] => 
+    [~UF_CRM_1532615151] => 
+    [UF_CRM_1532615192] => 
+    [~UF_CRM_1532615192] => 
+    [UF_CRM_1532615220] => 
+    [~UF_CRM_1532615220] => 
+    [UF_CRM_1532615266] => 
+    [~UF_CRM_1532615266] => 
+    [UF_CRM_1532615453] => 
+    [~UF_CRM_1532615453] => 
+    [UF_CRM_1532615500] => 
+    [~UF_CRM_1532615500] => 
+    [UF_CRM_1532616726] => 
+    [~UF_CRM_1532616726] => 
+    [UF_CRM_1532616763] => 
+    [~UF_CRM_1532616763] => 
+    [UF_CRM_1532616810] => 
+    [~UF_CRM_1532616810] => 
+)
+Array
+(
+    [TITLE] => ТЕСТ NEW 03.08
+    [STAGE_ID] => NEW
+    [ASSIGNED_BY_ID] => 7
+    [UF_CRM_59EE4DC739368] => 1524
+    [COMPANY_ID] => 0
+    [CONTACT_IDS] => Array
+        (
+        )
+
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 7
+    [ID] => 58
+)
+Array
+(
+    [ID] => 58
+    [~ID] => 58
+    [STAGE_ID] => NEW
+    [~STAGE_ID] => NEW
+    [ASSIGNED_BY_ID] => 7
+    [~ASSIGNED_BY_ID] => 7
+    [UF_CRM_1532614252] => 0
+    [~UF_CRM_1532614252] => 0
+    [UF_CRM_1532614341] => 4750
+    [~UF_CRM_1532614341] => 4750
+    [UF_CRM_1532613531] => 0
+    [~UF_CRM_1532613531] => 0
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 162
+        )
+
+    [~UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 162
+        )
+
+    [UF_CRM_1532613305575] => Array
+        (
+            [0] => B1-B4, C1
+        )
+
+    [~UF_CRM_1532613305575] => Array
+        (
+            [0] => B1-B4, C1
+        )
+
+    [UF_CRM_1532613353697] => Array
+        (
+            [0] => OOO NoName
+        )
+
+    [~UF_CRM_1532613353697] => Array
+        (
+            [0] => OOO NoName
+        )
+
+    [UF_CRM_1533131953485] => 10
+    [~UF_CRM_1533131953485] => 10
+    [UF_CRM_1532614475] => 53
+    [~UF_CRM_1532614475] => 53
+    [UF_CRM_1532614542] => 50
+    [~UF_CRM_1532614542] => 50
+    [UF_CRM_1532614584347] => 04.08.2018
+    [~UF_CRM_1532614584347] => 04.08.2018
+    [UF_CRM_1533040894] => 
+    [~UF_CRM_1533040894] => 
+    [UF_CRM_1532615106] => 
+    [~UF_CRM_1532615106] => 
+    [UF_CRM_1532615151] => 
+    [~UF_CRM_1532615151] => 
+    [UF_CRM_1532615192] => 
+    [~UF_CRM_1532615192] => 
+    [UF_CRM_1532615220] => 
+    [~UF_CRM_1532615220] => 
+    [UF_CRM_1532615266] => 
+    [~UF_CRM_1532615266] => 
+    [UF_CRM_1532615453] => 
+    [~UF_CRM_1532615453] => 
+    [UF_CRM_1532615500] => 
+    [~UF_CRM_1532615500] => 
+    [UF_CRM_1532616726] => 
+    [~UF_CRM_1532616726] => 
+    [UF_CRM_1532616763] => 
+    [~UF_CRM_1532616763] => 
+    [UF_CRM_1532616810] => 
+    [~UF_CRM_1532616810] => 
+)
+Array
+(
+    [ASSIGNED_BY_ID] => 7
+    [UF_CRM_1532614341] => 
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 7
+    [ID] => 58
+)
+Array
+(
+    [ID] => 58
+    [~ID] => 58
+    [STAGE_ID] => NEW
+    [~STAGE_ID] => NEW
+    [ASSIGNED_BY_ID] => 7
+    [~ASSIGNED_BY_ID] => 7
+    [UF_CRM_1532614252] => 0
+    [~UF_CRM_1532614252] => 0
+    [UF_CRM_1532614341] => 4750
+    [~UF_CRM_1532614341] => 4750
+    [UF_CRM_1532613531] => 0
+    [~UF_CRM_1532613531] => 0
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 162
+        )
+
+    [~UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 162
+        )
+
+    [UF_CRM_1532613305575] => Array
+        (
+            [0] => B1-B4, C1
+        )
+
+    [~UF_CRM_1532613305575] => Array
+        (
+            [0] => B1-B4, C1
+        )
+
+    [UF_CRM_1532613353697] => Array
+        (
+            [0] => OOO NoName
+        )
+
+    [~UF_CRM_1532613353697] => Array
+        (
+            [0] => OOO NoName
+        )
+
+    [UF_CRM_1533131953485] => 10
+    [~UF_CRM_1533131953485] => 10
+    [UF_CRM_1532614475] => 53
+    [~UF_CRM_1532614475] => 53
+    [UF_CRM_1532614542] => 50
+    [~UF_CRM_1532614542] => 50
+    [UF_CRM_1532614584347] => 04.08.2018
+    [~UF_CRM_1532614584347] => 04.08.2018
+    [UF_CRM_1533040894] => 
+    [~UF_CRM_1533040894] => 
+    [UF_CRM_1532615106] => 
+    [~UF_CRM_1532615106] => 
+    [UF_CRM_1532615151] => 
+    [~UF_CRM_1532615151] => 
+    [UF_CRM_1532615192] => 
+    [~UF_CRM_1532615192] => 
+    [UF_CRM_1532615220] => 
+    [~UF_CRM_1532615220] => 
+    [UF_CRM_1532615266] => 
+    [~UF_CRM_1532615266] => 
+    [UF_CRM_1532615453] => 
+    [~UF_CRM_1532615453] => 
+    [UF_CRM_1532615500] => 
+    [~UF_CRM_1532615500] => 
+    [UF_CRM_1532616726] => 
+    [~UF_CRM_1532616726] => 
+    [UF_CRM_1532616763] => 
+    [~UF_CRM_1532616763] => 
+    [UF_CRM_1532616810] => 
+    [~UF_CRM_1532616810] => 
+)
+Array
+(
+    [TITLE] => ТЕСТ NEW 03.08
+    [STAGE_ID] => 2
+    [ASSIGNED_BY_ID] => 7
+    [UF_CRM_59EE4DC739368] => 1524
+    [COMPANY_ID] => 0
+    [CONTACT_IDS] => Array
+        (
+        )
+
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 7
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [ID] => 58
+)
+Array
+(
+    [ID] => 58
+    [~ID] => 58
+    [STAGE_ID] => NEW
+    [~STAGE_ID] => NEW
+    [ASSIGNED_BY_ID] => 7
+    [~ASSIGNED_BY_ID] => 7
+    [UF_CRM_1532614252] => 0
+    [~UF_CRM_1532614252] => 0
+    [UF_CRM_1532614341] => 
+    [~UF_CRM_1532614341] => 
+    [UF_CRM_1532613531] => 0
+    [~UF_CRM_1532613531] => 0
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 162
+        )
+
+    [~UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 162
+        )
+
+    [UF_CRM_1532613305575] => Array
+        (
+            [0] => B1-B4, C1
+        )
+
+    [~UF_CRM_1532613305575] => Array
+        (
+            [0] => B1-B4, C1
+        )
+
+    [UF_CRM_1532613353697] => Array
+        (
+            [0] => OOO NoName
+        )
+
+    [~UF_CRM_1532613353697] => Array
+        (
+            [0] => OOO NoName
+        )
+
+    [UF_CRM_1533131953485] => 10
+    [~UF_CRM_1533131953485] => 10
+    [UF_CRM_1532614475] => 53
+    [~UF_CRM_1532614475] => 53
+    [UF_CRM_1532614542] => 50
+    [~UF_CRM_1532614542] => 50
+    [UF_CRM_1532614584347] => 04.08.2018
+    [~UF_CRM_1532614584347] => 04.08.2018
+    [UF_CRM_1533040894] => 
+    [~UF_CRM_1533040894] => 
+    [UF_CRM_1532615106] => 
+    [~UF_CRM_1532615106] => 
+    [UF_CRM_1532615151] => 
+    [~UF_CRM_1532615151] => 
+    [UF_CRM_1532615192] => 
+    [~UF_CRM_1532615192] => 
+    [UF_CRM_1532615220] => 
+    [~UF_CRM_1532615220] => 
+    [UF_CRM_1532615266] => 
+    [~UF_CRM_1532615266] => 
+    [UF_CRM_1532615453] => 
+    [~UF_CRM_1532615453] => 
+    [UF_CRM_1532615500] => 
+    [~UF_CRM_1532615500] => 
+    [UF_CRM_1532616726] => 
+    [~UF_CRM_1532616726] => 
+    [UF_CRM_1532616763] => 
+    [~UF_CRM_1532616763] => 
+    [UF_CRM_1532616810] => 
+    [~UF_CRM_1532616810] => 
+)
+Array
+(
+    [TITLE] => ТЕСТ NEW 03.08
+    [STAGE_ID] => 2
+    [ASSIGNED_BY_ID] => 7
+    [UF_CRM_59EE4DC739368] => 1524
+    [UF_CRM_1532614252] => 1
+    [COMPANY_ID] => 0
+    [CONTACT_IDS] => Array
+        (
+        )
+
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 7
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [ID] => 58
+)
+Array
+(
+    [ID] => 58
+    [~ID] => 58
+    [STAGE_ID] => NEW
+    [~STAGE_ID] => NEW
+    [ASSIGNED_BY_ID] => 7
+    [~ASSIGNED_BY_ID] => 7
+    [UF_CRM_1532614252] => 0
+    [~UF_CRM_1532614252] => 0
+    [UF_CRM_1532614341] => 
+    [~UF_CRM_1532614341] => 
+    [UF_CRM_1532613531] => 0
+    [~UF_CRM_1532613531] => 0
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 162
+        )
+
+    [~UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 162
+        )
+
+    [UF_CRM_1532613305575] => Array
+        (
+            [0] => B1-B4, C1
+        )
+
+    [~UF_CRM_1532613305575] => Array
+        (
+            [0] => B1-B4, C1
+        )
+
+    [UF_CRM_1532613353697] => Array
+        (
+            [0] => OOO NoName
+        )
+
+    [~UF_CRM_1532613353697] => Array
+        (
+            [0] => OOO NoName
+        )
+
+    [UF_CRM_1533131953485] => 10
+    [~UF_CRM_1533131953485] => 10
+    [UF_CRM_1532614475] => 53
+    [~UF_CRM_1532614475] => 53
+    [UF_CRM_1532614542] => 50
+    [~UF_CRM_1532614542] => 50
+    [UF_CRM_1532614584347] => 04.08.2018
+    [~UF_CRM_1532614584347] => 04.08.2018
+    [UF_CRM_1533040894] => 
+    [~UF_CRM_1533040894] => 
+    [UF_CRM_1532615106] => 
+    [~UF_CRM_1532615106] => 
+    [UF_CRM_1532615151] => 
+    [~UF_CRM_1532615151] => 
+    [UF_CRM_1532615192] => 
+    [~UF_CRM_1532615192] => 
+    [UF_CRM_1532615220] => 
+    [~UF_CRM_1532615220] => 
+    [UF_CRM_1532615266] => 
+    [~UF_CRM_1532615266] => 
+    [UF_CRM_1532615453] => 
+    [~UF_CRM_1532615453] => 
+    [UF_CRM_1532615500] => 
+    [~UF_CRM_1532615500] => 
+    [UF_CRM_1532616726] => 
+    [~UF_CRM_1532616726] => 
+    [UF_CRM_1532616763] => 
+    [~UF_CRM_1532616763] => 
+    [UF_CRM_1532616810] => 
+    [~UF_CRM_1532616810] => 
+)
+Array
+(
+    [TITLE] => ТЕСТ NEW 03.08
+    [STAGE_ID] => 2
+    [ASSIGNED_BY_ID] => 7
+    [UF_CRM_59EE4DC739368] => 1524
+    [UF_CRM_1532614252] => 1
+    [UF_CRM_1533040894] => 04.08.2018
+    [COMPANY_ID] => 0
+    [CONTACT_IDS] => Array
+        (
+        )
+
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 7
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [ID] => 58
+)
+Array
+(
+    [ID] => 58
+    [~ID] => 58
+    [STAGE_ID] => NEW
+    [~STAGE_ID] => NEW
+    [ASSIGNED_BY_ID] => 7
+    [~ASSIGNED_BY_ID] => 7
+    [UF_CRM_1532614252] => 0
+    [~UF_CRM_1532614252] => 0
+    [UF_CRM_1532614341] => 
+    [~UF_CRM_1532614341] => 
+    [UF_CRM_1532613531] => 0
+    [~UF_CRM_1532613531] => 0
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 162
+        )
+
+    [~UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 162
+        )
+
+    [UF_CRM_1532613305575] => Array
+        (
+            [0] => B1-B4, C1
+        )
+
+    [~UF_CRM_1532613305575] => Array
+        (
+            [0] => B1-B4, C1
+        )
+
+    [UF_CRM_1532613353697] => Array
+        (
+            [0] => OOO NoName
+        )
+
+    [~UF_CRM_1532613353697] => Array
+        (
+            [0] => OOO NoName
+        )
+
+    [UF_CRM_1533131953485] => 10
+    [~UF_CRM_1533131953485] => 10
+    [UF_CRM_1532614475] => 53
+    [~UF_CRM_1532614475] => 53
+    [UF_CRM_1532614542] => 50
+    [~UF_CRM_1532614542] => 50
+    [UF_CRM_1532614584347] => 04.08.2018
+    [~UF_CRM_1532614584347] => 04.08.2018
+    [UF_CRM_1533040894] => 
+    [~UF_CRM_1533040894] => 
+    [UF_CRM_1532615106] => 
+    [~UF_CRM_1532615106] => 
+    [UF_CRM_1532615151] => 
+    [~UF_CRM_1532615151] => 
+    [UF_CRM_1532615192] => 
+    [~UF_CRM_1532615192] => 
+    [UF_CRM_1532615220] => 
+    [~UF_CRM_1532615220] => 
+    [UF_CRM_1532615266] => 
+    [~UF_CRM_1532615266] => 
+    [UF_CRM_1532615453] => 
+    [~UF_CRM_1532615453] => 
+    [UF_CRM_1532615500] => 
+    [~UF_CRM_1532615500] => 
+    [UF_CRM_1532616726] => 
+    [~UF_CRM_1532616726] => 
+    [UF_CRM_1532616763] => 
+    [~UF_CRM_1532616763] => 
+    [UF_CRM_1532616810] => 
+    [~UF_CRM_1532616810] => 
+)
+Array
+(
+    [TITLE] => ТЕСТ NEW 03.08
+    [STAGE_ID] => PREPARATION
+    [ASSIGNED_BY_ID] => 7
+    [UF_CRM_59EE4DC739368] => 1524
+    [COMPANY_ID] => 0
+    [CONTACT_IDS] => Array
+        (
+        )
+
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 7
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [ID] => 58
+)
+Array
+(
+    [ID] => 58
+    [~ID] => 58
+    [STAGE_ID] => 2
+    [~STAGE_ID] => 2
+    [ASSIGNED_BY_ID] => 7
+    [~ASSIGNED_BY_ID] => 7
+    [UF_CRM_1532614252] => 1
+    [~UF_CRM_1532614252] => 1
+    [UF_CRM_1532614341] => 
+    [~UF_CRM_1532614341] => 
+    [UF_CRM_1532613531] => 0
+    [~UF_CRM_1532613531] => 0
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 162
+        )
+
+    [~UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 162
+        )
+
+    [UF_CRM_1532613305575] => Array
+        (
+            [0] => B1-B4, C1
+        )
+
+    [~UF_CRM_1532613305575] => Array
+        (
+            [0] => B1-B4, C1
+        )
+
+    [UF_CRM_1532613353697] => Array
+        (
+            [0] => OOO NoName
+        )
+
+    [~UF_CRM_1532613353697] => Array
+        (
+            [0] => OOO NoName
+        )
+
+    [UF_CRM_1533131953485] => 10
+    [~UF_CRM_1533131953485] => 10
+    [UF_CRM_1532614475] => 53
+    [~UF_CRM_1532614475] => 53
+    [UF_CRM_1532614542] => 50
+    [~UF_CRM_1532614542] => 50
+    [UF_CRM_1532614584347] => 04.08.2018
+    [~UF_CRM_1532614584347] => 04.08.2018
+    [UF_CRM_1533040894] => 04.08.2018
+    [~UF_CRM_1533040894] => 04.08.2018
+    [UF_CRM_1532615106] => 
+    [~UF_CRM_1532615106] => 
+    [UF_CRM_1532615151] => 
+    [~UF_CRM_1532615151] => 
+    [UF_CRM_1532615192] => 
+    [~UF_CRM_1532615192] => 
+    [UF_CRM_1532615220] => 
+    [~UF_CRM_1532615220] => 
+    [UF_CRM_1532615266] => 
+    [~UF_CRM_1532615266] => 
+    [UF_CRM_1532615453] => 
+    [~UF_CRM_1532615453] => 
+    [UF_CRM_1532615500] => 
+    [~UF_CRM_1532615500] => 
+    [UF_CRM_1532616726] => 
+    [~UF_CRM_1532616726] => 
+    [UF_CRM_1532616763] => 
+    [~UF_CRM_1532616763] => 
+    [UF_CRM_1532616810] => 
+    [~UF_CRM_1532616810] => 
+)
+Array
+(
+    [TITLE] => ТЕСТ NEW 03.08
+    [STAGE_ID] => WON
+    [ASSIGNED_BY_ID] => 7
+    [UF_CRM_59EE4DC739368] => 1524
+    [COMPANY_ID] => 0
+    [CONTACT_IDS] => Array
+        (
+        )
+
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 7
+    [STAGE_SEMANTIC_ID] => S
+    [IS_NEW] => N
+    [ID] => 58
+)
+Array
+(
+    [ID] => 58
+    [~ID] => 58
+    [STAGE_ID] => PREPARATION
+    [~STAGE_ID] => PREPARATION
+    [ASSIGNED_BY_ID] => 7
+    [~ASSIGNED_BY_ID] => 7
+    [UF_CRM_1532614252] => 1
+    [~UF_CRM_1532614252] => 1
+    [UF_CRM_1532614341] => 
+    [~UF_CRM_1532614341] => 
+    [UF_CRM_1532613531] => 0
+    [~UF_CRM_1532613531] => 0
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 162
+        )
+
+    [~UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 162
+        )
+
+    [UF_CRM_1532613305575] => Array
+        (
+            [0] => B1-B4, C1
+        )
+
+    [~UF_CRM_1532613305575] => Array
+        (
+            [0] => B1-B4, C1
+        )
+
+    [UF_CRM_1532613353697] => Array
+        (
+            [0] => OOO NoName
+        )
+
+    [~UF_CRM_1532613353697] => Array
+        (
+            [0] => OOO NoName
+        )
+
+    [UF_CRM_1533131953485] => 10
+    [~UF_CRM_1533131953485] => 10
+    [UF_CRM_1532614475] => 53
+    [~UF_CRM_1532614475] => 53
+    [UF_CRM_1532614542] => 50
+    [~UF_CRM_1532614542] => 50
+    [UF_CRM_1532614584347] => 04.08.2018
+    [~UF_CRM_1532614584347] => 04.08.2018
+    [UF_CRM_1533040894] => 04.08.2018
+    [~UF_CRM_1533040894] => 04.08.2018
+    [UF_CRM_1532615106] => 
+    [~UF_CRM_1532615106] => 
+    [UF_CRM_1532615151] => 
+    [~UF_CRM_1532615151] => 
+    [UF_CRM_1532615192] => 
+    [~UF_CRM_1532615192] => 
+    [UF_CRM_1532615220] => 
+    [~UF_CRM_1532615220] => 
+    [UF_CRM_1532615266] => 
+    [~UF_CRM_1532615266] => 
+    [UF_CRM_1532615453] => 
+    [~UF_CRM_1532615453] => 
+    [UF_CRM_1532615500] => 
+    [~UF_CRM_1532615500] => 
+    [UF_CRM_1532616726] => 
+    [~UF_CRM_1532616726] => 
+    [UF_CRM_1532616763] => 
+    [~UF_CRM_1532616763] => 
+    [UF_CRM_1532616810] => 
+    [~UF_CRM_1532616810] => 
+)
+Array
+(
+    [TITLE] => ТЕСТ NEW 03.08
+    [STAGE_ID] => WON
+    [ASSIGNED_BY_ID] => 7
+    [UF_CRM_59EE4DC739368] => 1524
+    [UF_CRM_1532615106] => tttttttttt
+    [UF_CRM_1532615151] => 03.08.2018
+    [UF_CRM_1532615192] => 349
+    [UF_CRM_1532615220] => 146%
+    [UF_CRM_1532615266] => eeeeeeeeeeeeeeeee
+    [UF_CRM_1532615453] => 
+    [UF_CRM_1532615500] => 
+    [COMPANY_ID] => 0
+    [CONTACT_IDS] => Array
+        (
+        )
+
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 7
+    [STAGE_SEMANTIC_ID] => S
+    [IS_NEW] => N
+    [ID] => 58
+)
+Array
+(
+    [ID] => 58
+    [~ID] => 58
+    [STAGE_ID] => PREPARATION
+    [~STAGE_ID] => PREPARATION
+    [ASSIGNED_BY_ID] => 7
+    [~ASSIGNED_BY_ID] => 7
+    [UF_CRM_1532614252] => 1
+    [~UF_CRM_1532614252] => 1
+    [UF_CRM_1532614341] => 
+    [~UF_CRM_1532614341] => 
+    [UF_CRM_1532613531] => 0
+    [~UF_CRM_1532613531] => 0
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 162
+        )
+
+    [~UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 162
+        )
+
+    [UF_CRM_1532613305575] => Array
+        (
+            [0] => B1-B4, C1
+        )
+
+    [~UF_CRM_1532613305575] => Array
+        (
+            [0] => B1-B4, C1
+        )
+
+    [UF_CRM_1532613353697] => Array
+        (
+            [0] => OOO NoName
+        )
+
+    [~UF_CRM_1532613353697] => Array
+        (
+            [0] => OOO NoName
+        )
+
+    [UF_CRM_1533131953485] => 10
+    [~UF_CRM_1533131953485] => 10
+    [UF_CRM_1532614475] => 53
+    [~UF_CRM_1532614475] => 53
+    [UF_CRM_1532614542] => 50
+    [~UF_CRM_1532614542] => 50
+    [UF_CRM_1532614584347] => 04.08.2018
+    [~UF_CRM_1532614584347] => 04.08.2018
+    [UF_CRM_1533040894] => 04.08.2018
+    [~UF_CRM_1533040894] => 04.08.2018
+    [UF_CRM_1532615106] => 
+    [~UF_CRM_1532615106] => 
+    [UF_CRM_1532615151] => 
+    [~UF_CRM_1532615151] => 
+    [UF_CRM_1532615192] => 
+    [~UF_CRM_1532615192] => 
+    [UF_CRM_1532615220] => 
+    [~UF_CRM_1532615220] => 
+    [UF_CRM_1532615266] => 
+    [~UF_CRM_1532615266] => 
+    [UF_CRM_1532615453] => 
+    [~UF_CRM_1532615453] => 
+    [UF_CRM_1532615500] => 
+    [~UF_CRM_1532615500] => 
+    [UF_CRM_1532616726] => 
+    [~UF_CRM_1532616726] => 
+    [UF_CRM_1532616763] => 
+    [~UF_CRM_1532616763] => 
+    [UF_CRM_1532616810] => 
+    [~UF_CRM_1532616810] => 
+)
+Array
+(
+    [TITLE] => ТЕСТ NEW 03.08
+    [STAGE_ID] => PREPARATION
+    [ASSIGNED_BY_ID] => 7
+    [UF_CRM_59EE4DC739368] => 1524
+    [COMPANY_ID] => 0
+    [CONTACT_IDS] => Array
+        (
+        )
+
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 7
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [ID] => 58
+)
+Array
+(
+    [ID] => 58
+    [~ID] => 58
+    [STAGE_ID] => WON
+    [~STAGE_ID] => WON
+    [ASSIGNED_BY_ID] => 7
+    [~ASSIGNED_BY_ID] => 7
+    [UF_CRM_1532614252] => 1
+    [~UF_CRM_1532614252] => 1
+    [UF_CRM_1532614341] => 
+    [~UF_CRM_1532614341] => 
+    [UF_CRM_1532613531] => 0
+    [~UF_CRM_1532613531] => 0
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 162
+        )
+
+    [~UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 162
+        )
+
+    [UF_CRM_1532613305575] => Array
+        (
+            [0] => B1-B4, C1
+        )
+
+    [~UF_CRM_1532613305575] => Array
+        (
+            [0] => B1-B4, C1
+        )
+
+    [UF_CRM_1532613353697] => Array
+        (
+            [0] => OOO NoName
+        )
+
+    [~UF_CRM_1532613353697] => Array
+        (
+            [0] => OOO NoName
+        )
+
+    [UF_CRM_1533131953485] => 10
+    [~UF_CRM_1533131953485] => 10
+    [UF_CRM_1532614475] => 53
+    [~UF_CRM_1532614475] => 53
+    [UF_CRM_1532614542] => 50
+    [~UF_CRM_1532614542] => 50
+    [UF_CRM_1532614584347] => 04.08.2018
+    [~UF_CRM_1532614584347] => 04.08.2018
+    [UF_CRM_1533040894] => 04.08.2018
+    [~UF_CRM_1533040894] => 04.08.2018
+    [UF_CRM_1532615106] => tttttttttt
+    [~UF_CRM_1532615106] => tttttttttt
+    [UF_CRM_1532615151] => 03.08.2018
+    [~UF_CRM_1532615151] => 03.08.2018
+    [UF_CRM_1532615192] => 349
+    [~UF_CRM_1532615192] => 349
+    [UF_CRM_1532615220] => 146
+    [~UF_CRM_1532615220] => 146
+    [UF_CRM_1532615266] => eeeeeeeeeeeeeeeee
+    [~UF_CRM_1532615266] => eeeeeeeeeeeeeeeee
+    [UF_CRM_1532615453] => 
+    [~UF_CRM_1532615453] => 
+    [UF_CRM_1532615500] => 
+    [~UF_CRM_1532615500] => 
+    [UF_CRM_1532616726] => 
+    [~UF_CRM_1532616726] => 
+    [UF_CRM_1532616763] => 
+    [~UF_CRM_1532616763] => 
+    [UF_CRM_1532616810] => 
+    [~UF_CRM_1532616810] => 
+)
+Array
+(
+    [TITLE] => ТЕСТ NEW 03.08
+    [STAGE_ID] => PREPAYMENT_INVOICE
+    [ASSIGNED_BY_ID] => 7
+    [UF_CRM_59EE4DC739368] => 1524
+    [COMPANY_ID] => 0
+    [CONTACT_IDS] => Array
+        (
+        )
+
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 7
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [ID] => 58
+)
+Array
+(
+    [ID] => 58
+    [~ID] => 58
+    [STAGE_ID] => PREPARATION
+    [~STAGE_ID] => PREPARATION
+    [ASSIGNED_BY_ID] => 7
+    [~ASSIGNED_BY_ID] => 7
+    [UF_CRM_1532614252] => 1
+    [~UF_CRM_1532614252] => 1
+    [UF_CRM_1532614341] => 
+    [~UF_CRM_1532614341] => 
+    [UF_CRM_1532613531] => 0
+    [~UF_CRM_1532613531] => 0
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 162
+        )
+
+    [~UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 162
+        )
+
+    [UF_CRM_1532613305575] => Array
+        (
+            [0] => B1-B4, C1
+        )
+
+    [~UF_CRM_1532613305575] => Array
+        (
+            [0] => B1-B4, C1
+        )
+
+    [UF_CRM_1532613353697] => Array
+        (
+            [0] => OOO NoName
+        )
+
+    [~UF_CRM_1532613353697] => Array
+        (
+            [0] => OOO NoName
+        )
+
+    [UF_CRM_1533131953485] => 10
+    [~UF_CRM_1533131953485] => 10
+    [UF_CRM_1532614475] => 53
+    [~UF_CRM_1532614475] => 53
+    [UF_CRM_1532614542] => 50
+    [~UF_CRM_1532614542] => 50
+    [UF_CRM_1532614584347] => 04.08.2018
+    [~UF_CRM_1532614584347] => 04.08.2018
+    [UF_CRM_1533040894] => 04.08.2018
+    [~UF_CRM_1533040894] => 04.08.2018
+    [UF_CRM_1532615106] => tttttttttt
+    [~UF_CRM_1532615106] => tttttttttt
+    [UF_CRM_1532615151] => 03.08.2018
+    [~UF_CRM_1532615151] => 03.08.2018
+    [UF_CRM_1532615192] => 349
+    [~UF_CRM_1532615192] => 349
+    [UF_CRM_1532615220] => 146
+    [~UF_CRM_1532615220] => 146
+    [UF_CRM_1532615266] => eeeeeeeeeeeeeeeee
+    [~UF_CRM_1532615266] => eeeeeeeeeeeeeeeee
+    [UF_CRM_1532615453] => 
+    [~UF_CRM_1532615453] => 
+    [UF_CRM_1532615500] => 
+    [~UF_CRM_1532615500] => 
+    [UF_CRM_1532616726] => 
+    [~UF_CRM_1532616726] => 
+    [UF_CRM_1532616763] => 
+    [~UF_CRM_1532616763] => 
+    [UF_CRM_1532616810] => 
+    [~UF_CRM_1532616810] => 
+)
+Array
+(
+    [TITLE] => ТЕСТ NEW 03.08
+    [STAGE_ID] => PREPAYMENT_INVOICE
+    [ASSIGNED_BY_ID] => 7
+    [UF_CRM_59EE4DC739368] => 1524
+    [UF_CRM_1532616726] => KKKKK
+    [UF_CRM_1532616763] => 04.08.2018
+    [COMPANY_ID] => 0
+    [CONTACT_IDS] => Array
+        (
+        )
+
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 7
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [ID] => 58
+)
+Array
+(
+    [ID] => 58
+    [~ID] => 58
+    [STAGE_ID] => PREPARATION
+    [~STAGE_ID] => PREPARATION
+    [ASSIGNED_BY_ID] => 7
+    [~ASSIGNED_BY_ID] => 7
+    [UF_CRM_1532614252] => 1
+    [~UF_CRM_1532614252] => 1
+    [UF_CRM_1532614341] => 
+    [~UF_CRM_1532614341] => 
+    [UF_CRM_1532613531] => 0
+    [~UF_CRM_1532613531] => 0
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 162
+        )
+
+    [~UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 162
+        )
+
+    [UF_CRM_1532613305575] => Array
+        (
+            [0] => B1-B4, C1
+        )
+
+    [~UF_CRM_1532613305575] => Array
+        (
+            [0] => B1-B4, C1
+        )
+
+    [UF_CRM_1532613353697] => Array
+        (
+            [0] => OOO NoName
+        )
+
+    [~UF_CRM_1532613353697] => Array
+        (
+            [0] => OOO NoName
+        )
+
+    [UF_CRM_1533131953485] => 10
+    [~UF_CRM_1533131953485] => 10
+    [UF_CRM_1532614475] => 53
+    [~UF_CRM_1532614475] => 53
+    [UF_CRM_1532614542] => 50
+    [~UF_CRM_1532614542] => 50
+    [UF_CRM_1532614584347] => 04.08.2018
+    [~UF_CRM_1532614584347] => 04.08.2018
+    [UF_CRM_1533040894] => 04.08.2018
+    [~UF_CRM_1533040894] => 04.08.2018
+    [UF_CRM_1532615106] => tttttttttt
+    [~UF_CRM_1532615106] => tttttttttt
+    [UF_CRM_1532615151] => 03.08.2018
+    [~UF_CRM_1532615151] => 03.08.2018
+    [UF_CRM_1532615192] => 349
+    [~UF_CRM_1532615192] => 349
+    [UF_CRM_1532615220] => 146
+    [~UF_CRM_1532615220] => 146
+    [UF_CRM_1532615266] => eeeeeeeeeeeeeeeee
+    [~UF_CRM_1532615266] => eeeeeeeeeeeeeeeee
+    [UF_CRM_1532615453] => 
+    [~UF_CRM_1532615453] => 
+    [UF_CRM_1532615500] => 
+    [~UF_CRM_1532615500] => 
+    [UF_CRM_1532616726] => 
+    [~UF_CRM_1532616726] => 
+    [UF_CRM_1532616763] => 
+    [~UF_CRM_1532616763] => 
+    [UF_CRM_1532616810] => 
+    [~UF_CRM_1532616810] => 
+)
+Array
+(
+    [TITLE] => ффффффффффф
+    [STAGE_ID] => PREPARATION
+    [ASSIGNED_BY_ID] => 7
+    [UF_CRM_59EE4DC739368] => 1506
+    [COMPANY_ID] => 0
+    [CONTACT_IDS] => Array
+        (
+        )
+
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 7
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [ID] => 59
+)
+Array
+(
+    [ID] => 59
+    [~ID] => 59
+    [STAGE_ID] => NEW
+    [~STAGE_ID] => NEW
+    [ASSIGNED_BY_ID] => 7
+    [~ASSIGNED_BY_ID] => 7
+    [UF_CRM_1532614252] => 0
+    [~UF_CRM_1532614252] => 0
+    [UF_CRM_1532614341] => 
+    [~UF_CRM_1532614341] => 
+    [UF_CRM_1532613531] => 0
+    [~UF_CRM_1532613531] => 0
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+        )
+
+    [~UF_CRM_59DBEBA4374C2] => Array
+        (
+        )
+
+    [UF_CRM_1532613305575] => Array
+        (
+        )
+
+    [~UF_CRM_1532613305575] => Array
+        (
+        )
+
+    [UF_CRM_1532613353697] => Array
+        (
+        )
+
+    [~UF_CRM_1532613353697] => Array
+        (
+        )
+
+    [UF_CRM_1533131953485] => 
+    [~UF_CRM_1533131953485] => 
+    [UF_CRM_1532614475] => 
+    [~UF_CRM_1532614475] => 
+    [UF_CRM_1532614542] => 
+    [~UF_CRM_1532614542] => 
+    [UF_CRM_1532614584347] => 
+    [~UF_CRM_1532614584347] => 
+    [UF_CRM_1533040894] => 
+    [~UF_CRM_1533040894] => 
+    [UF_CRM_1532615106] => 
+    [~UF_CRM_1532615106] => 
+    [UF_CRM_1532615151] => 
+    [~UF_CRM_1532615151] => 
+    [UF_CRM_1532615192] => 
+    [~UF_CRM_1532615192] => 
+    [UF_CRM_1532615220] => 
+    [~UF_CRM_1532615220] => 
+    [UF_CRM_1532615266] => 
+    [~UF_CRM_1532615266] => 
+    [UF_CRM_1532615453] => 
+    [~UF_CRM_1532615453] => 
+    [UF_CRM_1532615500] => 
+    [~UF_CRM_1532615500] => 
+    [UF_CRM_1532616726] => 
+    [~UF_CRM_1532616726] => 
+    [UF_CRM_1532616763] => 
+    [~UF_CRM_1532616763] => 
+    [UF_CRM_1532616810] => 
+    [~UF_CRM_1532616810] => 
+)
+Array
+(
+    [TITLE] => ффффффффффф
+    [STAGE_ID] => PREPARATION
+    [ASSIGNED_BY_ID] => 7
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 
+            [1] => 162
+        )
+
+    [UF_CRM_59EE4DC739368] => 1506
+    [UF_CRM_1532613305575] => Array
+        (
+            [0] => Б1
+        )
+
+    [UF_CRM_1532613353697] => Array
+        (
+            [0] => Рога и Копыта
+        )
+
+    [UF_CRM_1533131953485] => 9
+    [COMPANY_ID] => 0
+    [CONTACT_IDS] => Array
+        (
+        )
+
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 7
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [ID] => 59
+)
+Array
+(
+    [ID] => 59
+    [~ID] => 59
+    [STAGE_ID] => NEW
+    [~STAGE_ID] => NEW
+    [ASSIGNED_BY_ID] => 7
+    [~ASSIGNED_BY_ID] => 7
+    [UF_CRM_1532614252] => 0
+    [~UF_CRM_1532614252] => 0
+    [UF_CRM_1532614341] => 
+    [~UF_CRM_1532614341] => 
+    [UF_CRM_1532613531] => 0
+    [~UF_CRM_1532613531] => 0
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+        )
+
+    [~UF_CRM_59DBEBA4374C2] => Array
+        (
+        )
+
+    [UF_CRM_1532613305575] => Array
+        (
+        )
+
+    [~UF_CRM_1532613305575] => Array
+        (
+        )
+
+    [UF_CRM_1532613353697] => Array
+        (
+        )
+
+    [~UF_CRM_1532613353697] => Array
+        (
+        )
+
+    [UF_CRM_1533131953485] => 
+    [~UF_CRM_1533131953485] => 
+    [UF_CRM_1532614475] => 
+    [~UF_CRM_1532614475] => 
+    [UF_CRM_1532614542] => 
+    [~UF_CRM_1532614542] => 
+    [UF_CRM_1532614584347] => 
+    [~UF_CRM_1532614584347] => 
+    [UF_CRM_1533040894] => 
+    [~UF_CRM_1533040894] => 
+    [UF_CRM_1532615106] => 
+    [~UF_CRM_1532615106] => 
+    [UF_CRM_1532615151] => 
+    [~UF_CRM_1532615151] => 
+    [UF_CRM_1532615192] => 
+    [~UF_CRM_1532615192] => 
+    [UF_CRM_1532615220] => 
+    [~UF_CRM_1532615220] => 
+    [UF_CRM_1532615266] => 
+    [~UF_CRM_1532615266] => 
+    [UF_CRM_1532615453] => 
+    [~UF_CRM_1532615453] => 
+    [UF_CRM_1532615500] => 
+    [~UF_CRM_1532615500] => 
+    [UF_CRM_1532616726] => 
+    [~UF_CRM_1532616726] => 
+    [UF_CRM_1532616763] => 
+    [~UF_CRM_1532616763] => 
+    [UF_CRM_1532616810] => 
+    [~UF_CRM_1532616810] => 
+)
+Array
+(
+    [TITLE] => ффффффффффф
+    [STAGE_ID] => PREPARATION
+    [ASSIGNED_BY_ID] => 7
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 
+            [1] => 162
+        )
+
+    [UF_CRM_59EE4DC739368] => 1506
+    [UF_CRM_1532613305575] => Array
+        (
+            [0] => Б1
+        )
+
+    [UF_CRM_1532613353697] => Array
+        (
+            [0] => Рога и Копыта
+        )
+
+    [UF_CRM_1532614252] => 0
+    [UF_CRM_1532614584347] => 03.08.2018
+    [UF_CRM_1533131953485] => 9
+    [COMPANY_ID] => 0
+    [CONTACT_IDS] => Array
+        (
+        )
+
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 7
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [ID] => 59
+)
+Array
+(
+    [ID] => 59
+    [~ID] => 59
+    [STAGE_ID] => NEW
+    [~STAGE_ID] => NEW
+    [ASSIGNED_BY_ID] => 7
+    [~ASSIGNED_BY_ID] => 7
+    [UF_CRM_1532614252] => 0
+    [~UF_CRM_1532614252] => 0
+    [UF_CRM_1532614341] => 
+    [~UF_CRM_1532614341] => 
+    [UF_CRM_1532613531] => 0
+    [~UF_CRM_1532613531] => 0
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+        )
+
+    [~UF_CRM_59DBEBA4374C2] => Array
+        (
+        )
+
+    [UF_CRM_1532613305575] => Array
+        (
+        )
+
+    [~UF_CRM_1532613305575] => Array
+        (
+        )
+
+    [UF_CRM_1532613353697] => Array
+        (
+        )
+
+    [~UF_CRM_1532613353697] => Array
+        (
+        )
+
+    [UF_CRM_1533131953485] => 
+    [~UF_CRM_1533131953485] => 
+    [UF_CRM_1532614475] => 
+    [~UF_CRM_1532614475] => 
+    [UF_CRM_1532614542] => 
+    [~UF_CRM_1532614542] => 
+    [UF_CRM_1532614584347] => 
+    [~UF_CRM_1532614584347] => 
+    [UF_CRM_1533040894] => 
+    [~UF_CRM_1533040894] => 
+    [UF_CRM_1532615106] => 
+    [~UF_CRM_1532615106] => 
+    [UF_CRM_1532615151] => 
+    [~UF_CRM_1532615151] => 
+    [UF_CRM_1532615192] => 
+    [~UF_CRM_1532615192] => 
+    [UF_CRM_1532615220] => 
+    [~UF_CRM_1532615220] => 
+    [UF_CRM_1532615266] => 
+    [~UF_CRM_1532615266] => 
+    [UF_CRM_1532615453] => 
+    [~UF_CRM_1532615453] => 
+    [UF_CRM_1532615500] => 
+    [~UF_CRM_1532615500] => 
+    [UF_CRM_1532616726] => 
+    [~UF_CRM_1532616726] => 
+    [UF_CRM_1532616763] => 
+    [~UF_CRM_1532616763] => 
+    [UF_CRM_1532616810] => 
+    [~UF_CRM_1532616810] => 
+)
+Array
+(
+    [TITLE] => ффффффффффф
+    [STAGE_ID] => PREPARATION
+    [ASSIGNED_BY_ID] => 7
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 
+            [1] => 162
+        )
+
+    [UF_CRM_59EE4DC739368] => 1506
+    [UF_CRM_1532613305575] => Array
+        (
+            [0] => Б1
+        )
+
+    [UF_CRM_1532613353697] => Array
+        (
+            [0] => Рога и Копыта
+        )
+
+    [UF_CRM_1532614252] => 0
+    [UF_CRM_1532614584347] => 03.08.2018
+    [UF_CRM_1533131953485] => 9
+    [COMPANY_ID] => 0
+    [CONTACT_IDS] => Array
+        (
+        )
+
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 7
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [ID] => 59
+)
+Array
+(
+    [ID] => 59
+    [~ID] => 59
+    [STAGE_ID] => NEW
+    [~STAGE_ID] => NEW
+    [ASSIGNED_BY_ID] => 7
+    [~ASSIGNED_BY_ID] => 7
+    [UF_CRM_1532614252] => 0
+    [~UF_CRM_1532614252] => 0
+    [UF_CRM_1532614341] => 
+    [~UF_CRM_1532614341] => 
+    [UF_CRM_1532613531] => 0
+    [~UF_CRM_1532613531] => 0
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+        )
+
+    [~UF_CRM_59DBEBA4374C2] => Array
+        (
+        )
+
+    [UF_CRM_1532613305575] => Array
+        (
+        )
+
+    [~UF_CRM_1532613305575] => Array
+        (
+        )
+
+    [UF_CRM_1532613353697] => Array
+        (
+        )
+
+    [~UF_CRM_1532613353697] => Array
+        (
+        )
+
+    [UF_CRM_1533131953485] => 
+    [~UF_CRM_1533131953485] => 
+    [UF_CRM_1532614475] => 
+    [~UF_CRM_1532614475] => 
+    [UF_CRM_1532614542] => 
+    [~UF_CRM_1532614542] => 
+    [UF_CRM_1532614584347] => 
+    [~UF_CRM_1532614584347] => 
+    [UF_CRM_1533040894] => 
+    [~UF_CRM_1533040894] => 
+    [UF_CRM_1532615106] => 
+    [~UF_CRM_1532615106] => 
+    [UF_CRM_1532615151] => 
+    [~UF_CRM_1532615151] => 
+    [UF_CRM_1532615192] => 
+    [~UF_CRM_1532615192] => 
+    [UF_CRM_1532615220] => 
+    [~UF_CRM_1532615220] => 
+    [UF_CRM_1532615266] => 
+    [~UF_CRM_1532615266] => 
+    [UF_CRM_1532615453] => 
+    [~UF_CRM_1532615453] => 
+    [UF_CRM_1532615500] => 
+    [~UF_CRM_1532615500] => 
+    [UF_CRM_1532616726] => 
+    [~UF_CRM_1532616726] => 
+    [UF_CRM_1532616763] => 
+    [~UF_CRM_1532616763] => 
+    [UF_CRM_1532616810] => 
+    [~UF_CRM_1532616810] => 
+)
+Array
+(
+    [TITLE] => ффффффффффф
+    [STAGE_ID] => PREPARATION
+    [ASSIGNED_BY_ID] => 7
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 
+            [1] => 162
+        )
+
+    [UF_CRM_59EE4DC739368] => 1506
+    [UF_CRM_1532613305575] => Array
+        (
+            [0] => Б1
+        )
+
+    [UF_CRM_1532613353697] => Array
+        (
+            [0] => Рога и Копыта
+        )
+
+    [UF_CRM_1532614252] => 0
+    [UF_CRM_1532614584347] => 03.08.2018
+    [UF_CRM_1533131953485] => 9
+    [COMPANY_ID] => 0
+    [CONTACT_IDS] => Array
+        (
+        )
+
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 7
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [ID] => 59
+)
+Array
+(
+    [ID] => 59
+    [~ID] => 59
+    [STAGE_ID] => NEW
+    [~STAGE_ID] => NEW
+    [ASSIGNED_BY_ID] => 7
+    [~ASSIGNED_BY_ID] => 7
+    [UF_CRM_1532614252] => 0
+    [~UF_CRM_1532614252] => 0
+    [UF_CRM_1532614341] => 
+    [~UF_CRM_1532614341] => 
+    [UF_CRM_1532613531] => 0
+    [~UF_CRM_1532613531] => 0
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+        )
+
+    [~UF_CRM_59DBEBA4374C2] => Array
+        (
+        )
+
+    [UF_CRM_1532613305575] => Array
+        (
+        )
+
+    [~UF_CRM_1532613305575] => Array
+        (
+        )
+
+    [UF_CRM_1532613353697] => Array
+        (
+        )
+
+    [~UF_CRM_1532613353697] => Array
+        (
+        )
+
+    [UF_CRM_1533131953485] => 
+    [~UF_CRM_1533131953485] => 
+    [UF_CRM_1532614475] => 
+    [~UF_CRM_1532614475] => 
+    [UF_CRM_1532614542] => 
+    [~UF_CRM_1532614542] => 
+    [UF_CRM_1532614584347] => 
+    [~UF_CRM_1532614584347] => 
+    [UF_CRM_1533040894] => 
+    [~UF_CRM_1533040894] => 
+    [UF_CRM_1532615106] => 
+    [~UF_CRM_1532615106] => 
+    [UF_CRM_1532615151] => 
+    [~UF_CRM_1532615151] => 
+    [UF_CRM_1532615192] => 
+    [~UF_CRM_1532615192] => 
+    [UF_CRM_1532615220] => 
+    [~UF_CRM_1532615220] => 
+    [UF_CRM_1532615266] => 
+    [~UF_CRM_1532615266] => 
+    [UF_CRM_1532615453] => 
+    [~UF_CRM_1532615453] => 
+    [UF_CRM_1532615500] => 
+    [~UF_CRM_1532615500] => 
+    [UF_CRM_1532616726] => 
+    [~UF_CRM_1532616726] => 
+    [UF_CRM_1532616763] => 
+    [~UF_CRM_1532616763] => 
+    [UF_CRM_1532616810] => 
+    [~UF_CRM_1532616810] => 
+)
+Array
+(
+    [TITLE] => ффффффффффф
+    [STAGE_ID] => PREPARATION
+    [ASSIGNED_BY_ID] => 7
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 
+            [1] => 162
+        )
+
+    [UF_CRM_59EE4DC739368] => 1506
+    [UF_CRM_1532613305575] => Array
+        (
+            [0] => Б1
+        )
+
+    [UF_CRM_1532613353697] => Array
+        (
+            [0] => Рога и Копыта
+        )
+
+    [UF_CRM_1532614252] => 0
+    [UF_CRM_1532614584347] => 03.08.2018
+    [UF_CRM_1533131953485] => 9
+    [COMPANY_ID] => 0
+    [CONTACT_IDS] => Array
+        (
+        )
+
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 7
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [ID] => 59
+)
+Array
+(
+    [ID] => 59
+    [~ID] => 59
+    [STAGE_ID] => NEW
+    [~STAGE_ID] => NEW
+    [ASSIGNED_BY_ID] => 7
+    [~ASSIGNED_BY_ID] => 7
+    [UF_CRM_1532614252] => 0
+    [~UF_CRM_1532614252] => 0
+    [UF_CRM_1532614341] => 
+    [~UF_CRM_1532614341] => 
+    [UF_CRM_1532613531] => 0
+    [~UF_CRM_1532613531] => 0
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+        )
+
+    [~UF_CRM_59DBEBA4374C2] => Array
+        (
+        )
+
+    [UF_CRM_1532613305575] => Array
+        (
+        )
+
+    [~UF_CRM_1532613305575] => Array
+        (
+        )
+
+    [UF_CRM_1532613353697] => Array
+        (
+        )
+
+    [~UF_CRM_1532613353697] => Array
+        (
+        )
+
+    [UF_CRM_1533131953485] => 
+    [~UF_CRM_1533131953485] => 
+    [UF_CRM_1532614475] => 
+    [~UF_CRM_1532614475] => 
+    [UF_CRM_1532614542] => 
+    [~UF_CRM_1532614542] => 
+    [UF_CRM_1532614584347] => 
+    [~UF_CRM_1532614584347] => 
+    [UF_CRM_1533040894] => 
+    [~UF_CRM_1533040894] => 
+    [UF_CRM_1532615106] => 
+    [~UF_CRM_1532615106] => 
+    [UF_CRM_1532615151] => 
+    [~UF_CRM_1532615151] => 
+    [UF_CRM_1532615192] => 
+    [~UF_CRM_1532615192] => 
+    [UF_CRM_1532615220] => 
+    [~UF_CRM_1532615220] => 
+    [UF_CRM_1532615266] => 
+    [~UF_CRM_1532615266] => 
+    [UF_CRM_1532615453] => 
+    [~UF_CRM_1532615453] => 
+    [UF_CRM_1532615500] => 
+    [~UF_CRM_1532615500] => 
+    [UF_CRM_1532616726] => 
+    [~UF_CRM_1532616726] => 
+    [UF_CRM_1532616763] => 
+    [~UF_CRM_1532616763] => 
+    [UF_CRM_1532616810] => 
+    [~UF_CRM_1532616810] => 
+)
+Array
+(
+    [TITLE] => ффффффффффф
+    [STAGE_ID] => PREPARATION
+    [ASSIGNED_BY_ID] => 7
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 
+            [1] => 162
+        )
+
+    [UF_CRM_59EE4DC739368] => 1506
+    [UF_CRM_1532613305575] => Array
+        (
+            [0] => Б1
+        )
+
+    [UF_CRM_1532613353697] => Array
+        (
+            [0] => Рога и Копыта
+        )
+
+    [UF_CRM_1532614252] => 0
+    [UF_CRM_1532614584347] => 03.08.2018
+    [UF_CRM_1533131953485] => 9
+    [COMPANY_ID] => 0
+    [CONTACT_IDS] => Array
+        (
+        )
+
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 7
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [ID] => 59
+)
+Array
+(
+    [ID] => 59
+    [~ID] => 59
+    [STAGE_ID] => NEW
+    [~STAGE_ID] => NEW
+    [ASSIGNED_BY_ID] => 7
+    [~ASSIGNED_BY_ID] => 7
+    [UF_CRM_1532614252] => 0
+    [~UF_CRM_1532614252] => 0
+    [UF_CRM_1532614341] => 
+    [~UF_CRM_1532614341] => 
+    [UF_CRM_1532613531] => 0
+    [~UF_CRM_1532613531] => 0
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+        )
+
+    [~UF_CRM_59DBEBA4374C2] => Array
+        (
+        )
+
+    [UF_CRM_1532613305575] => Array
+        (
+        )
+
+    [~UF_CRM_1532613305575] => Array
+        (
+        )
+
+    [UF_CRM_1532613353697] => Array
+        (
+        )
+
+    [~UF_CRM_1532613353697] => Array
+        (
+        )
+
+    [UF_CRM_1533131953485] => 
+    [~UF_CRM_1533131953485] => 
+    [UF_CRM_1532614475] => 
+    [~UF_CRM_1532614475] => 
+    [UF_CRM_1532614542] => 
+    [~UF_CRM_1532614542] => 
+    [UF_CRM_1532614584347] => 
+    [~UF_CRM_1532614584347] => 
+    [UF_CRM_1533040894] => 
+    [~UF_CRM_1533040894] => 
+    [UF_CRM_1532615106] => 
+    [~UF_CRM_1532615106] => 
+    [UF_CRM_1532615151] => 
+    [~UF_CRM_1532615151] => 
+    [UF_CRM_1532615192] => 
+    [~UF_CRM_1532615192] => 
+    [UF_CRM_1532615220] => 
+    [~UF_CRM_1532615220] => 
+    [UF_CRM_1532615266] => 
+    [~UF_CRM_1532615266] => 
+    [UF_CRM_1532615453] => 
+    [~UF_CRM_1532615453] => 
+    [UF_CRM_1532615500] => 
+    [~UF_CRM_1532615500] => 
+    [UF_CRM_1532616726] => 
+    [~UF_CRM_1532616726] => 
+    [UF_CRM_1532616763] => 
+    [~UF_CRM_1532616763] => 
+    [UF_CRM_1532616810] => 
+    [~UF_CRM_1532616810] => 
+)
+Array
+(
+    [TITLE] => ффффффффффф
+    [STAGE_ID] => PREPARATION
+    [ASSIGNED_BY_ID] => 7
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 
+            [1] => 162
+        )
+
+    [UF_CRM_59EE4DC739368] => 1506
+    [UF_CRM_1532613305575] => Array
+        (
+            [0] => Б1
+        )
+
+    [UF_CRM_1532613353697] => Array
+        (
+            [0] => Рога и Копыта
+        )
+
+    [UF_CRM_1532614252] => 0
+    [UF_CRM_1532614584347] => 03.08.2018
+    [UF_CRM_1533131953485] => 9
+    [COMPANY_ID] => 0
+    [CONTACT_IDS] => Array
+        (
+        )
+
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 7
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [ID] => 59
+)
+Array
+(
+    [ID] => 59
+    [~ID] => 59
+    [STAGE_ID] => NEW
+    [~STAGE_ID] => NEW
+    [ASSIGNED_BY_ID] => 7
+    [~ASSIGNED_BY_ID] => 7
+    [UF_CRM_1532614252] => 0
+    [~UF_CRM_1532614252] => 0
+    [UF_CRM_1532614341] => 
+    [~UF_CRM_1532614341] => 
+    [UF_CRM_1532613531] => 0
+    [~UF_CRM_1532613531] => 0
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+        )
+
+    [~UF_CRM_59DBEBA4374C2] => Array
+        (
+        )
+
+    [UF_CRM_1532613305575] => Array
+        (
+        )
+
+    [~UF_CRM_1532613305575] => Array
+        (
+        )
+
+    [UF_CRM_1532613353697] => Array
+        (
+        )
+
+    [~UF_CRM_1532613353697] => Array
+        (
+        )
+
+    [UF_CRM_1533131953485] => 
+    [~UF_CRM_1533131953485] => 
+    [UF_CRM_1532614475] => 
+    [~UF_CRM_1532614475] => 
+    [UF_CRM_1532614542] => 
+    [~UF_CRM_1532614542] => 
+    [UF_CRM_1532614584347] => 
+    [~UF_CRM_1532614584347] => 
+    [UF_CRM_1533040894] => 
+    [~UF_CRM_1533040894] => 
+    [UF_CRM_1532615106] => 
+    [~UF_CRM_1532615106] => 
+    [UF_CRM_1532615151] => 
+    [~UF_CRM_1532615151] => 
+    [UF_CRM_1532615192] => 
+    [~UF_CRM_1532615192] => 
+    [UF_CRM_1532615220] => 
+    [~UF_CRM_1532615220] => 
+    [UF_CRM_1532615266] => 
+    [~UF_CRM_1532615266] => 
+    [UF_CRM_1532615453] => 
+    [~UF_CRM_1532615453] => 
+    [UF_CRM_1532615500] => 
+    [~UF_CRM_1532615500] => 
+    [UF_CRM_1532616726] => 
+    [~UF_CRM_1532616726] => 
+    [UF_CRM_1532616763] => 
+    [~UF_CRM_1532616763] => 
+    [UF_CRM_1532616810] => 
+    [~UF_CRM_1532616810] => 
+)
+Array
+(
+    [TITLE] => ффффффффффф
+    [STAGE_ID] => PREPARATION
+    [ASSIGNED_BY_ID] => 7
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 
+            [1] => 162
+        )
+
+    [UF_CRM_59EE4DC739368] => 1506
+    [UF_CRM_1532613305575] => Array
+        (
+            [0] => Б1
+        )
+
+    [UF_CRM_1532613353697] => Array
+        (
+            [0] => Рога и Копыта
+        )
+
+    [UF_CRM_1532614252] => 0
+    [UF_CRM_1532614584347] => 03.08.2018
+    [UF_CRM_1533131953485] => 9
+    [COMPANY_ID] => 0
+    [CONTACT_IDS] => Array
+        (
+        )
+
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 7
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [ID] => 59
+)
+Array
+(
+    [ID] => 59
+    [~ID] => 59
+    [STAGE_ID] => NEW
+    [~STAGE_ID] => NEW
+    [ASSIGNED_BY_ID] => 7
+    [~ASSIGNED_BY_ID] => 7
+    [UF_CRM_1532614252] => 0
+    [~UF_CRM_1532614252] => 0
+    [UF_CRM_1532614341] => 
+    [~UF_CRM_1532614341] => 
+    [UF_CRM_1532613531] => 0
+    [~UF_CRM_1532613531] => 0
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+        )
+
+    [~UF_CRM_59DBEBA4374C2] => Array
+        (
+        )
+
+    [UF_CRM_1532613305575] => Array
+        (
+        )
+
+    [~UF_CRM_1532613305575] => Array
+        (
+        )
+
+    [UF_CRM_1532613353697] => Array
+        (
+        )
+
+    [~UF_CRM_1532613353697] => Array
+        (
+        )
+
+    [UF_CRM_1533131953485] => 
+    [~UF_CRM_1533131953485] => 
+    [UF_CRM_1532614475] => 
+    [~UF_CRM_1532614475] => 
+    [UF_CRM_1532614542] => 
+    [~UF_CRM_1532614542] => 
+    [UF_CRM_1532614584347] => 
+    [~UF_CRM_1532614584347] => 
+    [UF_CRM_1533040894] => 
+    [~UF_CRM_1533040894] => 
+    [UF_CRM_1532615106] => 
+    [~UF_CRM_1532615106] => 
+    [UF_CRM_1532615151] => 
+    [~UF_CRM_1532615151] => 
+    [UF_CRM_1532615192] => 
+    [~UF_CRM_1532615192] => 
+    [UF_CRM_1532615220] => 
+    [~UF_CRM_1532615220] => 
+    [UF_CRM_1532615266] => 
+    [~UF_CRM_1532615266] => 
+    [UF_CRM_1532615453] => 
+    [~UF_CRM_1532615453] => 
+    [UF_CRM_1532615500] => 
+    [~UF_CRM_1532615500] => 
+    [UF_CRM_1532616726] => 
+    [~UF_CRM_1532616726] => 
+    [UF_CRM_1532616763] => 
+    [~UF_CRM_1532616763] => 
+    [UF_CRM_1532616810] => 
+    [~UF_CRM_1532616810] => 
+)
+Array
+(
+    [ASSIGNED_BY_ID] => 7
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 
+            [1] => 162
+        )
+
+    [UF_CRM_1532613305575] => Array
+        (
+            [0] => Б1
+        )
+
+    [UF_CRM_1532613353697] => Array
+        (
+            [0] => Рога и Копыта
+        )
+
+    [UF_CRM_1532613531] => 0
+    [UF_CRM_1532614252] => 0
+    [UF_CRM_1532614341] => 
+    [UF_CRM_1532614475] => 53
+    [UF_CRM_1532614542] => 50
+    [UF_CRM_1532614584347] => 03.08.2018
+    [UF_CRM_1532614949319] => 
+    [UF_CRM_1532615006] => не заполнено
+    [UF_CRM_1533131953485] => 9
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 7
+    [ID] => 59
+)
+Array
+(
+    [ID] => 59
+    [~ID] => 59
+    [STAGE_ID] => NEW
+    [~STAGE_ID] => NEW
+    [ASSIGNED_BY_ID] => 7
+    [~ASSIGNED_BY_ID] => 7
+    [UF_CRM_1532614252] => 0
+    [~UF_CRM_1532614252] => 0
+    [UF_CRM_1532614341] => 
+    [~UF_CRM_1532614341] => 
+    [UF_CRM_1532613531] => 0
+    [~UF_CRM_1532613531] => 0
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+        )
+
+    [~UF_CRM_59DBEBA4374C2] => Array
+        (
+        )
+
+    [UF_CRM_1532613305575] => Array
+        (
+        )
+
+    [~UF_CRM_1532613305575] => Array
+        (
+        )
+
+    [UF_CRM_1532613353697] => Array
+        (
+        )
+
+    [~UF_CRM_1532613353697] => Array
+        (
+        )
+
+    [UF_CRM_1533131953485] => 
+    [~UF_CRM_1533131953485] => 
+    [UF_CRM_1532614475] => 
+    [~UF_CRM_1532614475] => 
+    [UF_CRM_1532614542] => 
+    [~UF_CRM_1532614542] => 
+    [UF_CRM_1532614584347] => 
+    [~UF_CRM_1532614584347] => 
+    [UF_CRM_1533040894] => 
+    [~UF_CRM_1533040894] => 
+    [UF_CRM_1532615106] => 
+    [~UF_CRM_1532615106] => 
+    [UF_CRM_1532615151] => 
+    [~UF_CRM_1532615151] => 
+    [UF_CRM_1532615192] => 
+    [~UF_CRM_1532615192] => 
+    [UF_CRM_1532615220] => 
+    [~UF_CRM_1532615220] => 
+    [UF_CRM_1532615266] => 
+    [~UF_CRM_1532615266] => 
+    [UF_CRM_1532615453] => 
+    [~UF_CRM_1532615453] => 
+    [UF_CRM_1532615500] => 
+    [~UF_CRM_1532615500] => 
+    [UF_CRM_1532616726] => 
+    [~UF_CRM_1532616726] => 
+    [UF_CRM_1532616763] => 
+    [~UF_CRM_1532616763] => 
+    [UF_CRM_1532616810] => 
+    [~UF_CRM_1532616810] => 
+)
+Array
+(
+    [TITLE] => ффффффффффф
+    [STAGE_ID] => 2
+    [ASSIGNED_BY_ID] => 7
+    [UF_CRM_59EE4DC739368] => 1506
+    [COMPANY_ID] => 0
+    [CONTACT_IDS] => Array
+        (
+        )
+
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 7
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [ID] => 59
+)
+Array
+(
+    [ID] => 59
+    [~ID] => 59
+    [STAGE_ID] => NEW
+    [~STAGE_ID] => NEW
+    [ASSIGNED_BY_ID] => 7
+    [~ASSIGNED_BY_ID] => 7
+    [UF_CRM_1532614252] => 0
+    [~UF_CRM_1532614252] => 0
+    [UF_CRM_1532614341] => 
+    [~UF_CRM_1532614341] => 
+    [UF_CRM_1532613531] => 0
+    [~UF_CRM_1532613531] => 0
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 162
+        )
+
+    [~UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 162
+        )
+
+    [UF_CRM_1532613305575] => Array
+        (
+            [0] => Б1
+        )
+
+    [~UF_CRM_1532613305575] => Array
+        (
+            [0] => Б1
+        )
+
+    [UF_CRM_1532613353697] => Array
+        (
+            [0] => Рога и Копыта
+        )
+
+    [~UF_CRM_1532613353697] => Array
+        (
+            [0] => Рога и Копыта
+        )
+
+    [UF_CRM_1533131953485] => 9
+    [~UF_CRM_1533131953485] => 9
+    [UF_CRM_1532614475] => 53
+    [~UF_CRM_1532614475] => 53
+    [UF_CRM_1532614542] => 50
+    [~UF_CRM_1532614542] => 50
+    [UF_CRM_1532614584347] => 03.08.2018
+    [~UF_CRM_1532614584347] => 03.08.2018
+    [UF_CRM_1533040894] => 
+    [~UF_CRM_1533040894] => 
+    [UF_CRM_1532615106] => 
+    [~UF_CRM_1532615106] => 
+    [UF_CRM_1532615151] => 
+    [~UF_CRM_1532615151] => 
+    [UF_CRM_1532615192] => 
+    [~UF_CRM_1532615192] => 
+    [UF_CRM_1532615220] => 
+    [~UF_CRM_1532615220] => 
+    [UF_CRM_1532615266] => 
+    [~UF_CRM_1532615266] => 
+    [UF_CRM_1532615453] => 
+    [~UF_CRM_1532615453] => 
+    [UF_CRM_1532615500] => 
+    [~UF_CRM_1532615500] => 
+    [UF_CRM_1532616726] => 
+    [~UF_CRM_1532616726] => 
+    [UF_CRM_1532616763] => 
+    [~UF_CRM_1532616763] => 
+    [UF_CRM_1532616810] => 
+    [~UF_CRM_1532616810] => 
+)
+Array
+(
+    [TITLE] => ффффффффффф
+    [STAGE_ID] => 2
+    [ASSIGNED_BY_ID] => 7
+    [UF_CRM_59EE4DC739368] => 1506
+    [UF_CRM_1532614252] => 0
+    [UF_CRM_1532614341] => 4751
+    [COMPANY_ID] => 0
+    [CONTACT_IDS] => Array
+        (
+        )
+
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 7
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [ID] => 59
+)
+Array
+(
+    [ID] => 59
+    [~ID] => 59
+    [STAGE_ID] => NEW
+    [~STAGE_ID] => NEW
+    [ASSIGNED_BY_ID] => 7
+    [~ASSIGNED_BY_ID] => 7
+    [UF_CRM_1532614252] => 0
+    [~UF_CRM_1532614252] => 0
+    [UF_CRM_1532614341] => 
+    [~UF_CRM_1532614341] => 
+    [UF_CRM_1532613531] => 0
+    [~UF_CRM_1532613531] => 0
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 162
+        )
+
+    [~UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 162
+        )
+
+    [UF_CRM_1532613305575] => Array
+        (
+            [0] => Б1
+        )
+
+    [~UF_CRM_1532613305575] => Array
+        (
+            [0] => Б1
+        )
+
+    [UF_CRM_1532613353697] => Array
+        (
+            [0] => Рога и Копыта
+        )
+
+    [~UF_CRM_1532613353697] => Array
+        (
+            [0] => Рога и Копыта
+        )
+
+    [UF_CRM_1533131953485] => 9
+    [~UF_CRM_1533131953485] => 9
+    [UF_CRM_1532614475] => 53
+    [~UF_CRM_1532614475] => 53
+    [UF_CRM_1532614542] => 50
+    [~UF_CRM_1532614542] => 50
+    [UF_CRM_1532614584347] => 03.08.2018
+    [~UF_CRM_1532614584347] => 03.08.2018
+    [UF_CRM_1533040894] => 
+    [~UF_CRM_1533040894] => 
+    [UF_CRM_1532615106] => 
+    [~UF_CRM_1532615106] => 
+    [UF_CRM_1532615151] => 
+    [~UF_CRM_1532615151] => 
+    [UF_CRM_1532615192] => 
+    [~UF_CRM_1532615192] => 
+    [UF_CRM_1532615220] => 
+    [~UF_CRM_1532615220] => 
+    [UF_CRM_1532615266] => 
+    [~UF_CRM_1532615266] => 
+    [UF_CRM_1532615453] => 
+    [~UF_CRM_1532615453] => 
+    [UF_CRM_1532615500] => 
+    [~UF_CRM_1532615500] => 
+    [UF_CRM_1532616726] => 
+    [~UF_CRM_1532616726] => 
+    [UF_CRM_1532616763] => 
+    [~UF_CRM_1532616763] => 
+    [UF_CRM_1532616810] => 
+    [~UF_CRM_1532616810] => 
+)
+Array
+(
+    [TITLE] => ффффффффффф
+    [STAGE_ID] => 2
+    [ASSIGNED_BY_ID] => 7
+    [UF_CRM_59EE4DC739368] => 1506
+    [UF_CRM_1532614252] => 0
+    [UF_CRM_1532614341] => 4751
+    [UF_CRM_1533040894] => 16.08.2018
+    [COMPANY_ID] => 0
+    [CONTACT_IDS] => Array
+        (
+        )
+
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 7
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [ID] => 59
+)
+Array
+(
+    [ID] => 59
+    [~ID] => 59
+    [STAGE_ID] => NEW
+    [~STAGE_ID] => NEW
+    [ASSIGNED_BY_ID] => 7
+    [~ASSIGNED_BY_ID] => 7
+    [UF_CRM_1532614252] => 0
+    [~UF_CRM_1532614252] => 0
+    [UF_CRM_1532614341] => 
+    [~UF_CRM_1532614341] => 
+    [UF_CRM_1532613531] => 0
+    [~UF_CRM_1532613531] => 0
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 162
+        )
+
+    [~UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 162
+        )
+
+    [UF_CRM_1532613305575] => Array
+        (
+            [0] => Б1
+        )
+
+    [~UF_CRM_1532613305575] => Array
+        (
+            [0] => Б1
+        )
+
+    [UF_CRM_1532613353697] => Array
+        (
+            [0] => Рога и Копыта
+        )
+
+    [~UF_CRM_1532613353697] => Array
+        (
+            [0] => Рога и Копыта
+        )
+
+    [UF_CRM_1533131953485] => 9
+    [~UF_CRM_1533131953485] => 9
+    [UF_CRM_1532614475] => 53
+    [~UF_CRM_1532614475] => 53
+    [UF_CRM_1532614542] => 50
+    [~UF_CRM_1532614542] => 50
+    [UF_CRM_1532614584347] => 03.08.2018
+    [~UF_CRM_1532614584347] => 03.08.2018
+    [UF_CRM_1533040894] => 
+    [~UF_CRM_1533040894] => 
+    [UF_CRM_1532615106] => 
+    [~UF_CRM_1532615106] => 
+    [UF_CRM_1532615151] => 
+    [~UF_CRM_1532615151] => 
+    [UF_CRM_1532615192] => 
+    [~UF_CRM_1532615192] => 
+    [UF_CRM_1532615220] => 
+    [~UF_CRM_1532615220] => 
+    [UF_CRM_1532615266] => 
+    [~UF_CRM_1532615266] => 
+    [UF_CRM_1532615453] => 
+    [~UF_CRM_1532615453] => 
+    [UF_CRM_1532615500] => 
+    [~UF_CRM_1532615500] => 
+    [UF_CRM_1532616726] => 
+    [~UF_CRM_1532616726] => 
+    [UF_CRM_1532616763] => 
+    [~UF_CRM_1532616763] => 
+    [UF_CRM_1532616810] => 
+    [~UF_CRM_1532616810] => 
+)
+
+**********************************************************06.08.2018*********************************************
+// function stageCounters:
+
+$arFields = Array
+(
+    [TITLE] => 08-2018-Мотор
+    [STAGE_ID] => WON
+    [ASSIGNED_BY_ID] => 11
+    [UF_CRM_59EE4DC739368] => 1935
+    [COMPANY_ID] => 0
+    [CONTACT_IDS] => Array
+        (
+        )
+
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 11
+    [STAGE_SEMANTIC_ID] => S
+    [IS_NEW] => N
+    [ID] => 65
+)
+$beforUpdateDealData = Array
+(
+    [ID] => 65
+    [~ID] => 65
+    [STAGE_ID] => PREPAYMENT_INVOICE
+    [~STAGE_ID] => PREPAYMENT_INVOICE
+    [BEGINDATE] => 06.08.2018
+    [~BEGINDATE] => 06.08.2018
+)
+*******
+COMPANY
+Array
+(
+    [ID] => 28
+    [COMPANY_TYPE] => 
+    [TITLE] => Тестовая компания
+    [LOGO] => 
+    [LEAD_ID] => 
+    [HAS_PHONE] => Y
+    [HAS_EMAIL] => Y
+    [HAS_IMOL] => N
+    [ASSIGNED_BY_ID] => 11
+    [ASSIGNED_BY_LOGIN] => admin
+    [ASSIGNED_BY_NAME] => Admin
+    [ASSIGNED_BY_LAST_NAME] => It:logic
+    [ASSIGNED_BY_SECOND_NAME] => 
+    [ASSIGNED_BY_WORK_POSITION] => 
+    [ASSIGNED_BY_PERSONAL_PHOTO] => 
+    [CREATED_BY_ID] => 7
+    [CREATED_BY_LOGIN] => lstepanchuk2706@gmail.com
+    [CREATED_BY_NAME] => Лилия
+    [CREATED_BY_LAST_NAME] => Степанчук
+    [CREATED_BY_SECOND_NAME] => 
+    [MODIFY_BY_ID] => 7
+    [MODIFY_BY_LOGIN] => lstepanchuk2706@gmail.com
+    [MODIFY_BY_NAME] => Лилия
+    [MODIFY_BY_LAST_NAME] => Степанчук
+    [MODIFY_BY_SECOND_NAME] => 
+    [BANKING_DETAILS] => 
+    [INDUSTRY] => IT
+    [REVENUE] => 
+    [CURRENCY_ID] => 
+    [EMPLOYEES] => EMPLOYEES_1
+    [COMMENTS] => 
+    [DATE_CREATE] => 26.07.2018 13:49:14
+    [DATE_MODIFY] => 01.08.2018 16:51:35
+    [OPENED] => Y
+    [IS_MY_COMPANY] => N
+    [WEBFORM_ID] => 
+    [ORIGINATOR_ID] => 
+    [ORIGIN_ID] => 
+    [ORIGIN_VERSION] => 
+    [ADDRESS] => 
+    [ADDRESS_2] => 
+    [ADDRESS_CITY] => 
+    [ADDRESS_POSTAL_CODE] => 
+    [ADDRESS_REGION] => 
+    [ADDRESS_PROVINCE] => 
+    [ADDRESS_COUNTRY] => 
+    [ADDRESS_COUNTRY_CODE] => 
+    [ADDRESS_LEGAL] => 
+    [REG_ADDRESS] => 
+    [REG_ADDRESS_2] => 
+    [REG_ADDRESS_CITY] => 
+    [REG_ADDRESS_POSTAL_CODE] => 
+    [REG_ADDRESS_REGION] => 
+    [REG_ADDRESS_PROVINCE] => 
+    [REG_ADDRESS_COUNTRY] => 
+    [REG_ADDRESS_COUNTRY_CODE] => 
+    [ASSIGNED_BY] => 11
+    [CREATED_BY] => 7
+    [MODIFY_BY] => 7
+    [UTM_SOURCE] => 
+    [UTM_MEDIUM] => 
+    [UTM_CAMPAIGN] => 
+    [UTM_CONTENT] => 
+    [UTM_TERM] => 
+)
+************----------------
+Array
+(
+    [TITLE] => 08 - 2019 -  М - Предыдущая сделка № 241 следующий период (+1 год)
+    [COMPANY_ID] => 0
+    [ASSIGNED_BY_ID] => 11
+    [UF_CRM_59EE4DC739368] => 1816
+    [UF_CRM_5B6C16E90EB4E] => 4815
+    [UF_CRM_5B75CA95BD958] => 22222222222
+    [UF_CRM_5B75CA95D62D9] => Accent BASE
+    [UF_CRM_5B75CA95E1791] => OTHER
+    [UF_CRM_1532613531] => 0
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 162
+        )
+
+    [UF_CRM_1532613305575] => Array
+        (
+            [0] => TC by MTCBy
+        )
+
+    [UF_CRM_1534156053] => 5062
+    [UF_CRM_1534156848] => 31.08.2018
+    [UF_CRM_1533131953485] => 54
+    [UF_CRM_1532614252] => 1
+    [UF_CRM_1532614341] => 
+    [UF_CRM_1532614475] => 69
+    [UF_CRM_1532614542] => 68
+    [UF_CRM_1533826055] => 245
+    [~DATE_CREATE] => now()
+    [~DATE_MODIFY] => now()
+    [CREATED_BY_ID] => 11
+    [MODIFY_BY_ID] => 11
+    [IS_RECURRING] => N
+    [CATEGORY_ID] => 0
+    [STAGE_ID] => NEW
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => Y
+    [CURRENCY_ID] => UAH
+    [EXCH_RATE] => 1
+    [ACCOUNT_CURRENCY_ID] => UAH
+    [OPPORTUNITY_ACCOUNT] => 0
+    [TAX_VALUE_ACCOUNT] => 0
+    [~BEGINDATE] => '2022-08-31'
+    [__BEGINDATE] => 31.08.2022
+    [CLOSED] => N
+)

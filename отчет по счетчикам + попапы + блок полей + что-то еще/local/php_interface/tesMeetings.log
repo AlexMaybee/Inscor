@@ -1,0 +1,141 @@
+Array
+(
+    [STAGE_ID] => PREPARATION
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 11
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [ID] => 19
+)
+Array
+(
+    [TITLE] => GEBERIT INTERNATIONAL SALES AG, ПРЕДСТАВИТЕЛЬСТВО
+    [STAGE_ID] => PREPAYMENT_INVOICE
+    [CURRENCY_ID] => UAH
+    [OPPORTUNITY] => 0
+    [ASSIGNED_BY_ID] => 4
+    [COMPANY_ID] => 0
+    [CONTACT_IDS] => Array
+        (
+        )
+
+    [EXCH_RATE] => 1
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 11
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [ID] => 19
+)
+***********------------
+
+Array
+(
+    [ASSIGNED_BY_ID] => 4
+    [UF_CRM_1532615106] => sssssss
+    [UF_CRM_1532615151] => 27.07.2018
+    [UF_CRM_1532615192] => 325
+    [UF_CRM_1532615220] => 146
+    [UF_CRM_1532615266] => OOO "O-LO-LO"
+    [UF_CRM_1532615453] => 05.08.2018
+    [UF_CRM_1532615500] => test 123
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 11
+    [ID] => 19
+)
+Array
+(
+    [TITLE] => GEBERIT INTERNATIONAL SALES AG, ПРЕДСТАВИТЕЛЬСТВО
+    [STAGE_ID] => LOSE
+    [CURRENCY_ID] => UAH
+    [OPPORTUNITY] => 0
+    [ASSIGNED_BY_ID] => 4
+    [COMPANY_ID] => 0
+    [CONTACT_IDS] => Array
+        (
+        )
+
+    [EXCH_RATE] => 1
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 11
+    [STAGE_SEMANTIC_ID] => F
+    [IS_NEW] => N
+    [ID] => 19
+)
+Array
+(
+    [TITLE] => Тестовая сделка 0
+    [STAGE_ID] => 2
+    [CURRENCY_ID] => UAH
+    [OPPORTUNITY] => 10000
+    [CLOSEDATE] => 27.07.2018
+    [ASSIGNED_BY_ID] => 11
+    [UF_CRM_59DBEBA4374C2] => Array
+        (
+            [0] => 
+            [1] => 168
+        )
+
+    [UF_CRM_59EE4DC739368] => 1516
+    [UF_CRM_5A255307F0681] => WEBFORM
+    [UF_CRM_1532613154155] => Array
+        (
+            [0] => http://insurancecompany.freeabc.net/crm/deal/details/34/
+        )
+
+    [UF_CRM_1532613305575] => Array
+        (
+            [0] => test
+        )
+
+    [UF_CRM_1532613353697] => Array
+        (
+            [0] => test
+        )
+
+    [UF_CRM_1532613531] => 0
+    [UF_CRM_1532614252] => 0
+    [UF_CRM_1532614341] => 
+    [UF_CRM_1532614475] => 40
+    [UF_CRM_1532614542] => 39
+    [UF_CRM_1532614584347] => 31.07.2018
+    [UF_CRM_1532614949319] => 
+    [UF_CRM_1532615006] => 
+    [COMPANY_ID] => 28
+    [CONTACT_IDS] => Array
+        (
+        )
+
+    [EXCH_RATE] => 1
+    [~DATE_MODIFY] => now()
+    [MODIFY_BY_ID] => 11
+    [ID] => 34
+)
+Array
+(
+    [ID] => 34
+    [~ID] => 34
+    [STAGE_ID] => 2
+    [~STAGE_ID] => 2
+    [UF_CRM_1532614252] => 0
+    [~UF_CRM_1532614252] => 0
+    [UF_CRM_1532614341] => 
+    [~UF_CRM_1532614341] => 
+    [UF_CRM_1532615106] => test
+    [~UF_CRM_1532615106] => test
+    [UF_CRM_1532615151] => 27.07.2018
+    [~UF_CRM_1532615151] => 27.07.2018
+    [UF_CRM_1532615192] => 332
+    [~UF_CRM_1532615192] => 332
+    [UF_CRM_1532615220] => 2000
+    [~UF_CRM_1532615220] => 2000
+    [UF_CRM_1532615266] => ЗЗЗЗЗЗЗЗЗ
+    [~UF_CRM_1532615266] => ЗЗЗЗЗЗЗЗЗ
+    [UF_CRM_1532615453] => 27.02.2019
+    [~UF_CRM_1532615453] => 27.02.2019
+    [UF_CRM_1532615500] => test
+    [~UF_CRM_1532615500] => test
+    [UF_CRM_1532616726] => oooooooooooooooooo
+    [~UF_CRM_1532616726] => oooooooooooooooooo
+    [UF_CRM_1532616763] => 31.07.2018
+    [~UF_CRM_1532616763] => 31.07.2018
+)

@@ -1,0 +1,59 @@
+<?
+
+if(!defined("B_PROLOG_INCLUDED") || B_PROLOG_INCLUDED!==true)die();
+//Vue.js
+$APPLICATION->AddHeadScript('/local/components/itlogic/stage_counters_report/templates/.default/vue.js');
+?>
+    <section class="custom-stage-counters" id="filters">
+
+<h2 class="report-title">Отчет по счетчикам стадий сделок с {{dateFrom.split('-').reverse().join('.')}} по {{dateTo.split('-').reverse().join('.')}}</h2>
+
+
+
+    <div class="counter-filters" >
+        <ul>
+            <li>
+                <label for="deal_category">Выберите направление:</label>
+                <select name='deal_category' v-model="categoryFilter" @change="getStatisticsByFilter()">
+                    <option v-for="category in categories" v-bind:value="category.ID">{{category.NAME}}</option>
+                </select>
+            </li>
+            <li>
+                <label for="date_from">Дата с:</label>
+                <input name="date_from" v-model="dateFrom" type="date" @change="getStatisticsByFilter()">
+            </li>
+
+            <li><label for="date_to">Дата по:</label>
+                <input name="date_to" v-model="dateTo" type="date" @change="getStatisticsByFilter()">
+            </li>
+
+            <li><label for="only_opened">Только сделки в работе</label>
+                <input name="only_opened" v-model="onlyOpenedDeals" type="checkbox" @change="getStatisticsByFilter()" id="only_opened">
+            </li>
+        </ul>
+    </div>
+    <table class="custom-table">
+        <thead>
+        <tr>
+            <th>№</th>
+            <th>Название сделки</th>
+            <th v-for="value in dealStages">{{value.STAGE_NAME}} ({{value.STAGE_ID}})</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr v-for="(deal,key) in dealsData">
+            <td>{{key + 1}}</td>
+            <td class="table-deal-name"><a v-bind:href="deal.HREF">{{deal.TITLE}}</a></td>
+            <td v-for="stage in deal.HISTORY" v-bind:class="{ currentStage: stage.IS_CURRENT_STAGE}"><!--{{stage.NAME}} - -->{{stage.PERIOD}}</td>
+
+        </tr>
+        <tr class='whole-statistics'><td>Всего:</td><td >{{dealsData.length}} сделок</td><td v-bind:colspan="dealStages.length"></td></tr>
+        </tbody>
+    </table>
+
+</section>
+    <script src="/local/components/itlogic/stage_counters_report/templates/.default/vueJsFunctions.js"></script>
+<?
+//echo '<pre>';
+//print_r($arResult);
+//echo '</pre>';

@@ -1,0 +1,336 @@
+Array
+(
+    [TITLE] => Необходимо связаться с клиентом по сделке № 322
+    [DEADLINE] => 06.09.2018 00:00:00
+    [RESPONSIBLE_ID] => 11
+    [CHANGED_BY] => 11
+    [CHANGED_DATE] => 04.09.2018 15:25:58
+    [OUTLOOK_VERSION] => 2
+    [SEARCH_INDEX] => 59 НЕОБХОДИМО СВЯЗАТЬСЯ С КЛИЕНТОМ ПО СДЕЛКЕ № 322 НЕ ЗАБЫТЬ ДО 06.09.2018 ВКЛЮЧИТЕЛЬНО <A HREF="/CRM/DEAL/DETAILS/322/">ПО 322</A> ADMIN IT:LOGIC 
+    [ID] => 59
+    [META:PREV_FIELDS] => Array
+        (
+            [ID] => 59
+            [TITLE] => Необходимо связаться с клиентом по сделке № 322
+            [DESCRIPTION] => Не забыть связаться с клиентом до 06.09.2018 включительно <a href="/crm/deal/details/322/">по сделке № 322</a>
+            [DESCRIPTION_IN_BBCODE] => N
+            [DECLINE_REASON] => 
+            [PRIORITY] => 2
+            [SEARCH_INDEX] => 59 НЕОБХОДИМО СВЯЗАТЬСЯ С КЛИЕНТОМ ПО СДЕЛКЕ № 322 НЕ ЗАБЫТЬ ДО 06.09.2018 ВКЛЮЧИТЕЛЬНО <A HREF="/CRM/DEAL/DETAILS/322/">ПО 322</A> ADMIN IT:LOGIC 
+            [STATUS] => 2
+            [STATUS_COMPLETE] => 1
+            [REAL_STATUS] => 2
+            [MULTITASK] => N
+            [STAGE_ID] => 0
+            [RESPONSIBLE_ID] => 11
+            [RESPONSIBLE_NAME] => Admin
+            [RESPONSIBLE_LAST_NAME] => It:logic
+            [RESPONSIBLE_SECOND_NAME] => 
+            [RESPONSIBLE_LOGIN] => admin
+            [RESPONSIBLE_WORK_POSITION] => 
+            [RESPONSIBLE_PHOTO] => 
+            [DATE_START] => 
+            [DURATION_FACT] => 
+            [TIME_ESTIMATE] => 0
+            [TIME_SPENT_IN_LOGS] => 
+            [REPLICATE] => N
+            [DEADLINE] => 06.09.2018 00:00:00
+            [DEADLINE_ORIG] => 2018-09-06 00:00:00
+            [START_DATE_PLAN] => 
+            [END_DATE_PLAN] => 
+            [CREATED_BY] => 11
+            [CREATED_BY_NAME] => Admin
+            [CREATED_BY_LAST_NAME] => It:logic
+            [CREATED_BY_SECOND_NAME] => 
+            [CREATED_BY_LOGIN] => admin
+            [CREATED_BY_WORK_POSITION] => 
+            [CREATED_BY_PHOTO] => 
+            [CREATED_DATE] => 04.09.2018 15:18:23
+            [CHANGED_BY] => 11
+            [CHANGED_DATE] => 04.09.2018 15:18:23
+            [STATUS_CHANGED_BY] => 11
+            [STATUS_CHANGED_DATE] => 04.09.2018 15:18:23
+            [CLOSED_BY] => 
+            [CLOSED_DATE] => 
+            [GUID] => {505a874b-86f1-4ed8-80a3-1219db12039d}
+            [XML_ID] => 
+            [MARK] => 
+            [ALLOW_CHANGE_DEADLINE] => N
+            [ALLOW_TIME_TRACKING] => N
+            [MATCH_WORK_TIME] => N
+            [TASK_CONTROL] => N
+            [ADD_IN_REPORT] => N
+            [GROUP_ID] => 0
+            [FORUM_TOPIC_ID] => 
+            [PARENT_ID] => 
+            [COMMENTS_COUNT] => 
+            [FORUM_ID] => 
+            [SITE_ID] => s1
+            [SUBORDINATE] => N
+            [EXCHANGE_MODIFIED] => 
+            [EXCHANGE_ID] => 
+            [OUTLOOK_VERSION] => 1
+            [VIEWED_DATE] => 04.09.2018 15:18:54
+            [DEADLINE_COUNTED] => 0
+            [FORKED_BY_TEMPLATE_ID] => 
+            [FAVORITE] => N
+            [SORTING] => 
+            [DURATION_PLAN_SECONDS] => 
+            [DURATION_TYPE_ALL] => days
+            [DURATION_PLAN] => 
+            [DURATION_TYPE] => days
+            [UF_CRM_TASK] => 
+            [UF_TASK_WEBDAV_FILES] => 
+            [AUDITORS] => Array
+                (
+                )
+
+            [ACCOMPLICES] => Array
+                (
+                )
+
+            [TAGS] => Array
+                (
+                )
+
+            [CHECKLIST] => Array
+                (
+                )
+
+            [FILES] => Array
+                (
+                )
+
+            [DEPENDS_ON] => Array
+                (
+                )
+
+        )
+
+)
+Array
+(
+    [STATUS] => 5
+    [CHANGED_BY] => 11
+    [CHANGED_DATE] => 04.09.2018 15:25:58
+    [OUTLOOK_VERSION] => 3
+    [STATUS_CHANGED_BY] => 11
+    [STATUS_CHANGED_DATE] => 04.09.2018 15:25:58
+    [CLOSED_BY] => 11
+    [CLOSED_DATE] => 04.09.2018 15:25:58
+    [SEARCH_INDEX] => 59 НЕОБХОДИМО СВЯЗАТЬСЯ С КЛИЕНТОМ ПО СДЕЛКЕ № 322 НЕ ЗАБЫТЬ ДО 06.09.2018 ВКЛЮЧИТЕЛЬНО <A HREF="/CRM/DEAL/DETAILS/322/">ПО 322</A> ADMIN IT:LOGIC 
+    [ID] => 59
+    [META:PREV_FIELDS] => Array
+        (
+            [ID] => 59
+            [TITLE] => Необходимо связаться с клиентом по сделке № 322
+            [DESCRIPTION] => Не забыть связаться с клиентом до 06.09.2018 включительно <a href="/crm/deal/details/322/">по сделке № 322</a>
+            [DESCRIPTION_IN_BBCODE] => N
+            [DECLINE_REASON] => 
+            [PRIORITY] => 2
+            [SEARCH_INDEX] => 59 НЕОБХОДИМО СВЯЗАТЬСЯ С КЛИЕНТОМ ПО СДЕЛКЕ № 322 НЕ ЗАБЫТЬ ДО 06.09.2018 ВКЛЮЧИТЕЛЬНО <A HREF="/CRM/DEAL/DETAILS/322/">ПО 322</A> ADMIN IT:LOGIC 
+            [STATUS] => 2
+            [STATUS_COMPLETE] => 1
+            [REAL_STATUS] => 2
+            [MULTITASK] => N
+            [STAGE_ID] => 0
+            [RESPONSIBLE_ID] => 11
+            [RESPONSIBLE_NAME] => Admin
+            [RESPONSIBLE_LAST_NAME] => It:logic
+            [RESPONSIBLE_SECOND_NAME] => 
+            [RESPONSIBLE_LOGIN] => admin
+            [RESPONSIBLE_WORK_POSITION] => 
+            [RESPONSIBLE_PHOTO] => 
+            [DATE_START] => 
+            [DURATION_FACT] => 
+            [TIME_ESTIMATE] => 0
+            [TIME_SPENT_IN_LOGS] => 
+            [REPLICATE] => N
+            [DEADLINE] => 06.09.2018 00:00:00
+            [DEADLINE_ORIG] => 2018-09-06 00:00:00
+            [START_DATE_PLAN] => 
+            [END_DATE_PLAN] => 
+            [CREATED_BY] => 11
+            [CREATED_BY_NAME] => Admin
+            [CREATED_BY_LAST_NAME] => It:logic
+            [CREATED_BY_SECOND_NAME] => 
+            [CREATED_BY_LOGIN] => admin
+            [CREATED_BY_WORK_POSITION] => 
+            [CREATED_BY_PHOTO] => 
+            [CREATED_DATE] => 04.09.2018 15:18:23
+            [CHANGED_BY] => 11
+            [CHANGED_DATE] => 04.09.2018 15:25:58
+            [STATUS_CHANGED_BY] => 11
+            [STATUS_CHANGED_DATE] => 04.09.2018 15:18:23
+            [CLOSED_BY] => 
+            [CLOSED_DATE] => 
+            [GUID] => {505a874b-86f1-4ed8-80a3-1219db12039d}
+            [XML_ID] => 
+            [MARK] => 
+            [ALLOW_CHANGE_DEADLINE] => N
+            [ALLOW_TIME_TRACKING] => N
+            [MATCH_WORK_TIME] => N
+            [TASK_CONTROL] => N
+            [ADD_IN_REPORT] => N
+            [GROUP_ID] => 0
+            [FORUM_TOPIC_ID] => 
+            [PARENT_ID] => 
+            [COMMENTS_COUNT] => 
+            [FORUM_ID] => 
+            [SITE_ID] => s1
+            [SUBORDINATE] => N
+            [EXCHANGE_MODIFIED] => 
+            [EXCHANGE_ID] => 
+            [OUTLOOK_VERSION] => 2
+            [VIEWED_DATE] => 04.09.2018 15:18:54
+            [DEADLINE_COUNTED] => 0
+            [FORKED_BY_TEMPLATE_ID] => 
+            [FAVORITE] => N
+            [SORTING] => 
+            [DURATION_PLAN_SECONDS] => 
+            [DURATION_TYPE_ALL] => days
+            [DURATION_PLAN] => 
+            [DURATION_TYPE] => days
+            [UF_CRM_TASK] => 
+            [UF_TASK_WEBDAV_FILES] => 
+            [AUDITORS] => Array
+                (
+                )
+
+            [ACCOMPLICES] => Array
+                (
+                )
+
+            [TAGS] => Array
+                (
+                )
+
+            [CHECKLIST] => Array
+                (
+                )
+
+            [FILES] => Array
+                (
+                )
+
+            [DEPENDS_ON] => Array
+                (
+                )
+
+        )
+
+)
+Array
+(
+    [CHANGED_BY] => 11
+    [CHANGED_DATE] => 04.09.2018 15:34:02
+    [OUTLOOK_VERSION] => 4
+    [SEARCH_INDEX] => 59 НЕОБХОДИМО СВЯЗАТЬСЯ С КЛИЕНТОМ ПО СДЕЛКЕ № 322 НЕ ЗАБЫТЬ ДО 06.09.2018 ВКЛЮЧИТЕЛЬНО <A HREF="/CRM/DEAL/DETAILS/322/">ПО 322</A> ADMIN IT:LOGIC 
+    [ID] => 59
+    [META:PREV_FIELDS] => Array
+        (
+            [ID] => 59
+            [TITLE] => Необходимо связаться с клиентом по сделке № 322
+            [DESCRIPTION] => Не забыть связаться с клиентом до 06.09.2018 включительно <a href="/crm/deal/details/322/">по сделке № 322</a>
+            [DESCRIPTION_IN_BBCODE] => N
+            [DECLINE_REASON] => 
+            [PRIORITY] => 2
+            [SEARCH_INDEX] => 59 НЕОБХОДИМО СВЯЗАТЬСЯ С КЛИЕНТОМ ПО СДЕЛКЕ № 322 НЕ ЗАБЫТЬ ДО 06.09.2018 ВКЛЮЧИТЕЛЬНО <A HREF="/CRM/DEAL/DETAILS/322/">ПО 322</A> ADMIN IT:LOGIC 
+            [STATUS] => 5
+            [STATUS_COMPLETE] => 2
+            [REAL_STATUS] => 5
+            [MULTITASK] => N
+            [STAGE_ID] => 0
+            [RESPONSIBLE_ID] => 11
+            [RESPONSIBLE_NAME] => Admin
+            [RESPONSIBLE_LAST_NAME] => It:logic
+            [RESPONSIBLE_SECOND_NAME] => 
+            [RESPONSIBLE_LOGIN] => admin
+            [RESPONSIBLE_WORK_POSITION] => 
+            [RESPONSIBLE_PHOTO] => 
+            [DATE_START] => 
+            [DURATION_FACT] => 
+            [TIME_ESTIMATE] => 0
+            [TIME_SPENT_IN_LOGS] => 
+            [REPLICATE] => N
+            [DEADLINE] => 06.09.2018 00:00:00
+            [DEADLINE_ORIG] => 2018-09-06 00:00:00
+            [START_DATE_PLAN] => 
+            [END_DATE_PLAN] => 
+            [CREATED_BY] => 11
+            [CREATED_BY_NAME] => Admin
+            [CREATED_BY_LAST_NAME] => It:logic
+            [CREATED_BY_SECOND_NAME] => 
+            [CREATED_BY_LOGIN] => admin
+            [CREATED_BY_WORK_POSITION] => 
+            [CREATED_BY_PHOTO] => 
+            [CREATED_DATE] => 04.09.2018 15:18:23
+            [CHANGED_BY] => 11
+            [CHANGED_DATE] => 04.09.2018 15:25:58
+            [STATUS_CHANGED_BY] => 11
+            [STATUS_CHANGED_DATE] => 04.09.2018 15:25:58
+            [CLOSED_BY] => 11
+            [CLOSED_DATE] => 04.09.2018 15:25:58
+            [GUID] => {505a874b-86f1-4ed8-80a3-1219db12039d}
+            [XML_ID] => 
+            [MARK] => 
+            [ALLOW_CHANGE_DEADLINE] => N
+            [ALLOW_TIME_TRACKING] => N
+            [MATCH_WORK_TIME] => N
+            [TASK_CONTROL] => N
+            [ADD_IN_REPORT] => N
+            [GROUP_ID] => 0
+            [FORUM_TOPIC_ID] => 
+            [PARENT_ID] => 
+            [COMMENTS_COUNT] => 
+            [FORUM_ID] => 
+            [SITE_ID] => s1
+            [SUBORDINATE] => N
+            [EXCHANGE_MODIFIED] => 
+            [EXCHANGE_ID] => 
+            [OUTLOOK_VERSION] => 3
+            [VIEWED_DATE] => 04.09.2018 15:27:54
+            [DEADLINE_COUNTED] => 0
+            [FORKED_BY_TEMPLATE_ID] => 
+            [FAVORITE] => N
+            [SORTING] => 
+            [DURATION_PLAN_SECONDS] => 
+            [DURATION_TYPE_ALL] => days
+            [DURATION_PLAN] => 
+            [DURATION_TYPE] => days
+            [UF_CRM_TASK] => 
+            [UF_TASK_WEBDAV_FILES] => 
+            [AUDITORS] => Array
+                (
+                )
+
+            [ACCOMPLICES] => Array
+                (
+                )
+
+            [TAGS] => Array
+                (
+                )
+
+            [CHECKLIST] => Array
+                (
+                )
+
+            [FILES] => Array
+                (
+                )
+
+            [DEPENDS_ON] => Array
+                (
+                )
+
+        )
+
+)
+/***/*/*/*/*/
+97 - 07.09.201897 - 07.09.2018
+97 - 07.09.2018
+97 - 07.09.2018
+/**/
+98 - 06.09.201899 - 05.09.2018
+

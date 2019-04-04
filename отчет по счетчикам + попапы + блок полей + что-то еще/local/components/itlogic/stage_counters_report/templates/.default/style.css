@@ -1,0 +1,56 @@
+.report-title{
+    text-align: center;
+    font-size: 1.5em;
+}
+
+.custom-stage-counters{
+    /*background-color: #0aa2ff;*/
+}
+
+.counter-filters ul{
+    list-style-type: none;
+    padding: 10px 0;
+}
+.counter-filters ul li{
+    display: inline-block;
+    margin: 0 10px;
+}
+.counter-filters input, .counter-filters select{
+    padding: 5px;
+    box-sizing: border-box;
+    height: 40px;
+    vertical-align: middle;
+}
+.counter-filters input[type="date"], .counter-filters select{
+    min-width: 200px;
+}
+.custom-table{
+    width: 100%;
+    border-collapse: collapse;
+    /*border: 1px solid red;*/
+}
+
+/*Выделение при наведении не срабатывает на самой последней строке "Всего"*/
+.custom-table tbody tr:not(:last-child):hover{
+    background-color: yellow;
+    color: #0e3f82;
+}
+
+.custom-table th, .custom-table td{
+    text-align: center;
+    vertical-align: middle;
+    border: 1px solid #000;
+    padding: 5px 10px;
+}
+.custom-table .table-deal-name{
+    text-align: left;
+    padding-left: 20px;
+}
+.currentStage{
+    background-color: #0e3f82;
+    color: #fff;
+}
+.whole-statistics{
+    background-color: #191970;
+    color: #fff;
+}
