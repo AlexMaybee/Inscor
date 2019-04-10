@@ -3,6 +3,9 @@
 
 class DealCategoryStageCounters{
 
+    //ID технических пользователей
+    public $techAccounts = [1,2,12];
+
     public function test(){
         $this->sentAnswer('DealCategoryStageCounters class test method!');
     }
@@ -54,6 +57,8 @@ class DealCategoryStageCounters{
           //  'CLOSED' => ['N','Y'],
         ];
 
+        //Если выбран пользователь в фильтре, учитываем его тоже
+        if($data['ASSIGNED_BY_ID']) $deals_filter['ASSIGNED_BY_ID'] = $data['ASSIGNED_BY_ID']; //ВОЗВРАЩАЕТ TRUE/FALSE в ВИДЕ СТРОКИ
         //Если выбрана галка "Учитывать закрытые сделки", добавляем в фильтр
         if($data['ONLY_OPENED_DEALS'] == 'true') $deals_filter['CLOSED'] = 'N'; //ВОЗВРАЩАЕТ TRUE/FALSE в ВИДЕ СТРОКИ
 
@@ -76,6 +81,27 @@ class DealCategoryStageCounters{
         $result['FILTER_DATA'] = $data;
         $this->sentAnswer($result);
     }
+
+    //список ответственных в селект
+    public function getAssignedForSelect(){
+        $result = [];
+        $cUser = new CUser;
+        $sort_by = "ID";
+        $sort_ord = "ASC";
+        $arFilter = [];
+        $dbUsers = $cUser->GetList($sort_by, $sort_ord, $arFilter);
+        $users = [
+            ['ID' => '', 'NAME' => 'Не выбрано'],
+        ];
+        while ($arUser = $dbUsers->Fetch())
+        {
+            //убираем ненужные тех аккаунты, свой оставляем
+            if(!in_array($arUser['ID'],$this->techAccounts)) $users[] = $arUser;
+        }
+        $result = $users;
+        $this->sentAnswer($result);
+    }
+
 
     //ответ в консоль
     private function sentAnswer($answ){

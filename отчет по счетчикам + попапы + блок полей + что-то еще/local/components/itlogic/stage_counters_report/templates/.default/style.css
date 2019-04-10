@@ -2,7 +2,9 @@
     text-align: center;
     font-size: 1.5em;
 }
-
+.date-span{
+    color: #0b66c3;
+}
 .custom-stage-counters{
     /*background-color: #0aa2ff;*/
 }
@@ -32,7 +34,7 @@
 
 /*Выделение при наведении не срабатывает на самой последней строке "Всего"*/
 .custom-table tbody tr:not(:last-child):hover{
-    background-color: yellow;
+    background-color: #fcf497;
     color: #0e3f82;
 }
 
@@ -47,10 +49,11 @@
     padding-left: 20px;
 }
 .currentStage{
-    background-color: #0e3f82;
+   /* background-color: #0e3f82;*/
+    background-color: #5ec743;
     color: #fff;
 }
 .whole-statistics{
-    background-color: #191970;
+    background-color: #0e3f82;
     color: #fff;
 }

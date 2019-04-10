@@ -14,3 +14,6 @@ if($_POST['ACTION'] === 'GIVE_ME_CATEGORIES_FOR_SELECT') $obj->getCategoriesForS
 
 //2. Запрос инфы по фильтрам (направеление, дата начала, дата конца)
 if($_POST['ACTION'] === 'GIVE_ME_STATISTICS_BY_CATEGORY_ID') $obj->getStatisticsByFilter($_POST);
+
+//3. запрос для селекта с ответственными
+if($_POST['ACTION'] === 'GIVE_ME_ASSIGNED_LIST_FOR_SELECT') $obj->getAssignedForSelect();

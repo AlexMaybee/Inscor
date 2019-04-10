@@ -3,10 +3,15 @@
 if(!defined("B_PROLOG_INCLUDED") || B_PROLOG_INCLUDED!==true)die();
 //Vue.js
 $APPLICATION->AddHeadScript('/local/components/itlogic/stage_counters_report/templates/.default/vue.js');
+//\Bitrix\Main\UI\Extension::load("ui.vue");
 ?>
     <section class="custom-stage-counters" id="filters">
 
-<h2 class="report-title">Отчет по счетчикам стадий сделок с {{dateFrom.split('-').reverse().join('.')}} по {{dateTo.split('-').reverse().join('.')}}</h2>
+        <h2 class="report-title">Отчет по счетчикам стадий сделок с
+            <span class="date-span">{{dateFrom.split('-').reverse().join('.')}} </span>
+            по
+            <span class="date-span">{{dateTo.split('-').reverse().join('.')}}</span>
+        </h2>
 
 
 
@@ -18,6 +23,14 @@ $APPLICATION->AddHeadScript('/local/components/itlogic/stage_counters_report/tem
                     <option v-for="category in categories" v-bind:value="category.ID">{{category.NAME}}</option>
                 </select>
             </li>
+
+            <li>
+                <label for="deal_category">Выберите ответственного:</label>
+                <select name='deal_category' v-model="assigned_byFilter" @change="getStatisticsByFilter()">
+                    <option v-for="assigned in assignedList" v-bind:value="assigned.ID">{{assigned.LAST_NAME}} {{assigned.NAME}}</option>
+                </select>
+            </li>
+
             <li>
                 <label for="date_from">Дата с:</label>
                 <input name="date_from" v-model="dateFrom" type="date" @change="getStatisticsByFilter()">
