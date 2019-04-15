@@ -3,8 +3,10 @@ var filters = new Vue({
     data: {
         categoryFilter: 'test 123',
         categories: '',
-        assigned_byFilter: '',
+        assigned_byFilter: 0,
         assignedList: '',
+        stagesList: '',
+        current_stage_idFilter: '',
         dateFrom: '',
         dateTo:'',
         dealStages: '',
@@ -27,7 +29,11 @@ var filters = new Vue({
                     self.categories = response;
                     self.categoryFilter = self.categories[0].ID; //присваиваем значение selected при загрузке, чтобы можно было сразу запустить загрузку таблицы
                     console.log(self.categories);
-                    console.log(self.categoryFilter);
+
+
+                    //Запрос всех стадий для селекта, т.к. уже присвоен ID категории в поле фильтра
+                    self.getStagesList(self.categoryFilter);
+
 
                     var date = new Date();
                     var month, day;
@@ -57,13 +63,14 @@ var filters = new Vue({
                     'DATE_START': this.dateFrom,
                     'DATE_FINISH': this.dateTo,
                     'ONLY_OPENED_DEALS': this.onlyOpenedDeals, //в php почему-то передает строку 'true' / 'false'
-                    'CATEGORY_ID':this.categoryFilter
+                    'CATEGORY_ID':this.categoryFilter,
+                    'STAGE_ID':this.current_stage_idFilter
                 },
                 dataType: "json",
                 onsuccess: function (response) {
 
                     console.log(response);
-                    console.log(self.categoryFilter,self.assigned_byFilter,self.onlyOpenedDeals,self.dateFrom,self.dateTo);
+                    console.log(self.categoryFilter,self.assigned_byFilter,self.onlyOpenedDeals,self.dateFrom,self.dateTo,self.current_stage_idFilter);
 
                     //вывод стадий в шапку <th>
                     if(response.stages != false) self.dealStages = response.stages;
@@ -83,7 +90,28 @@ var filters = new Vue({
                 onsuccess: function (response) {
                     console.log(response)
                     self.assignedList = response;
-                //    self.assigned_byFilter = self.assignedList[0].ID; //присваиваем значение selected при загрузке, чтобы можно было сразу запустить загрузку таблицы
+                    self.assigned_byFilter = self.assignedList[0].ID; //присваиваем значение selected при загрузке, чтобы можно было сразу запустить загрузку таблицы
+
+                }
+            });
+        },
+        getStagesList: function () {
+
+            console.log('тест2',this.categoryFilter);
+
+            let self = this;
+            BX.ajax({
+                method: "POST",
+                url: '/custom_reports/stage_counters/ajax/handler.php',
+                data: {
+                    'ACTION':'GIVE_ME_STAGES_LIST_FOR_SELECT',
+                    'CATEGORY_ID':this.categoryFilter
+                },
+                dataType: "json",
+                onsuccess: function (response) {
+                  //  console.log(response)
+                     self.stagesList = response;
+                     self.current_stage_idFilter = self.stagesList[0].ID; //присваиваем значение selected при загрузке, чтобы можно было сразу запустить загрузку таблицы
 
                 }
             });
@@ -93,6 +121,7 @@ var filters = new Vue({
     mounted: function () {
         this.getCategories();
         this.getAssignedList();
+        //this.getStagesList(this.categoryFilter); // здесь не срабатывает, т.к. еще не присвоено значение полю categoryFilter
 
     },
 });

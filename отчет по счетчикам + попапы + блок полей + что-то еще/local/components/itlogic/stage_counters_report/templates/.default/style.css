@@ -15,7 +15,7 @@
 }
 .counter-filters ul li{
     display: inline-block;
-    margin: 0 10px;
+    margin: 0 10px 10px;
 }
 .counter-filters input, .counter-filters select{
     padding: 5px;
@@ -29,6 +29,7 @@
 .custom-table{
     width: 100%;
     border-collapse: collapse;
+    overflow: auto;
     /*border: 1px solid red;*/
 }
 
@@ -53,6 +54,23 @@
     background-color: #5ec743;
     color: #fff;
 }
+.deal_overtime_10{
+    /* background-color: #0e3f82;*/
+    background-color: darkorange;
+    color: #fff;
+}
+.deal_overtime_30{
+    /* background-color: #0e3f82;*/
+    background-color: darkred;
+    color: #fff;
+}
+
+.zero-deals{
+    background-color: #c11b00;
+    color: #fff;
+    padding: 10px;
+}
+
 .whole-statistics{
     background-color: #0e3f82;
     color: #fff;

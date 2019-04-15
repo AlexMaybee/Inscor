@@ -27,7 +27,14 @@ $APPLICATION->AddHeadScript('/local/components/itlogic/stage_counters_report/tem
             <li>
                 <label for="deal_category">Выберите ответственного:</label>
                 <select name='deal_category' v-model="assigned_byFilter" @change="getStatisticsByFilter()">
-                    <option v-for="assigned in assignedList" v-bind:value="assigned.ID">{{assigned.LAST_NAME}} {{assigned.NAME}}</option>
+                    <option v-for="assigned in assignedList" v-bind:value="assigned.ID">{{assigned.NAME}}</option>
+                </select>
+            </li>
+
+            <li>
+                <label for="deal_category">Выберите текущую стадию:</label>
+                <select name='deal_category' v-model="current_stage_idFilter" @change="getStatisticsByFilter()">
+                    <option v-for="stage in stagesList" v-bind:value="stage.ID">{{stage.NAME}}</option>
                 </select>
             </li>
 
@@ -54,13 +61,25 @@ $APPLICATION->AddHeadScript('/local/components/itlogic/stage_counters_report/tem
         </tr>
         </thead>
         <tbody>
-        <tr v-for="(deal,key) in dealsData">
-            <td>{{key + 1}}</td>
-            <td class="table-deal-name"><a v-bind:href="deal.HREF">{{deal.TITLE}}</a></td>
-            <td v-for="stage in deal.HISTORY" v-bind:class="{ currentStage: stage.IS_CURRENT_STAGE}"><!--{{stage.NAME}} - -->{{stage.PERIOD}}</td>
 
+        {{dealsData.length}}
+        {{dealStages.length}}
+        <tr v-if="dealsData.length === 0">
+            <td v-bind:colspan="2 + dealStages.length" class="zero-deals">{{dealsData.length}} сделок по текущему фильтру!</td>
         </tr>
-        <tr class='whole-statistics'><td>Всего:</td><td >{{dealsData.length}} сделок</td><td v-bind:colspan="dealStages.length"></td></tr>
+        <template v-else>
+            <tr v-for="(deal,key) in dealsData" v-bind:title="deal.ASSIGNED_NAME">
+                <td>{{key + 1}}</td>
+                <td class="table-deal-name"><a v-bind:href="deal.HREF">{{deal.TITLE}}</a></td>
+                <td v-for="stage in deal.HISTORY"
+                    v-bind:class="{ currentStage: stage.IS_CURRENT_STAGE && !stage.OVER_TIME, deal_overtime_10: stage.OVER_TIME === 1,deal_overtime_30: stage.OVER_TIME === 2}">
+                    <!--{{stage.NAME}} - -->{{stage.PERIOD}}
+                </td>
+
+            </tr>
+            <tr class='whole-statistics'><td>Всего:</td><td >{{dealsData.length}} сделок</td><td v-bind:colspan="dealStages.length"></td></tr>
+        </template>
+
         </tbody>
     </table>
 
