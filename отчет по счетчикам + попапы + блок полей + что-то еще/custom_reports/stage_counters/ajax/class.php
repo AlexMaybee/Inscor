@@ -110,7 +110,9 @@ class DealCategoryStageCounters{
         $cUser = new CUser;
         $sort_by = "ID";
         $sort_ord = "ASC";
-        $arFilter = [];
+        $arFilter = [
+           // 'ACTIVE' => 'Y', //убрать уволенных
+        ];
         $dbUsers = $cUser->GetList($sort_by, $sort_ord, $arFilter);
         $users = [
             ['ID' => '0', 'NAME' => 'Не выбрано'],
@@ -214,7 +216,7 @@ class DealCategoryStageCounters{
             ];
 
             //счетчик в стадии, если она найдена
-            if ($value['STAGE_ID'] === $curDealStage) {
+            if ($value['STAGE_ID'] == $curDealStage) {
 
                 $datetime1 = new DateTime($dealDateCreate);
                 $datetime2 = new DateTime(date('d.m.Y H:i:s'));

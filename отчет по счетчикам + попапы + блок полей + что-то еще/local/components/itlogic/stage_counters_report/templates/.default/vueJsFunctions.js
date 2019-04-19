@@ -28,7 +28,7 @@ var filters = new Vue({
 
                     self.categories = response;
                     self.categoryFilter = self.categories[0].ID; //присваиваем значение selected при загрузке, чтобы можно было сразу запустить загрузку таблицы
-                    console.log(self.categories);
+                   // console.log(self.categories);
 
 
                     //Запрос всех стадий для селекта, т.к. уже присвоен ID категории в поле фильтра
@@ -69,8 +69,8 @@ var filters = new Vue({
                 dataType: "json",
                 onsuccess: function (response) {
 
-                    console.log(response);
-                    console.log(self.categoryFilter,self.assigned_byFilter,self.onlyOpenedDeals,self.dateFrom,self.dateTo,self.current_stage_idFilter);
+                   // console.log(response);
+                   // console.log(self.categoryFilter,self.assigned_byFilter,self.onlyOpenedDeals,self.dateFrom,self.dateTo,self.current_stage_idFilter);
 
                     //вывод стадий в шапку <th>
                     if(response.stages != false) self.dealStages = response.stages;
@@ -88,7 +88,7 @@ var filters = new Vue({
                 data: {'ACTION':'GIVE_ME_ASSIGNED_LIST_FOR_SELECT'},
                 dataType: "json",
                 onsuccess: function (response) {
-                    console.log(response)
+                //    console.log(response)
                     self.assignedList = response;
                     self.assigned_byFilter = self.assignedList[0].ID; //присваиваем значение selected при загрузке, чтобы можно было сразу запустить загрузку таблицы
 
@@ -97,7 +97,7 @@ var filters = new Vue({
         },
         getStagesList: function () {
 
-            console.log('тест2',this.categoryFilter);
+           // console.log('тест2',this.categoryFilter);
 
             let self = this;
             BX.ajax({

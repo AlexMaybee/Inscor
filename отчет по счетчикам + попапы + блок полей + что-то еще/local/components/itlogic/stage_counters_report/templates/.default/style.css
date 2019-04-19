@@ -25,10 +25,14 @@
 .counter-filters input[type="date"], .counter-filters select{
     min-width: 200px;
 }
+
+.table-wrapper-x-scroll{
+    overflow-x: auto;
+}
 .custom-table{
     width: 100%;
     border-collapse: collapse;
-    overflow: auto;
+    /*overflow: auto;*/
     /*border: 1px solid red;*/
 }
 

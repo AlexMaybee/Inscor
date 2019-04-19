@@ -190,8 +190,8 @@ foreach ($stages as $key => $value){
 
 //получение сделок
 $deals_filter = [
-    'ID' => 1727, //та, на которой не показывало выигрыш/проигрыш
-    //'ID' => 1904, //1882, создана на Актуализации и на ней висит
+    'ID' => 1906, //1727 та, на которой не показывало выигрыш/проигрыш
+   // 'ID' => 1882, //1882, создана на Актуализации и на ней висит
 ];
 $deals_select = array('ID','TITLE','STAGE_ID','DATE_CREATE','CLOSEDATE','CLOSED');
 $dealMassive = getDealDataByFilter($deals_filter,$deals_select);
@@ -368,179 +368,6 @@ function getDealHistoryByFilter($arFilter,$arSelect,$stagesMassive,$dealDateCrea
             $result = $count;
         }
 
-     //   $result = $counters;
-
-
-
-  /*  if($historyRes = $deal_history_list->GetNext()) {
-        $counters = []; //переменная, которая будет содержать дату прихода и ухода со стадии
-
-
-        foreach ($stagesMassive as $key => $value){
-
-            //В отчете нужно отображать ВСЕ СТАДИИ, даже если на них не находилась сделка
-            $counters[$value['STAGE_ID']]['PRIHOD'] = [];
-            $counters[$value['STAGE_ID']]['UHOD'] = [];
-
-            //подсчет уходов со стадий
-            if($historyRes['EVENT_TEXT_1'] === $value['STAGE_NAME']){
-                if(preg_match('/NEW/',$value['STAGE_ID'])){
-                    $counters[$value['STAGE_ID']]['PRIHOD'][] = $dealDateCreate;
-                    $counters[$value['STAGE_ID']]['UHOD'][] = $historyRes['DATE_CREATE'];
-                }
-                else $counters[$value['STAGE_ID']]['UHOD'][] = $historyRes['DATE_CREATE'];
-            }
-
-
-            //подсчет приходов
-            if($historyRes['EVENT_TEXT_2'] === $value['STAGE_NAME']){
-                $counters[$value['STAGE_ID']]['PRIHOD'][] = $historyRes['DATE_CREATE'];
-            }
-
-        }
-
-        //подсчет уже дней
-        foreach ($counters as $stageID => $massve){
-            if((count($massve['PRIHOD']) === count($massve['UHOD'])) ) {
-
-                //Считатаем кол-во дней нахждения на стадии
-                for($i = 0; $i <= count($massve['PRIHOD']); $i++ ){
-
-                    $datetime1 = new DateTime($massve['PRIHOD'][$i]);
-                    $datetime2 = new DateTime($massve['UHOD'][$i]);
-                    $interval = $datetime2->diff($datetime1);
-                    $years = $interval->format('%y');
-                    $months = $interval->format('%m');
-                    $days = $interval->format('%d');
-                    $hours = $interval->format('%h');
-                    $mins = $interval->format('%i');
-                    $secs = $interval->format('%s');
-
-                    $counters[$stageID]['COUNTER']['PER_YEARS'] += $years;
-                    $counters[$stageID]['COUNTER']['PER_MONTHS'] += $months;
-                    $counters[$stageID]['COUNTER']['PER_DAYS'] += $days;
-                    $counters[$stageID]['COUNTER']['PER_HOURS'] += $hours;
-                    $counters[$stageID]['COUNTER']['PER_MINS'] += $mins;
-                    $counters[$stageID]['COUNTER']['PER_SECS'] += $secs;
-
-                    $counters[$stageID]['CURRENT_STAGE'] = 0;
-                }
-            }
-            if(count($massve['PRIHOD']) >count($massve['UHOD']) ) {
-                //  echo '<br> Сейчас на стадии: '.$stage;
-                $counters[$stageID]['CURRENT_STAGE'] = 1;
-                //Считаем сколько уже дней находится на текущей стадии
-                $last_prihod = array_pop($massve['PRIHOD']);
-                $datetime1 = new DateTime($last_prihod);
-                $datetime2 = new DateTime(date('d.m.Y H:i:s'));
-                $interval = $datetime1->diff($datetime2);
-
-                $years = $interval->format('%y');
-                $months = $interval->format('%m');
-                $days = $interval->format('%d');
-                $hours = $interval->format('%h');
-                $minutes = $interval->format('%i');
-                $seconds = $interval->format('%s');
-
-                //здесь составляется
-                $counters[$stageID]['DAYS_ON_CUR_STAGE'] = '';
-                if($years != 0)  $counters[$stageID]['DAYS_ON_CUR_STAGE'] .= $years.' лет ';
-                if($months != 0)  $counters[$stageID]['DAYS_ON_CUR_STAGE'] .= $months.' мес ';
-                if($days != 0) $counters[$stageID]['DAYS_ON_CUR_STAGE'] .= $days.' дн ';
-                if($hours != 0) $counters[$stageID]['DAYS_ON_CUR_STAGE'] .= $hours.' ч ';
-                if($minutes != 0) $counters[$stageID]['DAYS_ON_CUR_STAGE'] .= $minutes.' мин ';
-                if($hours == 0 && $minutes == 0) $counters[$stageID]['DAYS_ON_CUR_STAGE'] .= $seconds.' сек ';
-                //  else $counters[$stageID]['DAYS_ON_CUR_STAGE'] .= $hours.' ч '.$minutes.' мин';
-
-            }
-
-        }
-
-        foreach ($counters as $stage => $field){
-
-            //вывод текущей стадии
-            if(isset($field['DAYS_ON_CUR_STAGE'])) {
-
-                $anwer[] = array(
-                    'NAME' => $stage,
-                    'PERIOD' => $field['DAYS_ON_CUR_STAGE'],
-                    'IS_CURRENT_STAGE' => 1,
-                );
-            }
-            //вывод прошедших стадий
-            if($field['COUNTER']){
-                $date = '';
-                if($field['COUNTER']['PER_YEARS'] > 0) $date .= $field['COUNTER']['PER_YEARS'].' лет ';
-                if($field['COUNTER']['PER_MONTHS'] > 0) $date .= $field['COUNTER']['PER_MONTHS'].' мес ';
-                if($field['COUNTER']['PER_DAYS'] > 0) $date .= $field['COUNTER']['PER_DAYS'].' дн ';
-
-                if($field['COUNTER']['PER_HOURS'] > 0) $date .= $field['COUNTER']['PER_HOURS'].' ч ';
-                if($field['COUNTER']['PER_MINS'] > 0) $date .= $field['COUNTER']['PER_MINS'].' мин ';
-
-                if($field['COUNTER']['PER_HOURS'] == 0 && $field['COUNTER']['PER_MINS'] == 0 && $field['COUNTER']['PER_SECS'] > 0)
-                    $date .= $field['COUNTER']['PER_SECS'].' сек';
-
-                if(empty($date)) $date = ' - ';
-
-                $anwer[] = [
-                    'NAME' => $stage,
-                    'PERIOD' => $date,
-                    'IS_CURRENT_STAGE' => 0,
-                ];
-            }
-
-        }
-
-        //  $this->logging([$counters,$anwer]);
-
-        //$result[] = $historyRes;
-        //  $result = ['answ' => $anwer, 'counters' => $counters];
-        $result = $anwer;
-    }
-    //Это если нет истории смены стадий в сделке, считаем сколько уже находится на выбранной стадии при создании сделки
-    else{
-        foreach ($stagesMassive as $key => $value){
-            if($value['STAGE_ID'] === $curDealStage){
-
-                $datetime1 = new DateTime($dealDateCreate);
-                $datetime2 = new DateTime(date('d.m.Y H:i:s'));
-                $interval = $datetime1->diff($datetime2);
-
-                $years = $interval->format('%y');
-                $months = $interval->format('%m');
-                $days = $interval->format('%d');
-                $hours = $interval->format('%h');
-                $minutes = $interval->format('%i');
-                $seconds = $interval->format('%s');
-
-
-
-                //здесь составляется
-                $period = '';
-                if($years > 0)  $period .= $years.' лет ';
-                if($months > 0)  $period .= $months.' мес ';
-                if($days > 0) $period .= $days.' дн ';
-                if($hours > 0) $period .= $hours.' ч ';
-                if($minutes > 0) $period .= $minutes.' мин ';
-                if($hours == 0 && $minutes == 0) $period .= $seconds.' сек ';
-
-                // $period .= $hours.' ч '.$hours.' мин';
-
-                $anwer[] = [
-                    'NAME' => $value['STAGE_ID'],
-                    'PERIOD' => $period,
-                    'IS_CURRENT_STAGE' => 1,
-                ];
-            }
-            else
-                $anwer[] = [
-                    'NAME' => $value['STAGE_ID'],
-                    'PERIOD' => ' x ',
-                    'IS_CURRENT_STAGE' => 0,
-                ];
-        }
-        $result = $anwer;
-    }*/
 
     return $result;
 }
@@ -566,8 +393,9 @@ function getCurrentStageAndTimeOnIt($stages,$dealDateCreate,$curDealStage){
     foreach ($stages as $key => $value) {
 
         //вывод всех стадий
-        $counters[$value['STAGE_ID']] = [
+        $counters[$key] = [
             'NAME' => $value['STAGE_NAME'],
+            'STAGE_ID' => $value['STAGE_ID'],
             'PERIOD' => ' x ',
             'IS_CURRENT_STAGE' => 0,
         ];
@@ -595,8 +423,8 @@ function getCurrentStageAndTimeOnIt($stages,$dealDateCreate,$curDealStage){
             if ($minutes > 0) $period .= $minutes . ' мин ';
             if ($hours == 0 && $minutes == 0) $period .= $seconds . ' сек ';
 
-            $counters[$value['STAGE_ID']]['PERIOD'] = $period;
-            $counters[$value['STAGE_ID']]['IS_CURRENT_STAGE'] = 1;
+            $counters[$key]['PERIOD'] = $period;
+            $counters[$key]['IS_CURRENT_STAGE'] = 1;
 
 
         }
@@ -613,8 +441,9 @@ function calculateEachStageTimeOn($historyMassive,$stages,$curDealStage){
 
     $counters = [];
     foreach ($stages as $key => $value) {
-        $counters[$value['STAGE_ID']] = [
+        $counters[$key] = [
             'NAME' => $value['STAGE_NAME'],
+            'STAGE_ID' => $value['STAGE_ID'],
             'PERIOD' => ' - ',
             'IS_CURRENT_STAGE' => 0,
             'UHOD' => [],
@@ -625,12 +454,12 @@ function calculateEachStageTimeOn($historyMassive,$stages,$curDealStage){
 
             //уход со стадии $historyField['EVENT_TEXT_1']
             if($value['STAGE_NAME'] == $historyField['EVENT_TEXT_1']){
-                $counters[$value['STAGE_ID']]['UHOD'][] = $historyField['DATE_CREATE'];
+                $counters[$key]['UHOD'][] = $historyField['DATE_CREATE'];
             }
 
             //приход на стадию
             if($value['STAGE_NAME'] == $historyField['EVENT_TEXT_2']){
-                $counters[$value['STAGE_ID']]['PRIHOD'][] = $historyField['DATE_CREATE'];
+                $counters[$key]['PRIHOD'][] = $historyField['DATE_CREATE'];
             }
         }
 
@@ -678,6 +507,35 @@ function calculateEachStageTime($counters,$dealDateCreate,$curDealStage){
 
                // $counters[$stageID]['CURRENT_STAGE'] = 0;
             }
+
+            //приводим числа в надлежащий вид (чтобы не было типа "6 дн 20 ч 103 мин 58 сек")
+            if($counters[$stageID]['COUNTER']['PER_SECS'] >= 60){
+                $counters[$stageID]['COUNTER']['PER_MINS'] += round(($counters[$stageID]['COUNTER']['PER_SECS'] / 60),0);
+                $counters[$stageID]['COUNTER']['PER_SECS'] = $counters[$stageID]['COUNTER']['PER_SECS'] % 60;
+            }
+            if($counters[$stageID]['COUNTER']['PER_MINS'] >= 60){
+                $counters[$stageID]['COUNTER']['PER_HOURS'] += round(($counters[$stageID]['COUNTER']['PER_MINS'] / 60),0);
+                $counters[$stageID]['COUNTER']['PER_MINS'] = $counters[$stageID]['COUNTER']['PER_MINS'] % 60;
+            }
+            if($counters[$stageID]['COUNTER']['PER_HOURS'] >= 60) {
+                $counters[$stageID]['COUNTER']['PER_DAYS'] += round(($counters[$stageID]['COUNTER']['PER_HOURS'] / 60), 0);
+                $counters[$stageID]['COUNTER']['PER_HOURS'] = $counters[$stageID]['COUNTER']['PER_HOURS'] % 60;
+            }
+
+
+            //здесь составляется
+            $counters[$stageID]['PERIOD'] = '';
+            if($counters[$stageID]['COUNTER']['PER_YEARS'] != 0)  $counters[$stageID]['PERIOD'] .= $counters[$stageID]['COUNTER']['PER_YEARS'].' лет ';
+            if($counters[$stageID]['COUNTER']['PER_MONTHS'] != 0)  $counters[$stageID]['PERIOD'] .= $counters[$stageID]['COUNTER']['PER_MONTHS'].' мес ';
+            if($counters[$stageID]['COUNTER']['PER_DAYS'] != 0) $counters[$stageID]['PERIOD'] .= $counters[$stageID]['COUNTER']['PER_DAYS'].' дн ';
+            if($counters[$stageID]['COUNTER']['PER_HOURS'] != 0) $counters[$stageID]['PERIOD'] .= $counters[$stageID]['COUNTER']['PER_HOURS'].' ч ';
+            if($counters[$stageID]['COUNTER']['PER_MINS'] != 0) $counters[$stageID]['PERIOD'] .= $counters[$stageID]['COUNTER']['PER_MINS'].' мин '
+                .$counters[$stageID]['COUNTER']['PER_SECS'].' сек ';
+            if(
+                $counters[$stageID]['COUNTER']['PER_HOURS'] == 0 && $counters[$stageID]['COUNTER']['PER_MINS'] == 0
+            )
+                $counters[$stageID]['PERIOD'] .= $counters[$stageID]['COUNTER']['PER_SECS'].' сек ';
+            //  else $counters[$stageID]['PERIOD'] .= $hours.' ч '.$minutes.' мин';
         }
 
 
@@ -687,11 +545,13 @@ function calculateEachStageTime($counters,$dealDateCreate,$curDealStage){
 
             for($i = 0; $i <= count($massve['UHOD']); $i++ ) {
 
+            //    $counters[$stageID]['TEST'] .= $massve['UHOD'][$i].'; ';
+
                 if ($i == 0) {
-                    $datetime1 = new DateTime(array_shift($massve['UHOD']));
+                    $datetime1 = new DateTime($massve['UHOD'][$i]);
                     $datetime2 = new DateTime($dealDateCreate);
                 } else {
-                    $datetime1 = new DateTime($massve['PRIHOD'][$i]);
+                    $datetime1 = new DateTime($massve['PRIHOD'][$i-1]);
                     $datetime2 = new DateTime($massve['UHOD'][$i]);
                 }
 
@@ -704,6 +564,8 @@ function calculateEachStageTime($counters,$dealDateCreate,$curDealStage){
                 $mins = $interval->format('%i');
                 $secs = $interval->format('%s');
 
+
+
                 //здесь составляется
                 $counters[$stageID]['COUNTER']['PER_YEARS'] += $years;
                 $counters[$stageID]['COUNTER']['PER_MONTHS'] += $months;
@@ -713,19 +575,35 @@ function calculateEachStageTime($counters,$dealDateCreate,$curDealStage){
                 $counters[$stageID]['COUNTER']['PER_SECS'] += $secs;
 
             }
+
+            //приводим числа в надлежащий вид (чтобы не было типа "6 дн 20 ч 103 мин 58 сек")
+            if($counters[$stageID]['COUNTER']['PER_SECS'] >= 60){
+                $counters[$stageID]['COUNTER']['PER_MINS'] += round(($counters[$stageID]['COUNTER']['PER_SECS'] / 60),0);
+                $counters[$stageID]['COUNTER']['PER_SECS'] = $counters[$stageID]['COUNTER']['PER_SECS'] % 60;
+            }
+            if($counters[$stageID]['COUNTER']['PER_MINS'] >= 60){
+                $counters[$stageID]['COUNTER']['PER_HOURS'] += round(($counters[$stageID]['COUNTER']['PER_MINS'] / 60),0);
+                $counters[$stageID]['COUNTER']['PER_MINS'] = $counters[$stageID]['COUNTER']['PER_MINS'] % 60;
+            }
+            if($counters[$stageID]['COUNTER']['PER_HOURS'] >= 60) {
+                $counters[$stageID]['COUNTER']['PER_DAYS'] += round(($counters[$stageID]['COUNTER']['PER_HOURS'] / 60), 0);
+                $counters[$stageID]['COUNTER']['PER_HOURS'] = $counters[$stageID]['COUNTER']['PER_HOURS'] % 60;
+            }
+
+
             //здесь составляется
-            $counters[$stageID]['DAYS_ON_CUR_STAGE'] = '';
-            if($counters[$stageID]['COUNTER']['PER_YEARS'] != 0)  $counters[$stageID]['DAYS_ON_CUR_STAGE'] .= $counters[$stageID]['COUNTER']['PER_YEARS'].' лет ';
-            if($counters[$stageID]['COUNTER']['PER_MONTHS'] != 0)  $counters[$stageID]['DAYS_ON_CUR_STAGE'] .= $counters[$stageID]['COUNTER']['PER_MONTHS'].' мес ';
-            if($counters[$stageID]['COUNTER']['PER_DAYS'] != 0) $counters[$stageID]['DAYS_ON_CUR_STAGE'] .= $counters[$stageID]['COUNTER']['PER_DAYS'].' дн ';
-            if($counters[$stageID]['COUNTER']['PER_HOURS'] != 0) $counters[$stageID]['DAYS_ON_CUR_STAGE'] .= $counters[$stageID]['COUNTER']['PER_HOURS'].' ч ';
-            if($counters[$stageID]['COUNTER']['PER_MINS'] != 0) $counters[$stageID]['DAYS_ON_CUR_STAGE'] .= $counters[$stageID]['COUNTER']['PER_MINS'].' мин '
+            $counters[$stageID]['PERIOD'] = '';
+            if($counters[$stageID]['COUNTER']['PER_YEARS'] != 0)  $counters[$stageID]['PERIOD'] .= $counters[$stageID]['COUNTER']['PER_YEARS'].' лет ';
+            if($counters[$stageID]['COUNTER']['PER_MONTHS'] != 0)  $counters[$stageID]['PERIOD'] .= $counters[$stageID]['COUNTER']['PER_MONTHS'].' мес ';
+            if($counters[$stageID]['COUNTER']['PER_DAYS'] != 0) $counters[$stageID]['PERIOD'] .= $counters[$stageID]['COUNTER']['PER_DAYS'].' дн ';
+            if($counters[$stageID]['COUNTER']['PER_HOURS'] != 0) $counters[$stageID]['PERIOD'] .= $counters[$stageID]['COUNTER']['PER_HOURS'].' ч ';
+            if($counters[$stageID]['COUNTER']['PER_MINS'] != 0) $counters[$stageID]['PERIOD'] .= $counters[$stageID]['COUNTER']['PER_MINS'].' мин '
                 .$counters[$stageID]['COUNTER']['PER_SECS'].' сек ';
             if(
                 $counters[$stageID]['COUNTER']['PER_HOURS'] == 0 && $counters[$stageID]['COUNTER']['PER_MINS'] == 0
             )
-                $counters[$stageID]['DAYS_ON_CUR_STAGE'] .= $counters[$stageID]['COUNTER']['PER_SECS'].' сек ';
-            //  else $counters[$stageID]['DAYS_ON_CUR_STAGE'] .= $hours.' ч '.$minutes.' мин';
+                $counters[$stageID]['PERIOD'] .= $counters[$stageID]['COUNTER']['PER_SECS'].' сек ';
+            //  else $counters[$stageID]['PERIOD'] .= $hours.' ч '.$minutes.' мин';
 
 
 
@@ -736,14 +614,15 @@ function calculateEachStageTime($counters,$dealDateCreate,$curDealStage){
         if(count($massve['PRIHOD']) > count($massve['UHOD']) ) {
             //  echo '<br> Сейчас на стадии: '.$stage;
 
-            //Считаем сколько уже дней находится на текущей стадии (с учетом переходов туда-сюда)
-            for($i = 0; $i <= count($massve['PRIHOD']); $i++ ){
+            $num = count($massve['PRIHOD']);
 
-                if($i == 0){
-                    $datetime1 = new DateTime(array_pop($massve['PRIHOD']));
+            //Считаем сколько уже дней находится на текущей стадии (с учетом переходов туда-сюда)
+            for($i = 0; $i <= $num; $i++ ) {
+
+                if ($i == $num) {
+                    $datetime1 = new DateTime($massve['PRIHOD'][$i]);
                     $datetime2 = new DateTime(date('d.m.Y H:i:s'));
-                }
-                else{
+                } else {
                     $datetime1 = new DateTime($massve['PRIHOD'][$i]);
                     $datetime2 = new DateTime($massve['UHOD'][$i]);
                 }
@@ -759,6 +638,16 @@ function calculateEachStageTime($counters,$dealDateCreate,$curDealStage){
                 $secs = $interval->format('%s');
 
                 //здесь составляется
+
+//                $counters[$stageID]['COUNTER'][] = [
+//                    'PER_YEARS' => $years,
+//                    'PER_MONTHS' => $months,
+//                    'PER_DAYS' => $days,
+//                    'PER_HOURS' => $hours,
+//                    'PER_MINS' => $mins,
+//                    'PER_SECS' => $secs,
+//                ];
+//            }
                 $counters[$stageID]['COUNTER']['PER_YEARS'] += $years;
                 $counters[$stageID]['COUNTER']['PER_MONTHS'] += $months;
                 $counters[$stageID]['COUNTER']['PER_DAYS'] += $days;
@@ -767,18 +656,32 @@ function calculateEachStageTime($counters,$dealDateCreate,$curDealStage){
                 $counters[$stageID]['COUNTER']['PER_SECS'] += $secs;
             }
 
-            //здесь составляется
-            $counters[$stageID]['DAYS_ON_CUR_STAGE'] = '';
-            if($counters[$stageID]['COUNTER']['PER_YEARS'] != 0)  $counters[$stageID]['DAYS_ON_CUR_STAGE'] .= $counters[$stageID]['COUNTER']['PER_YEARS'].' лет ';
-            if($counters[$stageID]['COUNTER']['PER_MONTHS'] != 0)  $counters[$stageID]['DAYS_ON_CUR_STAGE'] .= $counters[$stageID]['COUNTER']['PER_MONTHS'].' мес ';
-            if($counters[$stageID]['COUNTER']['PER_DAYS'] != 0) $counters[$stageID]['DAYS_ON_CUR_STAGE'] .= $counters[$stageID]['COUNTER']['PER_DAYS'].' дн ';
-            if($counters[$stageID]['COUNTER']['PER_HOURS'] != 0) $counters[$stageID]['DAYS_ON_CUR_STAGE'] .= $counters[$stageID]['COUNTER']['PER_HOURS'].' ч ';
-            if($counters[$stageID]['COUNTER']['PER_MINS'] != 0) $counters[$stageID]['DAYS_ON_CUR_STAGE'] .= $counters[$stageID]['COUNTER']['PER_MINS'].' мин ';
+            //приводим числа в надлежащий вид (чтобы не было типа "6 дн 20 ч 103 мин 58 сек")
+            if($counters[$stageID]['COUNTER']['PER_SECS'] >= 60){
+                $counters[$stageID]['COUNTER']['PER_MINS'] += round(($counters[$stageID]['COUNTER']['PER_SECS'] / 60),0);
+                $counters[$stageID]['COUNTER']['PER_SECS'] = $counters[$stageID]['COUNTER']['PER_SECS'] % 60;
+            }
+            if($counters[$stageID]['COUNTER']['PER_MINS'] >= 60){
+                $counters[$stageID]['COUNTER']['PER_HOURS'] += round(($counters[$stageID]['COUNTER']['PER_MINS'] / 60),0);
+                $counters[$stageID]['COUNTER']['PER_MINS'] = $counters[$stageID]['COUNTER']['PER_MINS'] % 60;
+            }
+            if($counters[$stageID]['COUNTER']['PER_HOURS'] >= 60) {
+                $counters[$stageID]['COUNTER']['PER_DAYS'] += round(($counters[$stageID]['COUNTER']['PER_HOURS'] / 60), 0);
+                $counters[$stageID]['COUNTER']['PER_HOURS'] = $counters[$stageID]['COUNTER']['PER_HOURS'] % 60;
+            }
+
+                //здесь составляется
+            $counters[$stageID]['PERIOD'] = '';
+            if($counters[$stageID]['COUNTER']['PER_YEARS'] != 0)  $counters[$stageID]['PERIOD'] .= $counters[$stageID]['COUNTER']['PER_YEARS'].' лет ';
+            if($counters[$stageID]['COUNTER']['PER_MONTHS'] != 0)  $counters[$stageID]['PERIOD'] .= $counters[$stageID]['COUNTER']['PER_MONTHS'].' мес ';
+            if($counters[$stageID]['COUNTER']['PER_DAYS'] != 0) $counters[$stageID]['PERIOD'] .= $counters[$stageID]['COUNTER']['PER_DAYS'].' дн ';
+            if($counters[$stageID]['COUNTER']['PER_HOURS'] != 0) $counters[$stageID]['PERIOD'] .= $counters[$stageID]['COUNTER']['PER_HOURS'].' ч ';
+            if($counters[$stageID]['COUNTER']['PER_MINS'] != 0) $counters[$stageID]['PERIOD'] .= $counters[$stageID]['COUNTER']['PER_MINS'].' мин ';
             if(
                 $counters[$stageID]['COUNTER']['PER_HOURS'] == 0 && $counters[$stageID]['COUNTER']['PER_MINS'] == 0
             )
-                $counters[$stageID]['DAYS_ON_CUR_STAGE'] .= $counters[$stageID]['COUNTER']['PER_SECS'].' сек ';
-            //  else $counters[$stageID]['DAYS_ON_CUR_STAGE'] .= $hours.' ч '.$minutes.' мин';
+                $counters[$stageID]['PERIOD'] .= $counters[$stageID]['COUNTER']['PER_SECS'].' сек ';
+            //  else $counters[$stageID]['PERIOD'] .= $hours.' ч '.$minutes.' мин';
 
             $counters[$stageID]['IS_CURRENT_STAGE'] = 1;
         }
