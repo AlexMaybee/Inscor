@@ -9,14 +9,13 @@
     /*background-color: #0aa2ff;*/
 }
 
-.counter-filters ul{
-    list-style-type: none;
-    padding: 10px 0;
+.counter-filters table{
+    margin-bottom: 20px;
 }
-.counter-filters ul li{
-    display: inline-block;
-    margin: 0 10px 10px;
+.counter-filters table td{
+    padding: 5px;
 }
+
 .counter-filters input, .counter-filters select{
     padding: 5px;
     box-sizing: border-box;
