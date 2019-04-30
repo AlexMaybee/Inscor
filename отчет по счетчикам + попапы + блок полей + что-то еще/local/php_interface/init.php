@@ -670,9 +670,7 @@ function checkTaskIfCompleted($ID, &$arFields, &$arTaskCopy)
 
 $arJsConfig = array(
     'fillDealsCounters' => array(
-        'js' => '/bitrix/js/itlogic/counters.js',
-        // 'css' => '/bitrix/js/custom/main.css',
-        // 'rel' => array(),
+        'js' => '/local/lib/js/itlogic/counters.js', //<ba0e993a-3c26-4efb-bed0-03f95aaca5cf>\home\bitrix\www\local\lib\itlogic\counters.js
     )
 );
 
