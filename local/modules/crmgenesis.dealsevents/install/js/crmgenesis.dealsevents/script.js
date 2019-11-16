@@ -1,5 +1,7 @@
 BX.ready(function() {
-    let obj = new CustomDealsEvents();
+   // let obj = new CustomDealsEvents();
+
+    console.log('HELLO!!!! MAN!!!!');
 });
 
 class CustomDealsEvents {
