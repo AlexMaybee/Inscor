@@ -35,37 +35,50 @@ class crmgenesis_dealsevents extends CModule{
     }
 
     public function InstallEvents(){
-        EventManager::getInstance()->registerEventHandler('main','OnBeforeProlog',$this->MODULE_ID,'\Crmgenesis\Dealsevents\Customevent','addCustomScripts');
+//        EventManager::getInstance()->registerEventHandler('main','OnBeforeProlog',$this->MODULE_ID,'\Crmgenesis\Dealsevents\Customevent','addCustomScripts');
 
         //перед созданием лида
-//        EventManager::getInstance()->registerEventHandler('crm','OnBeforeCrmLeadAdd',$this->MODULE_ID,'\Crmgenesis\Dealsevents\Customevent','reqFieldsBeforCreateLead');
+        EventManager::getInstance()->registerEventHandler('crm','OnBeforeCrmLeadAdd',$this->MODULE_ID,'\Crmgenesis\Dealsevents\Customevent','reqFieldsBeforCreateLead');
         //перед созданием сделки
         EventManager::getInstance()->registerEventHandler('crm','OnBeforeCrmDealAdd',$this->MODULE_ID,'\Crmgenesis\Dealsevents\Customevent','reqFieldsBeforCreateDeal');
 
+        //после создания сделки - изменение названия по шаблону для Физ.
+        EventManager::getInstance()->registerEventHandler('crm','OnAfterCrmDealAdd',$this->MODULE_ID,'\Crmgenesis\Dealsevents\Customevent','changeDealTitleByPatternAfter');
+
         //перед обновлением сделки - ДОПИСАТЬ!!!
         EventManager::getInstance()->registerEventHandler('crm','OnBeforeCrmDealUpdate',$this->MODULE_ID,'\Crmgenesis\Dealsevents\Customevent','checkFieldsBeforeDealUpdate');
+
+        //после обновления сделки - для отлавливания переходов по стадиям и полей
+        EventManager::getInstance()->registerEventHandler('crm','OnAfterCrmDealUpdate',$this->MODULE_ID,'\Crmgenesis\Dealsevents\Customevent','checkFieldsAfterDealUpdate');
 
 
         return true;
     }
 
     public function UnInstallEvents(){
-        EventManager::getInstance()->unRegisterEventHandler('main','OnBeforeProlog',$this->MODULE_ID,'\Crmgenesis\Dealsevents\customevent','addCustomScripts');
+//        EventManager::getInstance()->unRegisterEventHandler('main','OnBeforeProlog',$this->MODULE_ID,'\Crmgenesis\Dealsevents\customevent','addCustomScripts');
 
         //перед созданием лида
-//        EventManager::getInstance()->unRegisterEventHandler('crm','OnBeforeCrmLeadAdd',$this->MODULE_ID,'\Crmgenesis\Dealsevents\Customevent','reqFieldsBeforCreateLead');
+        EventManager::getInstance()->unRegisterEventHandler('crm','OnBeforeCrmLeadAdd',$this->MODULE_ID,'\Crmgenesis\Dealsevents\Customevent','reqFieldsBeforCreateLead');
+
         //перед созданием сделки
         EventManager::getInstance()->unRegisterEventHandler('crm','OnBeforeCrmDealAdd',$this->MODULE_ID,'\Crmgenesis\Dealsevents\Customevent','reqFieldsBeforCreateDeal');
 
+        //после создания сделки - изменение названия по шаблону для Физ.
+        EventManager::getInstance()->unRegisterEventHandler('crm','OnAfterCrmDealAdd',$this->MODULE_ID,'\Crmgenesis\Dealsevents\Customevent','changeDealTitleByPatternAfter');
+
         //перед обновлением сделки
         EventManager::getInstance()->unRegisterEventHandler('crm','OnBeforeCrmDealUpdate',$this->MODULE_ID,'\Crmgenesis\Dealsevents\Customevent','checkFieldsBeforeDealUpdate');
+
+        //после обновления сделки - для отлавливания переходов по стадиям и полей
+        EventManager::getInstance()->unRegisterEventHandler('crm','OnAfterCrmDealUpdate',$this->MODULE_ID,'\Crmgenesis\Dealsevents\Customevent','checkFieldsAfterDealUpdate');
 
         return true;
     }
 
     public function InstallFiles($arParams = [])
     {
-        CopyDirFiles(Main::GetPatch()."/install/js/", $_SERVER["DOCUMENT_ROOT"]."/bitrix/js/", true, true);
+//        CopyDirFiles(Main::GetPatch()."/install/js/", $_SERVER["DOCUMENT_ROOT"]."/bitrix/js/", true, true);
 //        CopyDirFiles(Main::GetPatch()."/install/css/", $_SERVER["DOCUMENT_ROOT"]."/bitrix/css/", true, true);
 
         return true;
@@ -74,7 +87,7 @@ class crmgenesis_dealsevents extends CModule{
     public function UnInstallFiles()
     {
 
-        DeleteDirFilesEx("/bitrix/js/".$this->MODULE_ID);
+//        DeleteDirFilesEx("/bitrix/js/".$this->MODULE_ID);
 //        DeleteDirFilesEx("/bitrix/css/crmgenesis/workPanelControl");
 
         //удаление папки itlogic из компонентов, если в ней пусто после удаления своего компонента

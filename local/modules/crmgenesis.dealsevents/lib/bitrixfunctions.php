@@ -46,4 +46,23 @@ class Bitrixfunctions{
         return \Bitrix\Crm\Binding\DealContactTable::getDealContactIDs($dealID);
     }
 
+    //D7 - создание сделки
+    public function addDeal($newDealFields){
+        $result = [
+            'result' => false,
+            'error' => false,
+        ];
+        $obj = new \CAllCrmDeal;
+        $id = $obj->Add($newDealFields);
+        if($id) $result['result'] = $id;
+        else $result['error'] = $obj->LAST_ERROR;
+        return $result;
+    }
+
+    //D7 - обновление сделки
+    public function updateDeal($dealId,$updaFields){
+        $obj = new \CAllCrmDeal;
+        return $res = $obj->Update($dealId,$updaFields);
+    }
+
 }
